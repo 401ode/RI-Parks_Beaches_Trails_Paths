@@ -1,4 +1,4 @@
-<h1> RI-Parks_Beaches </h1>
+<h1> RI-Parks_Beaches_Trails_Paths </h1>
 <h2> Running Collection of RI Park and Beach Data </h2>
 
 ###Looking to compile an open list of Rhode Island
