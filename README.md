@@ -13,6 +13,7 @@
 ###Current State Resoucres Identified
 * [Explore RI] (http://www.exploreri.org/gtraillist.php)
 * [RI State Parks](http://www.riparks.com/index.html)
+* [RI State Park Point Map](http://www.riparks.com/FindALocation.html)
 * [RI Campgroup Map](http://rhodeislandstateparks.reserveamerica.com/generateBrowseMap.do?stateCode=RI&zoom=9&map=BROWSE&long=-71.3507080078125&lat=41.644183479397455&tti=CampgroundMap)
 * [DOT Bike Paths](http://www.dot.ri.gov/community/bikeri/index.php)
 * [RIGIS Bikeways Trails 95', DEM Hiking Trails] (http://www.edc.uri.edu/rigis/data/all.aspx)
