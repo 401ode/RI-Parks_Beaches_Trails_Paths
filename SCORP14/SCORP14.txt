@@ -1,0 +1,435 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Rhode Island Department of Environmental Management
+      Publication_Date: 20141209
+      Title: State Comprehensive Outdoor Recreation Plan Inventory of Facilities; SCORP14
+      Geospatial_Data_Presentation_Form: vector digital data
+      Other_Citation_Details: Suggested bibliographic reference: RIGIS, 2014. State Comprehensive Outdoor Recreation Plan Inventory of Facilities; SCORP14. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.edc.uri.edu/rigis, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 5 December 2014).
+      Online_Linkage: http://www.edc.uri.edu/rigis
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Rhode Island Geographic Information System (RIGIS) Data Distribution System
+          Publication_Date: 1993
+          Title: Rhode Island Geographic Information System (RIGIS)
+          Online_Linkage: http://www.edc.uri.edu/rigis
+  Description:
+    Abstract: Point locations depicting ballfields, playgrounds, basketball & tennis courts, beaches, swimming pools, etc with attribution for facility name, location, ownership, and availability and number of recreational resources on site.
+    Purpose: These vector point data are collected and maintained to track the availability of outdoor recreational facilities maintained by State & Local Government for public use.
+    Supplemental_Information: These data were originally put together to comply with federal rules that required states to submit a State Comprehensive Outdoor Recreation Plan (SCORP) update every 5 years (formerly every ten years) so that state governments would remain eligible for federal funds for facility acquisition and development.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20121203
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned.
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -71.844339
+      East_Bounding_Coordinate: -71.125525
+      North_Bounding_Coordinate: 42.015545
+      South_Bounding_Coordinate: 41.151839
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: structure
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: RIDEM
+      Theme_Keyword: Recreation
+      Theme_Keyword: Planning
+      Theme_Keyword: ballfield
+      Theme_Keyword: playground
+      Theme_Keyword: park
+      Theme_Keyword: basketball court
+      Theme_Keyword: tennis court
+      Theme_Keyword: swimming pool
+      Theme_Keyword: beach
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Rhode Island
+      Place_Keyword: RI
+  Access_Constraints: None
+  Use_Constraints: This dataset is provided 'as is. The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset. Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products. Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.edc.uri.edu/rigis/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: State of Rhode Island, Department of Environmental Management
+        Contact_Person: Paul Jordan
+      Contact_Position: Supervising GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 235 Promenade Street
+        City: Providence
+        State_or_Province: RI
+        Postal_Code: 02908-5767
+        Country: USA
+      Contact_Voice_Telephone: 401-222-2776 x4315
+      Contact_Facsimile_Telephone: 401-222-2069
+      Contact_Electronic_Mail_Address: pjordan@dem.state.ri.us
+      Hours_of_Service: 7:30 am to 3:30 pm
+      Contact_Instructions: e-mail preferred
+  Native_Data_Set_Environment: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.2.3552
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: These data were manualy reviewed to remove those locations in which recreation facilities were open to the public, but not owned by the public (required a fee to enter, such as a driving range or marina). Locations that were also included in state and local conservation (open space) datasets were also removed. Remaining facilities were then verified using local recreation department websites and 2011 aerial imagery for the state of Rhode Island.
+  Logical_Consistency_Report: Data manually reviewed to ensure consistency with local recreation facilities.
+  Completeness_Report: These data are considered complete as determined by the State of Rhode Island Department of Environmental Management GIS Specialist (see Point of Contat).
+  Lineage:
+    Process_Step:
+      Process_Description:
+        The original polygon dataset was modified every 5-10 years to comply with federal rules that required states to submit a State Comprehensive Outdoor Recreation Plan (SCORP) update on a regular basis so that state governments would remain eligible for federal funds for facility acquisition and development.
+        The current version of this SCORP dataset has evolved over the years from the 1990 version. Once state and local openspace (conservation) layers were created (see RIGIS layers StaCons14 and LocCons14 under the Environment and Conservation section), there was no need to continue the SCORP layer as polygon data.  So the centroids were taken from each polygon to create this new point-based layer. Points that were covered by a state or local open space (conservation) polygon layer were deleted. These were then reviewed to ensure that they did indeed represent some form of public outdoor recreational facility (beach, tennis court, playground, etc.).  Golf courses, driving ranges, marinas and other private or fee based outdoor activities were also eliminated as they are open to, but not owned by the public.
+        Recently, these data were the compared to the data gleaned from local recreation department webpages and what can be seen in the 2011 aerial imagery to verify types of facilities and amenities.
+      Process_Date: 20121203
+      Source_Produced_Citation_Abbreviation: SCORP14
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: State of Rhode Island, Department of Environmental Management
+            Contact_Person: Paul Jordan
+          Contact_Position: Supervising GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 235 Promenade Street
+            City: Providence
+            State_or_Province: RI
+            Postal_Code: 02908-5767
+            Country: USA
+          Contact_Voice_Telephone: 401-222-2776 x4315
+          Contact_Facsimile_Telephone: 401-222-2069
+          Contact_Electronic_Mail_Address: pjordan@dem.state.ri.us
+          Hours_of_Service: 7:30 am to 3:30 pm
+          Contact_Instructions: e-mail preferred
+    Process_Step:
+      Process_Description: Data contributed to RIGIS by the Rhode Island Department of Environmental Management. Metadata were reviewed, corrections made to formatting and some modifications were made to the content of the metadata, RIGIS distribution information was also added.
+      Process_Date: 20141209
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: University of Rhode Island Environmental Data Center
+            Contact_Person: Erica Tefft
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-5054
+          Contact_Electronic_Mail_Address: erica_tefft@my.uri.edu
+          Contact_Instructions: email preferred.
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 968
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: NAD 1983 StatePlane Rhode Island FIPS 3800 Feet
+        Transverse_Mercator:
+          Scale_Factor_at_Central_Meridian: 0.99999375
+          Longitude_of_Central_Meridian: -71.5
+          Latitude_of_Projection_Origin: 41.08333333333334
+          False_Easting: 328083.3333333333
+          False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.0003280833333333333
+          Ordinate_Resolution: 0.0003280833333333333
+        Planar_Distance_Units: foot_us
+    Geodetic_Model:
+      Horizontal_Datum_Name: D North American 1983
+      Ellipsoid_Name: GRS 1980
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257222101
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: SCORP14
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: Unique identifier.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique identifiers exist for original SCORP points; all additional points that have subsequently been added to the shapefile will have a unique identifier of 0.
+    Attribute:
+      Attribute_Label: F_Name
+      Attribute_Definition: Name of the recreational facility.
+      Attribute_Definition_Source: University of Rhode Island, Environmental Data Center
+    Attribute:
+      Attribute_Label: F_Type
+      Attribute_Definition: Type of recreational facility.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: AF
+          Enumerated_Domain_Value_Definition: Athletic Field
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FB
+          Enumerated_Domain_Value_Definition: Fishing and Boating
+        Enumerated_Domain:
+          Enumerated_Domain_Value: LP
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MA
+          Enumerated_Domain_Value_Definition: Management Area
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SC
+          Enumerated_Domain_Value_Definition: School
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SP
+          Enumerated_Domain_Value_Definition: State park
+    Attribute:
+      Attribute_Label: Street
+      Attribute_Definition: Street name.
+      Attribute_Definition_Source: University of Rhode Island, Environmental Data Center
+    Attribute:
+      Attribute_Label: Town
+      Attribute_Definition: Town name.
+      Attribute_Definition_Source: University of Rhode Island, Environmental Data Center
+    Attribute:
+      Attribute_Label: OwnerTyp
+      Attribute_Definition: Owner Type
+      Attribute_Definition_Source: University of Rhode Island, Environmental Data Center
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FED
+          Enumerated_Domain_Value_Definition: Federal
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MUN
+          Enumerated_Domain_Value_Definition: Municipal
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Municipal
+          Enumerated_Domain_Value_Definition: Municipal
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NGO
+          Enumerated_Domain_Value_Definition: Non-governmental Organzation
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PRV
+          Enumerated_Domain_Value_Definition: Private
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SCH
+          Enumerated_Domain_Value_Definition: School
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STA
+          Enumerated_Domain_Value_Definition: State
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UNK
+          Enumerated_Domain_Value_Definition: Unknown ownership
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UTL
+          Enumerated_Domain_Value_Definition: Utility
+    Attribute:
+      Attribute_Label: ConsType
+      Attribute_Definition: Conservation Type
+      Attribute_Definition_Source: University of Rhode Island, Environmental Data Center
+    Attribute:
+      Attribute_Label: ConsJuri
+      Attribute_Definition: Conservation jurisdiction
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: FED
+          Enumerated_Domain_Value_Definition: Federal
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MUN
+          Enumerated_Domain_Value_Definition: Municipal
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NGO
+          Enumerated_Domain_Value_Definition: Non-governmental Organization
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NON
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PRV
+          Enumerated_Domain_Value_Definition: Private
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SCH
+          Enumerated_Domain_Value_Definition: School
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STA
+          Enumerated_Domain_Value_Definition: State
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UNK
+          Enumerated_Domain_Value_Definition: Unknown
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UTL
+          Enumerated_Domain_Value_Definition: Utility
+    Attribute:
+      Attribute_Label: P_Ground
+      Attribute_Definition: Number of Playgrounds at recreational facility.
+    Attribute:
+      Attribute_Label: B_Field
+      Attribute_Definition: Number of baseball or softball fields at recreational facility.
+    Attribute:
+      Attribute_Label: S_Field
+      Attribute_Definition: Number of soccer fields at recreational facility.
+    Attribute:
+      Attribute_Label: F_Field
+      Attribute_Definition: Number of football fields at recreational facility.
+    Attribute:
+      Attribute_Label: M_Field
+    Attribute:
+      Attribute_Label: B_Court
+      Attribute_Definition: Number of basketball courts at recreational facility.
+    Attribute:
+      Attribute_Label: T_Court
+      Attribute_Definition: Number of tennis courts at recreational facility.
+    Attribute:
+      Attribute_Label: V_Court
+      Attribute_Definition: Number of volleyball courts at recreational facility.
+    Attribute:
+      Attribute_Label: Track
+      Attribute_Definition: Number of track and field facilities at recreational facility.
+    Attribute:
+      Attribute_Label: SkatPark
+      Attribute_Definition: Number of skate parks at recreational facility.
+    Attribute:
+      Attribute_Label: IH_Rink
+      Attribute_Definition: Number of ice hockey rinks at recreational facility.
+    Attribute:
+      Attribute_Label: SH_Rink
+      Attribute_Definition: Number of street hockey rinks at recreational facility.
+    Attribute:
+      Attribute_Label: Golf
+      Attribute_Definition: Golf course present at recreational facility, yes or no.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No
+    Attribute:
+      Attribute_Label: Fishing
+      Attribute_Definition: Fishing allowed at recreational facility, yes or no.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No
+    Attribute:
+      Attribute_Label: Boating
+      Attribute_Definition: Boating allowed at recreational facility, yes or no.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No
+    Attribute:
+      Attribute_Label: Hunting
+      Attribute_Definition: Hunting allowed at recreational facility, yes or no.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No
+    Attribute:
+      Attribute_Label: Trails
+      Attribute_Definition: Trails available at recreational facility, yes or no.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No
+    Attribute:
+      Attribute_Label: Beach
+      Attribute_Definition: Beach available at recreational facility, yes or no.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No
+    Attribute:
+      Attribute_Label: Pool
+      Attribute_Definition: Pool available at recreational facility, yes or no?
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Yes
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No
+    Attribute:
+      Attribute_Label: Lon
+      Attribute_Definition: Longitude
+    Attribute:
+      Attribute_Label: Lat
+      Attribute_Definition: Latitude
+    Attribute:
+      Attribute_Label: ActiveRec
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Greg Bonynge
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-2180
+      Contact_Electronic_Mail_Address: greg@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.edc.uri.edu/rigis
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.edc.uri.edu/rigis.
+Metadata_Reference_Information:
+  Metadata_Date: 20141203
+  Metadata_Review_Date: 20141209
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: State of Rhode Island, Department of Environmental Management
+        Contact_Person: Paul Jordan
+      Contact_Position: Supervising GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 235 Promenade Street
+        City: Providence
+        State_or_Province: RI
+        Postal_Code: 02908-5767
+        Country: USA
+      Contact_Voice_Telephone: 401-222-2776 x4315
+      Contact_Facsimile_Telephone: 401-222-2069
+      Contact_Electronic_Mail_Address: pjordan@dem.state.ri.us
+      Hours_of_Service: 7:30 am to 3:30 pm
+      Contact_Instructions: e-mail preferred
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
