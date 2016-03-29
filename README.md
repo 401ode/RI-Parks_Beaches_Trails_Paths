@@ -17,15 +17,17 @@
 * [RI State Parks](http://www.riparks.com/index.html)
 * [RI State Park Point Map](http://www.riparks.com/FindALocation.html)
 * [RI Campgroup Map](http://rhodeislandstateparks.reserveamerica.com/generateBrowseMap.do?stateCode=RI&zoom=9&map=BROWSE&long=-71.3507080078125&lat=41.644183479397455&tti=CampgroundMap)
-* [DOT Bike Paths](http://www.dot.ri.gov/community/bikeri/index.php)
-* [RIGIS Bikeways Trails 95', DEM Hiking Trails] (http://www.edc.uri.edu/rigis/data/all.aspx)
+* [RIDOT Bike Paths Information﻿](http://www.dot.ri.gov/community/bikeri/index.php)
+    * [RIDOT Bike Path Map﻿﻿](http://ridot.maps.arcgis.com/apps/MapTour/index.html?appid=4e339b228e5b45e8b7d164c7a267d5d9&webmap=3f4076fb69fd4b4eb52747064a30b161)
+* [RIGIS Data](http://www.edc.uri.edu/rigis/data/all.aspx)
+    * Coastal Recourse Management water access points: fishBoatAcc12
+	* RIDEM all State owned land, can filter to all state parks: staCons14
+	* SCORP14 [State Comprehensive Outdoor Recreation Plan Inventory of Facilities (Shapefile Direct Link)](http://www.edc.uri.edu/rigis/spfdata/structure/SCORP14.zip)
+	* NSTrail15 [North-South Trail (Shapefile Direct Link)](http://www.edc.uri.edu/rigis/spfdata/transportation/NSTrail15.zip)
+	* hikeTrails15 [DEM Hiking Trails (Shapefile Direct Link)](http://www.edc.uri.edu/rigis/spfdata/transportation/hikeTrails15.zip)
+	* Old DOT Data Bikeways Trails 95' and RIDOTbike15
 * [VisitRI Trails/Paths](https://www.visitrhodeisland.com/what-to-do/parks/)
 * [VisitRI Heritage Trails](https://www.visitrhodeisland.com/what-to-do/heritage-trails/)
-* [RIGIS Resources](http://www.edc.uri.edu/rigis/data/all.aspx):
-    * [North-South Trail (Shapefile Direct Link)](http://www.edc.uri.edu/rigis/spfdata/transportation/NSTrail15.zip)
-    * [DEM Hiking Trails (Shapefile Direct Link)](http://www.edc.uri.edu/rigis/spfdata/transportation/hikeTrails15.zip)
-    * [State Comprehensive Outdoor Recreation Plan Inventory of Facilities (Shapefile Direct Link)](http://www.edc.uri.edu/rigis/spfdata/structure/SCORP14.zip)
-
 
 ### Open Trails
 

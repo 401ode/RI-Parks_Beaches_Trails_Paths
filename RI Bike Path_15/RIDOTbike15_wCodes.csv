@@ -1,0 +1,613 @@
+FNODE_,TNODE_,LPOLY_,RPOLY_,LENGTH,GSBI_,GSBI_ID,GWTYPE,CODE Value
+212,214,0,0,4806.715,48,47,13,East Bay Bikeway - State Existing
+214,256,0,0,18364.410,49,48,13,East Bay Bikeway - State Existing
+256,279,0,0,8594.791,50,49,13,East Bay Bikeway - State Existing
+154,139,0,0,2983.800,82,81,13,East Bay Bikeway - State Existing
+162,157,0,0,5018.412,83,82,13,East Bay Bikeway - State Existing
+157,154,0,0,3493.890,84,83,13,East Bay Bikeway - State Existing
+195,212,0,0,6488.205,111,110,13,East Bay Bikeway - State Existing
+162,195,0,0,17307.340,112,111,13,East Bay Bikeway - State Existing
+137,136,0,0,1599.555,113,112,13,East Bay Bikeway - State Existing
+139,137,0,0,226.555,114,113,13,East Bay Bikeway - State Existing
+38,41,0,0,794.985,310,309,7,Trail Corridor - Local Proposed
+45,39,0,0,9694.027,311,310,7,Trail Corridor - Local Proposed
+57,57,0,0,2944.008,312,311,7,Trail Corridor - Local Proposed
+73,83,0,0,3063.023,318,317,7,Trail Corridor - Local Proposed
+64,85,0,0,6898.853,319,318,7,Trail Corridor - Local Proposed
+86,91,0,0,9806.396,321,320,7,Trail Corridor - Local Proposed
+94,95,0,0,1855.697,322,321,7,Trail Corridor - Local Proposed
+99,97,0,0,197.090,323,322,7,Trail Corridor - Local Proposed
+93,99,0,0,7014.820,324,323,7,Trail Corridor - Local Proposed
+102,100,0,0,5371.775,326,325,7,Trail Corridor - Local Proposed
+96,107,0,0,5216.578,327,326,7,Trail Corridor - Local Proposed
+104,110,0,0,4724.156,328,327,7,Trail Corridor - Local Proposed
+165,161,0,0,2047.388,331,330,7,Trail Corridor - Local Proposed
+179,174,0,0,4103.600,333,332,7,Trail Corridor - Local Proposed
+184,166,0,0,12413.990,336,335,7,Trail Corridor - Local Proposed
+185,184,0,0,775.163,337,336,7,Trail Corridor - Local Proposed
+194,178,0,0,10319.880,339,338,7,Trail Corridor - Local Proposed
+254,267,0,0,5012.312,344,343,7,Trail Corridor - Local Proposed
+294,279,0,0,4990.997,349,348,7,Trail Corridor - Local Proposed
+302,306,0,0,1422.059,350,349,7,Trail Corridor - Local Proposed
+306,302,0,0,440.176,351,350,7,Trail Corridor - Local Proposed
+300,309,0,0,960.096,352,351,7,Trail Corridor - Local Proposed
+309,310,0,0,6.597,353,352,7,Trail Corridor - Local Proposed
+310,323,0,0,5196.836,354,353,7,Trail Corridor - Local Proposed
+327,324,0,0,3578.020,355,354,7,Trail Corridor - Local Proposed
+328,327,0,0,342.166,356,355,7,Trail Corridor - Local Proposed
+334,336,0,0,470.856,357,356,7,Trail Corridor - Local Proposed
+336,336,0,0,2592.735,358,357,7,Trail Corridor - Local Proposed
+324,339,0,0,6199.896,359,358,7,Trail Corridor - Local Proposed
+340,340,0,0,3926.507,360,359,7,Trail Corridor - Local Proposed
+364,367,0,0,589.265,362,361,7,Trail Corridor - Local Proposed
+392,398,0,0,5593.248,367,366,7,Trail Corridor - Local Proposed
+417,445,0,0,4369.875,379,378,7,Trail Corridor - Local Proposed
+411,455,0,0,7682.540,381,380,7,Trail Corridor - Local Proposed
+477,480,0,0,6262.884,390,389,7,Trail Corridor - Local Proposed
+326,331,0,0,3602.054,423,422,7,Trail Corridor - Local Proposed
+320,326,0,0,2320.276,424,423,7,Trail Corridor - Local Proposed
+425,402,0,0,5847.098,425,424,7,Trail Corridor - Local Proposed
+53,46,0,0,22805.230,428,427,7,Trail Corridor - Local Proposed
+46,50,0,0,7802.496,429,428,7,Trail Corridor - Local Proposed
+45,46,0,0,8.643,430,429,7,Trail Corridor - Local Proposed
+299,308,0,0,1178.524,445,444,7,Trail Corridor - Local Proposed
+276,278,0,0,704.640,446,445,7,Trail Corridor - Local Proposed
+314,294,0,0,7739.873,447,446,7,Trail Corridor - Local Proposed
+314,313,0,0,287.690,448,447,7,Trail Corridor - Local Proposed
+313,308,0,0,1320.712,449,448,7,Trail Corridor - Local Proposed
+189,199,0,0,2863.702,450,449,7,Trail Corridor - Local Proposed
+205,199,0,0,14658.190,451,450,7,Trail Corridor - Local Proposed
+263,267,0,0,5442.109,453,452,7,Trail Corridor - Local Proposed
+263,276,0,0,6005.646,454,453,7,Trail Corridor - Local Proposed
+227,261,0,0,11336.850,455,454,7,Trail Corridor - Local Proposed
+222,227,0,0,1688.596,456,455,7,Trail Corridor - Local Proposed
+277,276,0,0,1480.447,457,456,7,Trail Corridor - Local Proposed
+280,278,0,0,99.876,458,457,7,Trail Corridor - Local Proposed
+280,291,0,0,3891.509,459,458,7,Trail Corridor - Local Proposed
+267,284,0,0,5860.213,460,459,7,Trail Corridor - Local Proposed
+284,299,0,0,3140.316,461,460,7,Trail Corridor - Local Proposed
+277,282,0,0,3768.078,462,461,7,Trail Corridor - Local Proposed
+282,291,0,0,5294.266,463,462,7,Trail Corridor - Local Proposed
+283,282,0,0,31.635,464,463,7,Trail Corridor - Local Proposed
+289,297,0,0,1969.794,465,464,7,Trail Corridor - Local Proposed
+297,302,0,0,1409.971,466,465,7,Trail Corridor - Local Proposed
+278,290,0,0,2527.344,467,466,7,Trail Corridor - Local Proposed
+289,290,0,0,18.198,468,467,7,Trail Corridor - Local Proposed
+305,313,0,0,8199.439,469,468,7,Trail Corridor - Local Proposed
+298,297,0,0,50.851,470,469,7,Trail Corridor - Local Proposed
+283,285,0,0,2926.160,471,470,7,Trail Corridor - Local Proposed
+285,284,0,0,63.996,472,471,7,Trail Corridor - Local Proposed
+279,288,0,0,5049.116,473,472,7,Trail Corridor - Local Proposed
+288,309,0,0,5241.854,474,473,7,Trail Corridor - Local Proposed
+303,305,0,0,1451.530,475,474,7,Trail Corridor - Local Proposed
+298,301,0,0,493.184,476,475,7,Trail Corridor - Local Proposed
+301,303,0,0,348.351,477,476,7,Trail Corridor - Local Proposed
+296,295,0,0,19.301,478,477,7,Trail Corridor - Local Proposed
+296,300,0,0,812.867,479,478,7,Trail Corridor - Local Proposed
+295,288,0,0,1022.175,480,479,7,Trail Corridor - Local Proposed
+321,327,0,0,5318.412,481,480,7,Trail Corridor - Local Proposed
+321,316,0,0,1859.806,482,481,7,Trail Corridor - Local Proposed
+290,315,0,0,8456.945,483,482,7,Trail Corridor - Local Proposed
+315,303,0,0,2464.417,484,483,7,Trail Corridor - Local Proposed
+316,315,0,0,9.413,485,484,7,Trail Corridor - Local Proposed
+365,374,0,0,4445.989,561,560,7,Trail Corridor - Local Proposed
+374,362,0,0,2570.499,562,561,7,Trail Corridor - Local Proposed
+383,386,0,0,701.056,568,567,7,Trail Corridor - Local Proposed
+373,374,0,0,120.897,569,568,7,Trail Corridor - Local Proposed
+386,373,0,0,8792.125,570,569,7,Trail Corridor - Local Proposed
+363,385,0,0,6064.545,571,570,7,Trail Corridor - Local Proposed
+385,386,0,0,26.696,572,571,7,Trail Corridor - Local Proposed
+398,401,0,0,2474.513,575,574,7,Trail Corridor - Local Proposed
+401,411,0,0,1399.829,576,575,7,Trail Corridor - Local Proposed
+337,338,0,0,6.565,579,578,7,Trail Corridor - Local Proposed
+338,364,0,0,8546.071,580,579,7,Trail Corridor - Local Proposed
+338,341,0,0,3811.350,581,580,7,Trail Corridor - Local Proposed
+331,338,0,0,9708.889,582,581,7,Trail Corridor - Local Proposed
+92,106,0,0,12271.420,585,584,6,North-South Trail Corridor - State Proposed
+18,92,0,0,46539.810,586,585,6,North-South Trail Corridor - State Proposed
+1,18,0,0,9940.306,587,586,6,North-South Trail Corridor - State Proposed
+106,124,0,0,37473.780,588,587,6,North-South Trail Corridor - State Proposed
+159,186,0,0,23817.390,589,588,6,North-South Trail Corridor - State Proposed
+155,159,0,0,5067.517,590,589,6,North-South Trail Corridor - State Proposed
+124,153,0,0,4799.229,591,590,6,North-South Trail Corridor - State Proposed
+153,155,0,0,1596.119,592,591,6,North-South Trail Corridor - State Proposed
+387,432,0,0,20716.410,593,592,6,North-South Trail Corridor - State Proposed
+376,387,0,0,8707.867,594,593,6,North-South Trail Corridor - State Proposed
+346,359,0,0,2394.065,595,594,6,North-South Trail Corridor - State Proposed
+359,376,0,0,5996.062,596,595,6,North-South Trail Corridor - State Proposed
+186,346,0,0,54124.540,597,596,6,North-South Trail Corridor - State Proposed
+432,437,0,0,940.220,598,597,6,North-South Trail Corridor - State Proposed
+437,496,0,0,34104.640,599,598,6,North-South Trail Corridor - State Proposed
+608,620,0,0,19260.340,600,599,6,North-South Trail Corridor - State Proposed
+496,608,0,0,59810.160,601,600,6,North-South Trail Corridor - State Proposed
+9,11,0,0,13.519,305,304,5,Trail Corridor - Local Existing
+25,26,0,0,1399.338,306,305,5,Trail Corridor - Local Existing
+21,34,0,0,1257.537,307,306,5,Trail Corridor - Local Existing
+38,22,0,0,2575.854,308,307,5,Trail Corridor - Local Existing
+36,40,0,0,6607.136,309,308,5,Trail Corridor - Local Existing
+60,61,0,0,5625.955,313,312,5,Trail Corridor - Local Existing
+63,67,0,0,976.240,314,313,5,Trail Corridor - Local Existing
+67,68,0,0,20.283,315,314,5,Trail Corridor - Local Existing
+69,66,0,0,5105.321,316,315,5,Trail Corridor - Local Existing
+81,81,0,0,2967.003,317,316,5,Trail Corridor - Local Existing
+89,90,0,0,2055.350,320,319,5,Trail Corridor - Local Existing
+103,103,0,0,13163.590,325,324,5,Trail Corridor - Local Existing
+114,115,0,0,1916.646,329,328,5,Trail Corridor - Local Existing
+149,150,0,0,22.187,330,329,5,Trail Corridor - Local Existing
+166,171,0,0,3081.088,332,331,5,Trail Corridor - Local Existing
+175,182,0,0,2440.876,334,333,5,Trail Corridor - Local Existing
+177,184,0,0,3955.368,335,334,5,Trail Corridor - Local Existing
+184,193,0,0,5022.345,338,337,5,Trail Corridor - Local Existing
+220,232,0,0,12277.860,340,339,5,Trail Corridor - Local Existing
+233,235,0,0,3575.377,341,340,5,Trail Corridor - Local Existing
+234,242,0,0,5508.654,342,341,5,Trail Corridor - Local Existing
+247,262,0,0,6722.941,343,342,5,Trail Corridor - Local Existing
+268,269,0,0,26.756,345,344,5,Trail Corridor - Local Existing
+269,269,0,0,1521.502,346,345,5,Trail Corridor - Local Existing
+269,273,0,0,2460.666,347,346,5,Trail Corridor - Local Existing
+272,274,0,0,1142.284,348,347,5,Trail Corridor - Local Existing
+353,356,0,0,461.525,361,360,5,Trail Corridor - Local Existing
+380,378,0,0,2937.331,363,362,5,Trail Corridor - Local Existing
+370,381,0,0,3648.764,364,363,5,Trail Corridor - Local Existing
+389,390,0,0,17.742,365,364,5,Trail Corridor - Local Existing
+388,393,0,0,2877.025,366,365,5,Trail Corridor - Local Existing
+405,404,0,0,1090.527,368,367,5,Trail Corridor - Local Existing
+395,407,0,0,7557.213,369,368,5,Trail Corridor - Local Existing
+390,410,0,0,31259.210,370,369,5,Trail Corridor - Local Existing
+427,426,0,0,573.649,371,370,5,Trail Corridor - Local Existing
+424,427,0,0,1109.880,372,371,5,Trail Corridor - Local Existing
+427,427,0,0,709.883,373,372,5,Trail Corridor - Local Existing
+404,428,0,0,4136.935,374,373,5,Trail Corridor - Local Existing
+410,433,0,0,4184.977,375,374,5,Trail Corridor - Local Existing
+433,434,0,0,19.677,376,375,5,Trail Corridor - Local Existing
+434,435,0,0,174.106,377,376,5,Trail Corridor - Local Existing
+438,430,0,0,726.241,378,377,5,Trail Corridor - Local Existing
+438,447,0,0,1255.808,380,379,5,Trail Corridor - Local Existing
+429,463,0,0,4499.629,382,381,5,Trail Corridor - Local Existing
+465,447,0,0,4083.921,383,382,5,Trail Corridor - Local Existing
+469,467,0,0,719.224,384,383,5,Trail Corridor - Local Existing
+468,469,0,0,42.657,385,384,5,Trail Corridor - Local Existing
+448,470,0,0,4649.266,386,385,5,Trail Corridor - Local Existing
+466,474,0,0,954.565,387,386,5,Trail Corridor - Local Existing
+469,475,0,0,641.290,388,387,5,Trail Corridor - Local Existing
+472,476,0,0,2018.368,389,388,5,Trail Corridor - Local Existing
+488,501,0,0,8123.676,391,390,5,Trail Corridor - Local Existing
+501,504,0,0,427.747,392,391,5,Trail Corridor - Local Existing
+516,521,0,0,9663.261,393,392,5,Trail Corridor - Local Existing
+505,538,0,0,11222.460,394,393,5,Trail Corridor - Local Existing
+520,540,0,0,5185.603,395,394,5,Trail Corridor - Local Existing
+526,544,0,0,4583.585,396,395,5,Trail Corridor - Local Existing
+539,522,0,0,25450.520,397,396,5,Trail Corridor - Local Existing
+549,555,0,0,2985.097,398,397,5,Trail Corridor - Local Existing
+555,556,0,0,38.505,399,398,5,Trail Corridor - Local Existing
+570,568,0,0,299.795,400,399,5,Trail Corridor - Local Existing
+581,582,0,0,2008.231,401,400,5,Trail Corridor - Local Existing
+583,585,0,0,1722.994,402,401,5,Trail Corridor - Local Existing
+584,585,0,0,1106.958,403,402,5,Trail Corridor - Local Existing
+585,588,0,0,865.961,404,403,5,Trail Corridor - Local Existing
+592,594,0,0,4572.648,405,404,5,Trail Corridor - Local Existing
+629,628,0,0,38.979,406,405,5,Trail Corridor - Local Existing
+632,630,0,0,178.896,407,406,5,Trail Corridor - Local Existing
+637,634,0,0,4014.418,408,407,5,Trail Corridor - Local Existing
+636,638,0,0,393.229,409,408,5,Trail Corridor - Local Existing
+645,642,0,0,316.199,410,409,5,Trail Corridor - Local Existing
+645,646,0,0,184.134,411,410,5,Trail Corridor - Local Existing
+640,646,0,0,473.235,412,411,5,Trail Corridor - Local Existing
+646,644,0,0,166.749,413,412,5,Trail Corridor - Local Existing
+651,645,0,0,662.874,414,413,5,Trail Corridor - Local Existing
+646,651,0,0,524.327,415,414,5,Trail Corridor - Local Existing
+651,652,0,0,125.299,416,415,5,Trail Corridor - Local Existing
+638,654,0,0,1747.278,417,416,5,Trail Corridor - Local Existing
+653,655,0,0,339.314,418,417,5,Trail Corridor - Local Existing
+650,657,0,0,2760.816,419,418,5,Trail Corridor - Local Existing
+657,658,0,0,1088.133,420,419,5,Trail Corridor - Local Existing
+659,662,0,0,480.642,421,420,5,Trail Corridor - Local Existing
+568,564,0,0,578.941,422,421,5,Trail Corridor - Local Existing
+207,208,0,0,313.282,426,425,5,Trail Corridor - Local Existing
+209,210,0,0,261.737,427,426,5,Trail Corridor - Local Existing
+79,80,0,0,6389.185,431,430,5,Trail Corridor - Local Existing
+80,79,0,0,109.032,432,431,5,Trail Corridor - Local Existing
+82,62,0,0,10562.790,433,432,5,Trail Corridor - Local Existing
+62,79,0,0,3989.948,434,433,5,Trail Corridor - Local Existing
+63,62,0,0,57.438,435,434,5,Trail Corridor - Local Existing
+11,10,0,0,2513.061,436,435,5,Trail Corridor - Local Existing
+10,13,0,0,1685.734,437,436,5,Trail Corridor - Local Existing
+8,10,0,0,29.568,438,437,5,Trail Corridor - Local Existing
+40,42,0,0,720.618,439,438,5,Trail Corridor - Local Existing
+42,17,0,0,6148.367,440,439,5,Trail Corridor - Local Existing
+43,42,0,0,77.049,441,440,5,Trail Corridor - Local Existing
+151,142,0,0,3383.377,442,441,5,Trail Corridor - Local Existing
+43,47,0,0,2534.478,443,442,5,Trail Corridor - Local Existing
+4,8,0,0,1595.258,444,443,5,Trail Corridor - Local Existing
+178,180,0,0,2544.329,452,451,5,Trail Corridor - Local Existing
+462,464,0,0,1394.499,486,485,5,Trail Corridor - Local Existing
+464,465,0,0,637.448,487,486,5,Trail Corridor - Local Existing
+466,464,0,0,87.088,488,487,5,Trail Corridor - Local Existing
+447,471,0,0,9637.497,489,488,5,Trail Corridor - Local Existing
+471,465,0,0,635.866,490,489,5,Trail Corridor - Local Existing
+472,471,0,0,11.469,491,490,5,Trail Corridor - Local Existing
+397,396,0,0,49.397,492,491,5,Trail Corridor - Local Existing
+391,394,0,0,1922.819,493,492,5,Trail Corridor - Local Existing
+394,396,0,0,2805.941,494,493,5,Trail Corridor - Local Existing
+393,394,0,0,87.269,495,494,5,Trail Corridor - Local Existing
+348,352,0,0,836.234,496,495,5,Trail Corridor - Local Existing
+352,355,0,0,628.469,497,496,5,Trail Corridor - Local Existing
+353,352,0,0,86.213,498,497,5,Trail Corridor - Local Existing
+357,355,0,0,103.059,499,498,5,Trail Corridor - Local Existing
+368,371,0,0,140.472,500,499,5,Trail Corridor - Local Existing
+357,369,0,0,5161.651,501,500,5,Trail Corridor - Local Existing
+370,369,0,0,82.907,502,501,5,Trail Corridor - Local Existing
+377,379,0,0,1510.252,503,502,5,Trail Corridor - Local Existing
+379,382,0,0,1634.828,504,503,5,Trail Corridor - Local Existing
+378,379,0,0,52.366,505,504,5,Trail Corridor - Local Existing
+423,416,0,0,1181.029,506,505,5,Trail Corridor - Local Existing
+421,423,0,0,219.705,507,506,5,Trail Corridor - Local Existing
+423,438,0,0,5421.934,508,507,5,Trail Corridor - Local Existing
+406,422,0,0,1654.356,509,508,5,Trail Corridor - Local Existing
+422,405,0,0,1821.150,510,509,5,Trail Corridor - Local Existing
+421,422,0,0,178.559,511,510,5,Trail Corridor - Local Existing
+369,371,0,0,1042.923,512,511,5,Trail Corridor - Local Existing
+356,358,0,0,126.514,513,512,5,Trail Corridor - Local Existing
+358,368,0,0,3978.465,514,513,5,Trail Corridor - Local Existing
+396,400,0,0,2783.372,515,514,5,Trail Corridor - Local Existing
+400,406,0,0,939.923,516,515,5,Trail Corridor - Local Existing
+399,400,0,0,29.508,517,516,5,Trail Corridor - Local Existing
+397,399,0,0,5836.217,518,517,5,Trail Corridor - Local Existing
+585,586,0,0,372.196,519,518,5,Trail Corridor - Local Existing
+586,589,0,0,720.521,520,519,5,Trail Corridor - Local Existing
+587,586,0,0,47.055,521,520,5,Trail Corridor - Local Existing
+648,651,0,0,490.585,522,521,5,Trail Corridor - Local Existing
+643,648,0,0,300.746,523,522,5,Trail Corridor - Local Existing
+644,643,0,0,26.201,524,523,5,Trail Corridor - Local Existing
+638,641,0,0,502.208,525,524,5,Trail Corridor - Local Existing
+642,641,0,0,28.167,526,525,5,Trail Corridor - Local Existing
+641,639,0,0,212.369,527,526,5,Trail Corridor - Local Existing
+639,643,0,0,501.639,528,527,5,Trail Corridor - Local Existing
+640,639,0,0,11.484,529,528,5,Trail Corridor - Local Existing
+509,517,0,0,2842.698,530,529,5,Trail Corridor - Local Existing
+510,509,0,0,30.141,531,530,5,Trail Corridor - Local Existing
+590,595,0,0,3328.938,532,531,5,Trail Corridor - Local Existing
+595,597,0,0,2214.342,533,532,5,Trail Corridor - Local Existing
+594,595,0,0,38.582,534,533,5,Trail Corridor - Local Existing
+487,492,0,0,10014.420,535,534,5,Trail Corridor - Local Existing
+492,489,0,0,7741.058,536,535,5,Trail Corridor - Local Existing
+647,649,0,0,1338.907,537,536,5,Trail Corridor - Local Existing
+647,648,0,0,53.714,538,537,5,Trail Corridor - Local Existing
+493,492,0,0,149.478,539,538,5,Trail Corridor - Local Existing
+493,494,0,0,950.806,540,539,5,Trail Corridor - Local Existing
+494,509,0,0,7589.255,541,540,5,Trail Corridor - Local Existing
+510,515,0,0,4002.698,542,541,5,Trail Corridor - Local Existing
+587,591,0,0,3067.728,543,542,5,Trail Corridor - Local Existing
+662,665,0,0,1429.301,544,543,5,Trail Corridor - Local Existing
+665,666,0,0,2326.640,545,544,5,Trail Corridor - Local Existing
+662,660,0,0,204.152,546,545,5,Trail Corridor - Local Existing
+660,664,0,0,3659.398,547,546,5,Trail Corridor - Local Existing
+661,663,0,0,1117.066,548,547,5,Trail Corridor - Local Existing
+661,660,0,0,58.466,549,548,5,Trail Corridor - Local Existing
+664,665,0,0,67.805,550,549,5,Trail Corridor - Local Existing
+540,542,0,0,1898.831,551,550,5,Trail Corridor - Local Existing
+536,533,0,0,5682.692,552,551,5,Trail Corridor - Local Existing
+533,532,0,0,392.719,553,552,5,Trail Corridor - Local Existing
+534,533,0,0,120.169,554,553,5,Trail Corridor - Local Existing
+541,540,0,0,638.785,555,554,5,Trail Corridor - Local Existing
+541,542,0,0,167.083,556,555,5,Trail Corridor - Local Existing
+535,534,0,0,297.692,557,556,5,Trail Corridor - Local Existing
+535,536,0,0,126.231,558,557,5,Trail Corridor - Local Existing
+537,537,0,0,0.000,559,558,5,Trail Corridor - Local Existing
+542,537,0,0,2588.459,560,559,5,Trail Corridor - Local Existing
+325,330,0,0,2054.234,563,562,5,Trail Corridor - Local Existing
+453,457,0,0,1002.228,564,563,5,Trail Corridor - Local Existing
+457,468,0,0,2431.274,565,564,5,Trail Corridor - Local Existing
+330,344,0,0,5152.583,566,565,5,Trail Corridor - Local Existing
+344,343,0,0,1453.380,567,566,5,Trail Corridor - Local Existing
+345,366,0,0,6780.537,573,572,5,Trail Corridor - Local Existing
+345,344,0,0,77.368,574,573,5,Trail Corridor - Local Existing
+459,468,0,0,2445.495,577,576,5,Trail Corridor - Local Existing
+459,457,0,0,54.988,578,577,5,Trail Corridor - Local Existing
+318,329,0,0,7771.227,583,582,5,Trail Corridor - Local Existing
+329,330,0,0,68.678,584,583,5,Trail Corridor - Local Existing
+27,23,0,0,1529.115,155,154,2, Bikeway/Bike route - Local Proposed
+16,29,0,0,3549.461,156,155,2, Bikeway/Bike route - Local Proposed
+31,32,0,0,19.077,157,156,2, Bikeway/Bike route - Local Proposed
+70,71,0,0,44.140,158,157,2, Bikeway/Bike route - Local Proposed
+71,74,0,0,388.467,159,158,2, Bikeway/Bike route - Local Proposed
+75,72,0,0,777.286,160,159,2, Bikeway/Bike route - Local Proposed
+76,75,0,0,124.193,161,160,2, Bikeway/Bike route - Local Proposed
+74,76,0,0,457.839,162,161,2, Bikeway/Bike route - Local Proposed
+65,67,0,0,4789.309,163,162,2, Bikeway/Bike route - Local Proposed
+67,78,0,0,1754.541,164,163,2, Bikeway/Bike route - Local Proposed
+87,88,0,0,201.646,165,164,2, Bikeway/Bike route - Local Proposed
+98,99,0,0,24.508,166,165,2, Bikeway/Bike route - Local Proposed
+99,101,0,0,2008.568,167,166,2, Bikeway/Bike route - Local Proposed
+126,111,0,0,20517.420,168,167,2, Bikeway/Bike route - Local Proposed
+130,131,0,0,27.679,169,168,2, Bikeway/Bike route - Local Proposed
+131,132,0,0,88.223,170,169,2, Bikeway/Bike route - Local Proposed
+160,158,0,0,1636.937,171,170,2, Bikeway/Bike route - Local Proposed
+164,163,0,0,1290.047,172,171,2, Bikeway/Bike route - Local Proposed
+165,168,0,0,2201.194,173,172,2, Bikeway/Bike route - Local Proposed
+176,181,0,0,3132.211,174,173,2, Bikeway/Bike route - Local Proposed
+183,187,0,0,5990.233,175,174,2, Bikeway/Bike route - Local Proposed
+201,212,0,0,4661.925,176,175,2, Bikeway/Bike route - Local Proposed
+210,213,0,0,1637.788,177,176,2, Bikeway/Bike route - Local Proposed
+206,214,0,0,7048.782,178,177,2, Bikeway/Bike route - Local Proposed
+214,216,0,0,80.512,179,178,2, Bikeway/Bike route - Local Proposed
+198,217,0,0,4888.754,180,179,2, Bikeway/Bike route - Local Proposed
+212,219,0,0,2548.294,181,180,2, Bikeway/Bike route - Local Proposed
+192,223,0,0,11439.670,182,181,2, Bikeway/Bike route - Local Proposed
+230,231,0,0,218.930,183,182,2, Bikeway/Bike route - Local Proposed
+216,238,0,0,7292.647,184,183,2, Bikeway/Bike route - Local Proposed
+239,245,0,0,37362.140,185,184,2, Bikeway/Bike route - Local Proposed
+243,245,0,0,171.647,186,185,2, Bikeway/Bike route - Local Proposed
+245,255,0,0,5477.832,187,186,2, Bikeway/Bike route - Local Proposed
+252,256,0,0,8547.394,188,187,2, Bikeway/Bike route - Local Proposed
+221,270,0,0,13992.600,189,188,2, Bikeway/Bike route - Local Proposed
+259,275,0,0,5991.359,190,189,2, Bikeway/Bike route - Local Proposed
+271,271,0,0,7955.400,191,190,2, Bikeway/Bike route - Local Proposed
+264,286,0,0,6881.809,192,191,2, Bikeway/Bike route - Local Proposed
+275,275,0,0,16812.120,193,192,2, Bikeway/Bike route - Local Proposed
+307,304,0,0,1487.031,194,193,2, Bikeway/Bike route - Local Proposed
+279,312,0,0,5796.494,195,194,2, Bikeway/Bike route - Local Proposed
+317,307,0,0,10894.950,196,195,2, Bikeway/Bike route - Local Proposed
+307,319,0,0,3049.413,197,196,2, Bikeway/Bike route - Local Proposed
+342,333,0,0,2853.750,198,197,2, Bikeway/Bike route - Local Proposed
+350,349,0,0,75.454,199,198,2, Bikeway/Bike route - Local Proposed
+361,360,0,0,378.735,200,199,2, Bikeway/Bike route - Local Proposed
+367,384,0,0,6704.495,201,200,2, Bikeway/Bike route - Local Proposed
+404,405,0,0,1024.466,202,201,2, Bikeway/Bike route - Local Proposed
+405,406,0,0,1485.593,203,202,2, Bikeway/Bike route - Local Proposed
+410,411,0,0,20580.660,204,203,2, Bikeway/Bike route - Local Proposed
+408,412,0,0,3674.805,205,204,2, Bikeway/Bike route - Local Proposed
+411,412,0,0,672.976,206,205,2, Bikeway/Bike route - Local Proposed
+413,410,0,0,2045.055,207,206,2, Bikeway/Bike route - Local Proposed
+418,413,0,0,3077.273,208,207,2, Bikeway/Bike route - Local Proposed
+406,420,0,0,2966.315,209,208,2, Bikeway/Bike route - Local Proposed
+432,431,0,0,108.054,210,209,2, Bikeway/Bike route - Local Proposed
+433,431,0,0,452.441,211,210,2, Bikeway/Bike route - Local Proposed
+436,433,0,0,328.999,212,211,2, Bikeway/Bike route - Local Proposed
+439,436,0,0,134.486,213,212,2, Bikeway/Bike route - Local Proposed
+440,441,0,0,121.814,214,213,2, Bikeway/Bike route - Local Proposed
+441,442,0,0,22.492,215,214,2, Bikeway/Bike route - Local Proposed
+439,442,0,0,547.856,216,215,2, Bikeway/Bike route - Local Proposed
+443,444,0,0,148.202,217,216,2, Bikeway/Bike route - Local Proposed
+442,458,0,0,3464.685,218,217,2, Bikeway/Bike route - Local Proposed
+460,456,0,0,235.574,219,218,2, Bikeway/Bike route - Local Proposed
+458,446,0,0,5840.875,220,219,2, Bikeway/Bike route - Local Proposed
+419,460,0,0,11845.660,221,220,2, Bikeway/Bike route - Local Proposed
+484,483,0,0,2608.286,222,221,2, Bikeway/Bike route - Local Proposed
+483,486,0,0,196.944,223,222,2, Bikeway/Bike route - Local Proposed
+473,490,0,0,20337.360,224,223,2, Bikeway/Bike route - Local Proposed
+484,491,0,0,4708.918,225,224,2, Bikeway/Bike route - Local Proposed
+514,518,0,0,3316.385,226,225,2, Bikeway/Bike route - Local Proposed
+530,529,0,0,692.626,227,226,2, Bikeway/Bike route - Local Proposed
+525,531,0,0,2742.246,228,227,2, Bikeway/Bike route - Local Proposed
+523,545,0,0,7390.876,229,228,2, Bikeway/Bike route - Local Proposed
+518,550,0,0,20039.100,230,229,2, Bikeway/Bike route - Local Proposed
+553,548,0,0,913.306,231,230,2, Bikeway/Bike route - Local Proposed
+555,546,0,0,3060.852,232,231,2, Bikeway/Bike route - Local Proposed
+559,562,0,0,1909.796,233,232,2, Bikeway/Bike route - Local Proposed
+563,562,0,0,55.871,234,233,2, Bikeway/Bike route - Local Proposed
+562,566,0,0,140.626,235,234,2, Bikeway/Bike route - Local Proposed
+562,561,0,0,9525.565,236,235,2, Bikeway/Bike route - Local Proposed
+554,569,0,0,7768.383,237,236,2, Bikeway/Bike route - Local Proposed
+545,573,0,0,10650.330,238,237,2, Bikeway/Bike route - Local Proposed
+579,580,0,0,347.871,239,238,2, Bikeway/Bike route - Local Proposed
+593,596,0,0,330.867,240,239,2, Bikeway/Bike route - Local Proposed
+610,612,0,0,3015.946,241,240,2, Bikeway/Bike route - Local Proposed
+611,615,0,0,1328.557,242,241,2, Bikeway/Bike route - Local Proposed
+612,616,0,0,979.170,243,242,2, Bikeway/Bike route - Local Proposed
+571,598,0,0,15338.510,244,243,2, Bikeway/Bike route - Local Proposed
+551,550,0,0,841.053,245,244,2, Bikeway/Bike route - Local Proposed
+568,567,0,0,403.618,246,245,2, Bikeway/Bike route - Local Proposed
+444,450,0,0,910.294,247,246,2, Bikeway/Bike route - Local Proposed
+360,350,0,0,1811.029,248,247,2, Bikeway/Bike route - Local Proposed
+141,143,0,0,80.777,249,248,2, Bikeway/Bike route - Local Proposed
+48,49,0,0,1898.813,250,249,2, Bikeway/Bike route - Local Proposed
+409,418,0,0,7972.415,251,250,2, Bikeway/Bike route - Local Proposed
+409,404,0,0,6224.106,252,251,2, Bikeway/Bike route - Local Proposed
+33,28,0,0,6671.284,253,252,2, Bikeway/Bike route - Local Proposed
+28,29,0,0,1855.067,254,253,2, Bikeway/Bike route - Local Proposed
+54,56,0,0,7295.430,255,254,2, Bikeway/Bike route - Local Proposed
+48,56,0,0,10810.250,256,255,2, Bikeway/Bike route - Local Proposed
+116,116,0,0,65447.830,257,256,2, Bikeway/Bike route - Local Proposed
+450,454,0,0,754.799,258,257,2, Bikeway/Bike route - Local Proposed
+456,454,0,0,1588.470,259,258,2, Bikeway/Bike route - Local Proposed
+156,169,0,0,10026.280,260,259,2, Bikeway/Bike route - Local Proposed
+169,172,0,0,1585.773,261,260,2, Bikeway/Bike route - Local Proposed
+170,169,0,0,10796.460,262,261,2, Bikeway/Bike route - Local Proposed
+113,121,0,0,11077.390,263,262,2, Bikeway/Bike route - Local Proposed
+121,138,0,0,4818.848,264,263,2, Bikeway/Bike route - Local Proposed
+117,128,0,0,7073.979,265,264,2, Bikeway/Bike route - Local Proposed
+128,126,0,0,649.726,266,265,2, Bikeway/Bike route - Local Proposed
+486,500,0,0,9332.265,267,266,2, Bikeway/Bike route - Local Proposed
+500,546,0,0,18579.000,268,267,2, Bikeway/Bike route - Local Proposed
+503,507,0,0,2462.034,269,268,2, Bikeway/Bike route - Local Proposed
+524,527,0,0,3612.861,270,269,2, Bikeway/Bike route - Local Proposed
+525,524,0,0,102.049,271,270,2, Bikeway/Bike route - Local Proposed
+507,512,0,0,1009.461,272,271,2, Bikeway/Bike route - Local Proposed
+512,524,0,0,3172.712,273,272,2, Bikeway/Bike route - Local Proposed
+491,499,0,0,6077.643,274,273,2, Bikeway/Bike route - Local Proposed
+499,503,0,0,486.577,275,274,2, Bikeway/Bike route - Local Proposed
+498,499,0,0,57.486,276,275,2, Bikeway/Bike route - Local Proposed
+507,511,0,0,1020.644,277,276,2, Bikeway/Bike route - Local Proposed
+511,512,0,0,144.370,278,277,2, Bikeway/Bike route - Local Proposed
+491,498,0,0,4890.589,279,278,2, Bikeway/Bike route - Local Proposed
+611,614,0,0,2637.287,280,279,2, Bikeway/Bike route - Local Proposed
+612,614,0,0,1503.554,281,280,2, Bikeway/Bike route - Local Proposed
+546,547,0,0,155.845,282,281,2, Bikeway/Bike route - Local Proposed
+547,555,0,0,2467.106,283,282,2, Bikeway/Bike route - Local Proposed
+548,547,0,0,37.805,284,283,2, Bikeway/Bike route - Local Proposed
+196,202,0,0,718.823,285,284,2, Bikeway/Bike route - Local Proposed
+202,211,0,0,4633.163,286,285,2, Bikeway/Bike route - Local Proposed
+203,202,0,0,43.800,287,286,2, Bikeway/Bike route - Local Proposed
+197,200,0,0,1752.538,288,287,2, Bikeway/Bike route - Local Proposed
+200,203,0,0,1951.715,289,288,2, Bikeway/Bike route - Local Proposed
+201,200,0,0,42.651,290,289,2, Bikeway/Bike route - Local Proposed
+560,577,0,0,4537.399,291,290,2, Bikeway/Bike route - Local Proposed
+558,560,0,0,1469.050,292,291,2, Bikeway/Bike route - Local Proposed
+567,560,0,0,5263.242,293,292,2, Bikeway/Bike route - Local Proposed
+236,257,0,0,9248.097,294,293,2, Bikeway/Bike route - Local Proposed
+257,266,0,0,3667.486,295,294,2, Bikeway/Bike route - Local Proposed
+281,292,0,0,2783.280,296,295,2, Bikeway/Bike route - Local Proposed
+292,307,0,0,2104.808,297,296,2, Bikeway/Bike route - Local Proposed
+287,293,0,0,3395.052,298,297,2, Bikeway/Bike route - Local Proposed
+293,292,0,0,36.187,299,298,2, Bikeway/Bike route - Local Proposed
+173,188,0,0,5992.567,300,299,2, Bikeway/Bike route - Local Proposed
+188,191,0,0,2153.056,301,300,2, Bikeway/Bike route - Local Proposed
+187,188,0,0,37.174,302,301,2, Bikeway/Bike route - Local Proposed
+461,483,0,0,13967.890,303,302,2, Bikeway/Bike route - Local Proposed
+461,484,0,0,20764.950,304,303,2, Bikeway/Bike route - Local Proposed
+44,51,0,0,7945.727,1,0,1,Bikeway/Bike route - State Proposed
+55,52,0,0,3567.064,2,1,1,Bikeway/Bike route - State Proposed
+37,59,0,0,22637.570,3,2,1,Bikeway/Bike route - State Proposed
+59,71,0,0,7668.845,4,3,1,Bikeway/Bike route - State Proposed
+71,74,0,0,389.406,5,4,1,Bikeway/Bike route - State Proposed
+255,251,0,0,36787.520,6,5,1,Bikeway/Bike route - State Proposed
+513,506,0,0,2729.221,7,6,1,Bikeway/Bike route - State Proposed
+519,513,0,0,1674.941,8,7,1,Bikeway/Bike route - State Proposed
+335,322,0,0,9763.711,9,8,1,Bikeway/Bike route - State Proposed
+627,629,0,0,19319.960,10,9,1,Bikeway/Bike route - State Proposed
+629,635,0,0,2363.520,11,10,1,Bikeway/Bike route - State Proposed
+630,629,0,0,2069.327,12,11,1,Bikeway/Bike route - State Proposed
+622,624,0,0,186.211,13,12,1,Bikeway/Bike route - State Proposed
+545,543,0,0,7493.658,14,13,1,Bikeway/Bike route - State Proposed
+601,603,0,0,1757.855,15,14,1,Bikeway/Bike route - State Proposed
+604,609,0,0,4428.024,16,15,1,Bikeway/Bike route - State Proposed
+618,617,0,0,1421.878,17,16,1,Bikeway/Bike route - State Proposed
+617,613,0,0,257.276,18,17,1,Bikeway/Bike route - State Proposed
+609,613,0,0,2574.116,19,18,1,Bikeway/Bike route - State Proposed
+479,482,0,0,7075.114,20,19,1,Bikeway/Bike route - State Proposed
+482,497,0,0,12785.550,21,20,1,Bikeway/Bike route - State Proposed
+478,479,0,0,2836.680,22,21,1,Bikeway/Bike route - State Proposed
+229,230,0,0,102.834,23,22,1,Bikeway/Bike route - State Proposed
+230,231,0,0,219.120,24,23,1,Bikeway/Bike route - State Proposed
+240,241,0,0,10.366,25,24,1,Bikeway/Bike route - State Proposed
+249,250,0,0,77.368,26,25,1,Bikeway/Bike route - State Proposed
+249,250,0,0,76.736,27,26,1,Bikeway/Bike route - State Proposed
+231,237,0,0,1687.715,28,27,1,Bikeway/Bike route - State Proposed
+237,240,0,0,205.645,29,28,1,Bikeway/Bike route - State Proposed
+237,240,0,0,205.813,30,29,1,Bikeway/Bike route - State Proposed
+241,244,0,0,1034.111,31,30,1,Bikeway/Bike route - State Proposed
+244,246,0,0,40.024,32,31,1,Bikeway/Bike route - State Proposed
+246,248,0,0,1301.685,33,32,1,Bikeway/Bike route - State Proposed
+326,320,0,0,2232.577,34,33,1,Bikeway/Bike route - State Proposed
+332,326,0,0,3521.055,35,34,1,Bikeway/Bike route - State Proposed
+218,224,0,0,2024.980,36,35,1,Bikeway/Bike route - State Proposed
+224,229,0,0,846.100,37,36,1,Bikeway/Bike route - State Proposed
+123,122,0,0,99.011,38,37,1,Bikeway/Bike route - State Proposed
+122,123,0,0,100.316,39,38,1,Bikeway/Bike route - State Proposed
+127,125,0,0,166.094,40,39,1,Bikeway/Bike route - State Proposed
+125,127,0,0,160.314,41,40,1,Bikeway/Bike route - State Proposed
+123,125,0,0,751.468,42,41,1,Bikeway/Bike route - State Proposed
+224,229,0,0,845.896,43,42,1,Bikeway/Bike route - State Proposed
+122,120,0,0,1572.577,44,43,1,Bikeway/Bike route - State Proposed
+120,122,0,0,1573.788,45,44,1,Bikeway/Bike route - State Proposed
+135,140,0,0,358.447,46,45,1,Bikeway/Bike route - State Proposed
+140,144,0,0,76.877,47,46,1,Bikeway/Bike route - State Proposed
+250,251,0,0,1116.050,51,50,1,Bikeway/Bike route - State Proposed
+248,249,0,0,681.681,52,51,1,Bikeway/Bike route - State Proposed
+335,347,0,0,6214.289,53,52,1,Bikeway/Bike route - State Proposed
+495,502,0,0,12116.540,54,53,1,Bikeway/Bike route - State Proposed
+482,485,0,0,12313.390,55,54,1,Bikeway/Bike route - State Proposed
+485,495,0,0,10292.150,56,55,1,Bikeway/Bike route - State Proposed
+58,87,0,0,39054.200,57,56,1,Bikeway/Bike route - State Proposed
+58,55,0,0,23819.610,58,57,1,Bikeway/Bike route - State Proposed
+24,26,0,0,2344.503,59,58,1,Bikeway/Bike route - State Proposed
+3,24,0,0,6803.279,60,59,1,Bikeway/Bike route - State Proposed
+20,26,0,0,4673.697,61,60,1,Bikeway/Bike route - State Proposed
+35,20,0,0,1648.410,62,61,1,Bikeway/Bike route - State Proposed
+35,37,0,0,360.084,63,62,1,Bikeway/Bike route - State Proposed
+74,77,0,0,466.795,64,63,1,Bikeway/Bike route - State Proposed
+77,105,0,0,25042.170,65,64,1,Bikeway/Bike route - State Proposed
+84,77,0,0,18790.770,66,65,1,Bikeway/Bike route - State Proposed
+84,87,0,0,12623.300,67,66,1,Bikeway/Bike route - State Proposed
+109,108,0,0,449.182,68,67,1,Bikeway/Bike route - State Proposed
+87,108,0,0,16795.220,69,68,1,Bikeway/Bike route - State Proposed
+112,105,0,0,4681.916,70,69,1,Bikeway/Bike route - State Proposed
+129,133,0,0,9405.828,71,70,1,Bikeway/Bike route - State Proposed
+118,120,0,0,1092.472,72,71,1,Bikeway/Bike route - State Proposed
+112,118,0,0,16130.610,73,72,1,Bikeway/Bike route - State Proposed
+148,129,0,0,1774.007,74,73,1,Bikeway/Bike route - State Proposed
+135,134,0,0,1.626,75,74,1,Bikeway/Bike route - State Proposed
+134,127,0,0,2556.750,76,75,1,Bikeway/Bike route - State Proposed
+136,134,0,0,50.773,77,76,1,Bikeway/Bike route - State Proposed
+145,147,0,0,14.596,78,77,1,Bikeway/Bike route - State Proposed
+146,147,0,0,37.661,79,78,1,Bikeway/Bike route - State Proposed
+144,146,0,0,50.644,80,79,1,Bikeway/Bike route - State Proposed
+148,145,0,0,3647.659,81,80,1,Bikeway/Bike route - State Proposed
+109,119,0,0,19676.800,85,84,1,Bikeway/Bike route - State Proposed
+133,152,0,0,4068.148,86,85,1,Bikeway/Bike route - State Proposed
+152,165,0,0,9499.275,87,86,1,Bikeway/Bike route - State Proposed
+119,152,0,0,6906.612,88,87,1,Bikeway/Bike route - State Proposed
+167,165,0,0,854.650,89,88,1,Bikeway/Bike route - State Proposed
+657,631,0,0,18531.600,90,89,1,Bikeway/Bike route - State Proposed
+631,630,0,0,13.991,91,90,1,Bikeway/Bike route - State Proposed
+656,657,0,0,4828.488,92,91,1,Bikeway/Bike route - State Proposed
+635,656,0,0,22164.600,93,92,1,Bikeway/Bike route - State Proposed
+656,633,0,0,6513.979,94,93,1,Bikeway/Bike route - State Proposed
+633,631,0,0,171.171,95,94,1,Bikeway/Bike route - State Proposed
+600,601,0,0,281.237,96,95,1,Bikeway/Bike route - State Proposed
+602,604,0,0,2984.796,97,96,1,Bikeway/Bike route - State Proposed
+603,602,0,0,5457.567,98,97,1,Bikeway/Bike route - State Proposed
+619,618,0,0,864.753,99,98,1,Bikeway/Bike route - State Proposed
+619,622,0,0,18075.150,100,99,1,Bikeway/Bike route - State Proposed
+623,624,0,0,238.502,101,100,1,Bikeway/Bike route - State Proposed
+623,622,0,0,82.351,102,101,1,Bikeway/Bike route - State Proposed
+625,626,0,0,31039.520,103,102,1,Bikeway/Bike route - State Proposed
+624,625,0,0,2033.807,104,103,1,Bikeway/Bike route - State Proposed
+606,605,0,0,2045.590,105,104,1,Bikeway/Bike route - State Proposed
+607,606,0,0,859.586,106,105,1,Bikeway/Bike route - State Proposed
+253,255,0,0,3596.163,107,106,1,Bikeway/Bike route - State Proposed
+265,253,0,0,35734.600,108,107,1,Bikeway/Bike route - State Proposed
+265,260,0,0,5328.602,109,108,1,Bikeway/Bike route - State Proposed
+260,258,0,0,5734.899,110,109,1,Bikeway/Bike route - State Proposed
+607,621,0,0,23696.450,115,114,1,Bikeway/Bike route - State Proposed
+622,621,0,0,2233.426,116,115,1,Bikeway/Bike route - State Proposed
+215,218,0,0,705.234,117,116,1,Bikeway/Bike route - State Proposed
+215,218,0,0,705.136,118,117,1,Bikeway/Bike route - State Proposed
+320,204,0,0,32429.960,119,118,1,Bikeway/Bike route - State Proposed
+311,354,0,0,24411.430,120,119,1,Bikeway/Bike route - State Proposed
+375,481,0,0,35548.580,121,120,1,Bikeway/Bike route - State Proposed
+354,375,0,0,5785.363,122,121,1,Bikeway/Bike route - State Proposed
+502,481,0,0,14546.730,123,122,1,Bikeway/Bike route - State Proposed
+351,332,0,0,6866.038,124,123,1,Bikeway/Bike route - State Proposed
+351,332,0,0,6236.940,125,124,1,Bikeway/Bike route - State Proposed
+372,351,0,0,4312.852,126,125,1,Bikeway/Bike route - State Proposed
+347,372,0,0,5800.807,127,126,1,Bikeway/Bike route - State Proposed
+451,478,0,0,7091.238,128,127,1,Bikeway/Bike route - State Proposed
+449,451,0,0,595.254,129,128,1,Bikeway/Bike route - State Proposed
+443,449,0,0,842.324,130,129,1,Bikeway/Bike route - State Proposed
+452,449,0,0,2734.679,131,130,1,Bikeway/Bike route - State Proposed
+403,452,0,0,11588.800,132,131,1,Bikeway/Bike route - State Proposed
+452,415,0,0,5611.575,133,132,1,Bikeway/Bike route - State Proposed
+372,414,0,0,16424.930,134,133,1,Bikeway/Bike route - State Proposed
+414,443,0,0,4160.553,135,134,1,Bikeway/Bike route - State Proposed
+415,414,0,0,6.911,136,135,1,Bikeway/Bike route - State Proposed
+497,508,0,0,2869.251,137,136,1,Bikeway/Bike route - State Proposed
+508,575,0,0,23148.230,138,137,1,Bikeway/Bike route - State Proposed
+575,576,0,0,177.442,139,138,1,Bikeway/Bike route - State Proposed
+574,575,0,0,48.441,140,139,1,Bikeway/Bike route - State Proposed
+552,545,0,0,8582.899,141,140,1,Bikeway/Bike route - State Proposed
+552,557,0,0,3065.365,142,141,1,Bikeway/Bike route - State Proposed
+565,552,0,0,8193.099,143,142,1,Bikeway/Bike route - State Proposed
+578,600,0,0,41656.730,144,143,1,Bikeway/Bike route - State Proposed
+574,572,0,0,7319.227,145,144,1,Bikeway/Bike route - State Proposed
+572,578,0,0,5192.490,146,145,1,Bikeway/Bike route - State Proposed
+565,572,0,0,996.004,147,146,1,Bikeway/Bike route - State Proposed
+543,528,0,0,3604.972,148,147,1,Bikeway/Bike route - State Proposed
+528,519,0,0,3100.724,149,148,1,Bikeway/Bike route - State Proposed
+599,611,0,0,6860.408,150,149,1,Bikeway/Bike route - State Proposed
+599,576,0,0,16544.310,151,150,1,Bikeway/Bike route - State Proposed
+190,215,0,0,6168.277,152,151,1,Bikeway/Bike route - State Proposed
+190,167,0,0,14469.390,153,152,1,Bikeway/Bike route - State Proposed
+204,190,0,0,2261.669,154,153,1,Bikeway/Bike route - State Proposed
+14,12,0,0,517.533,602,601,1,Bikeway/Bike route - State Proposed
+6,5,0,0,251.924,603,602,1,Bikeway/Bike route - State Proposed
+12,7,0,0,860.949,604,603,1,Bikeway/Bike route - State Proposed
+7,6,0,0,271.999,605,604,1,Bikeway/Bike route - State Proposed
+5,2,0,0,398.691,606,605,1,Bikeway/Bike route - State Proposed
+15,19,0,0,2854.767,607,606,1,Bikeway/Bike route - State Proposed
+15,14,0,0,215.973,608,607,1,Bikeway/Bike route - State Proposed
+30,52,0,0,16956.140,609,608,1,Bikeway/Bike route - State Proposed
+19,30,0,0,2249.283,610,609,1,Bikeway/Bike route - State Proposed
+225,228,0,0,1870.123,611,610,1,Bikeway/Bike route - State Proposed
+228,226,0,0,8960.431,612,611,1,Bikeway/Bike route - State Proposed
