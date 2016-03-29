@@ -1,5 +1,5 @@
 # Rhode Island Parks, Beaches, Trails, Paths
-## A Running Collection of Rhode Island Park, Beach, Trail, and Path Data
+## Running Collection of Rhode Island Park, Beach, Trail, and Paths
 
 ### Rhode Island Data We're Looking For
 
