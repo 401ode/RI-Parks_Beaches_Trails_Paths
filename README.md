@@ -28,6 +28,7 @@
 	* Old DOT Data Bikeways Trails 95' and RIDOTbike15
 * [VisitRI Trails/Paths](https://www.visitrhodeisland.com/what-to-do/parks/)
 * [VisitRI Heritage Trails](https://www.visitrhodeisland.com/what-to-do/heritage-trails/)
+* [RI Shoreline](http://www.shoreline-ri.com/#)
 
 ### Open Trails
 
