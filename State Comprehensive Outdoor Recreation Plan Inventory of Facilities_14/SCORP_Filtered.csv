@@ -1,0 +1,322 @@
+ID,F_Name,F_Type,Street,Town,OwnerTyp,ConsType,ConsJuri,P_Ground,B_Field,S_Field,F_Field,M_Field,B_Court,T_Court,V_Court,Track,SkatPark,IH_Rink,SH_Rink,Golf,Fishing,Boating,Hunting,Trails,Beach,Pool,ActiveRec,Lon,Lat
+0,Paradise Valley PaRK,LP,Prospect,Middletown,MUN,EAS,NGO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.00000000000,0.00000000000
+0,Pleasant Street Boat Ramp,FB,Pleasant,North Kingstown,MUN,FEE,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.00000000000,0.00000000000
+0,Briggs/Boesch Farm,CA,South,East Greenwich,MUN,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.00000000000,0.00000000000
+0,Cocumscussoc Brook Preserve,CA,Post Road,North Kingstown,MUN,FEE,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.00000000000,0.00000000000
+0,Scalloptown Park,CA,Crompton,East Greenwich,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0.00000000000,0.00000000000
+0,Lee Romano Field,AF,Greystone,North Providence,MUN,CIN,MUN,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0.00000000000,0.00000000000
+2,Buck Hill Management Area,MA,Benson Mountain,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.78728485000,41.99706268000
+3,Wilson Reservoir,FB,Wallum Lake,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.72329711000,41.97000122000
+5,Barton C. Hurley Landing,FB,Sanctuary,Charlestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.67979431000,41.37857437000
+6,Bucks Horn Brook,FB,Lewis Farm,Coventry,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.75682830000,41.69536209000
+8,Trestle Trail East,SP,Lewis Farm,Coventry,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.76157379000,41.69030380000
+10,Carl's Pond,FB,Jencks,Cumberland,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.44660186000,42.01313018000
+11,Falls River - Austin Farm,FB,Plain,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.74579620000,41.59833526000
+12,Lower Fall River,FB,Midway Rail,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.72078704000,41.58025741000
+13,Simon Jordan Fishing Access,FB,Brookie,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.73101043000,41.58738327000
+14,Upper Flat River,FB,Plain,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.72031402000,41.59562683000
+15,Lower Flat River,FB,Arcadia Man Area,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.71899414000,41.57950592000
+16,Cold Spring Park,LP,Katherine,Woonsocket,MUN,EAS,FED,1,2,0,0,0,1,2,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.52519989000,42.00914001000
+17,World War II Park,SP,School,Woonsocket,STA,EAS,FED,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.50952911000,42.01003646000
+18,Paris Brook,FB,Mount Tom,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.72914123000,41.56467056000
+19,Roaring Brook Pond,FB,Teft Hill,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.68050384000,41.56042098000
+20,Step Stone Falls,FB,Falls River,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.76062774000,41.61254882000
+22,Wood River @rte 165,FB,Ten Rod,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.72106933000,41.57295989000
+24,Ponagansett,FB,Pine Tree,Foster,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.74320220000,41.84536743000
+26,Keech Pond,FB,Indian,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.69072723000,41.87563323000
+27,Smith & Sayles Reservoir,FB,Point,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.67769622000,41.89692687000
+28,Mechanic St,FB,Mechanic,Hopkinton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.71673583000,41.50318527000
+29,Switch Rd Canoe Access,FB,Hope Valley,Hopkinton,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.71589660000,41.49346923000
+30,Sakonnet Point,FB,Sakonnet Point,Little Compton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.19313049000,41.46338272000
+31,Cass Park,LP,Newland,Woonsocket,MUN,EAS,FED,1,2,3,0,3,1,5,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.48963928000,42.00384521000
+33,Galilee,FB,Great Island,Narragansett,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.50748443000,41.38319778000
+34,Narrow River Canoe Access,FB,Boston Neck,Narragansett,FED,FEE,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.44981384000,41.44940948000
+42,Carolina Trout Pond,FB,Coondog,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.70184326000,41.48576736000
+43,Meadow Brook At Carolina,FB,Pine Hill,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.69020080000,41.46635818000
+45,Wyoming Dam,FB,Bridge,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70283508000,41.51565170000
+46,Indian Lake Boat Ramp,FB,Indian,South Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.46953582000,41.47410964000
+48,Taylors Landing,FB,Kingstown,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.55126953000,41.48254776000
+49,Deep Hole,FB,Matunuck Beach,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.53833007000,41.37350082000
+50,Tucker Pond,FB,Tuckertown,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.54908752000,41.42608642000
+51,Worden Pond Boat Launch,FB,Worden's Pond,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.56781768000,41.42951965000
+56,Main Street Boat Ramp,FB,Main,Westerly,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.83213806000,41.37498474000
+57,Weekapaug Breachway,FB,Wawaloam,Westerly,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.76261901000,41.33062362000
+58,Haines Park,FB,Beach Point,East Providence,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.35272979000,41.75379562000
+61,East Beach,FB,Beach,Charlestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,-71.69007873000,41.34448623000
+62,Browning Mill Pond,FB,K And G Ranch,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.68527221000,41.55602645000
+66,Black Point,FB,Ocean,Narragansett,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.46450042000,41.40003585000
+67,Monahan's Dock Fishing And Boating Access,FB,Ocean,Narragansett,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.45535278000,41.42215347000
+72,Big River Fishing Access,FB,I 95,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.61434936000,41.64941406000
+74,Hopkins Mill Pond,FB,Winsor,Foster,MUN,FEE,UTL,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70736694000,41.82413101000
+76,Barry Memorial Field,LP,Smithfield,Woonsocket,MUN,CIN,MUN,0,3,2,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.51869964000,41.98605728000
+82,Pawtuxet River,FB,Hope Furnace,Scituate,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.56536102000,41.73108673000
+87,Bristol Narrows,FB,Narrows,Bristol,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.24626159000,41.69729232000
+89,Harrisville Pond,FB,Sherman Farm,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.67879486000,41.97085571000
+100,Bellville Pond,FB,Oak Hill,North Kingstown,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.47568511000,41.56043624000
+106,Weaver Cove,FB,Unnamed,Portsmouth,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.28792572000,41.57381820000
+110,State Street Boat Launch,FB,State,Bristol,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.27833557000,41.67000961000
+113,Town Dock,FB,Water,Warren,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.28568267000,41.72629165000
+118,Annawanscutt,FB,Viking,Bristol,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.24240875000,41.68758010000
+120,Barberville Fishing And Boating Access,FB,Arcadia,Hopkinton,NGO,FEE,NGO,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.69631195000,41.54090118000
+121,Big River / Nooseneck Hill Road Fishing Access,FB,Nooseneck Hill,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,-71.61373138000,41.64443588000
+123,Gaspee Point,FB,Bay Shore,Warwick,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.38306427000,41.74860763000
+125,Locustville Pond,FB,Unnamed,Hopkinton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.71715545000,41.51567840000
+126,Tucker Field,AF,Mendon,Cumberland,MUN,CIN,MUN,0,2,1,1,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.44360351000,41.96369552000
+129,Stump Pond,FB,Log,Smithfield,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.54636383000,41.90090179000
+132,Gull Cove Fishing & Boating Access,FB,State 138,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.23081207000,41.63385009000
+134,Old State Pier,FB,Tim Healey,Pawtucket,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.37985229000,41.86893844000
+136,George Washington Campground,SP,George Washington,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.75794219000,41.92362594000
+137,Clarkville Pond,FB,Shepard,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.78780364000,41.92452239000
+139,Lake Washington,FB,Lake Washington,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.75835418000,41.91730117000
+140,Moscow Pond,FB,Woody Hill,Hopkinton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.74182891000,41.52329635000
+141,Olney Pond,FB,Les Pawson Loop,Lincoln,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.42773437000,41.88948059000
+143,Carbuncle Pond,FB,Plainfield Pike,Coventry,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.77004241000,41.69744110000
+146,Round Top,MA,Round Top,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.69934844000,42.00394058000
+151,North Smithfield High School,SC,Greenville,North Smithfield,SCH,NON,NON,0,2,1,1,1,2,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.54447174000,41.95165634000
+160,Alton Pond Landing,FB,Alton Bradford,Hopkinton,PRV,NON,PRV,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.72243499000,41.43811035000
+161,Ashville Pond,FB,Canonchet,Hopkinton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.75140380000,41.49929809000
+162,Blue Pond,FB,Canonchet,Hopkinton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.75287628000,41.50233840000
+168,Tefft River Access,FB,Mechanic,Hopkinton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.71663665000,41.49842453000
+178,Blackstone Bikeway,SP,Farnworth,Lincoln,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.40835571000,41.91162490000
+179,Beaver River,FB,Kingstown,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.62826538000,41.49234008000
+182,George Washington Management Area,MA,Richardson,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.76850891000,41.94266128000
+183,Lincoln Junior / Seniro High,SC,Old River,Lincoln,SCH,EAS,FED,0,2,2,1,2,0,8,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.45273590000,41.93682479000
+185,Asa Pond,LP,Galway,South Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.51522827000,41.45790481000
+186,Barber Pond,FB,Barber's Pond,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.56439971000,41.49913787000
+189,Narrow River,FB,Pollock,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.45019531000,41.46699523000
+194,Potowomut Pond,FB,Potowomut,Warwick,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.45379638000,41.63094711000
+196,Carr Pond,FB,Hopkins Hill,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.57110595000,41.63113403000
+197,Chapman Pond,FB,Town Landfill,Westerly,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.80036926000,41.38182067000
+201,Breakhart Pond,FB,Austin Farm,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70377349000,41.59572219000
+203,Bradford Landing,FB,Main,Westerly,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.74828338000,41.40629577000
+215,Pleasant St Boat Launch,FB,Pleasant,North Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.44779205000,41.57684326000
+217,Pond St Boat Launch,FB,Billington,South Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.50309753000,41.42250061000
+218,Gooseberry Rd Boat Launch,FB,Gooseberry,South Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.51958465000,41.38589477000
+219,State Pier # 4,FB,Succotash,Narragansett,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.51499938000,41.37882995000
+220,Saugatucket River,FB,Broad Rock,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.48456573000,41.47925949000
+221,South Ferry Rd,LP,Ferry,Narragansett,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.42050933000,41.49255752000
+226,Smith Street,FB,Smith,Bristol,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.24889373000,41.70349121000
+228,Spring Grove Beach,LP,Spring Grove,Glocester,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.65384674000,41.91343688000
+229,Peck Pond / Pulaski Park,SP,Unnamed,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.79640197000,41.93287277000
+231,Tarkiln Pond,FB,Mowry,Burrillville,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.59770965000,41.96502304000
+234,Washington Grove,SP,Washington,Smithfield,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.53817749000,41.91281127000
+235,Wallum Lake,FB,Shore,Burrillville,STA,CIN,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.76179504000,42.00080108000
+236,Durfee Hill Management Area,MA,Willie Woodhead,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.74745178000,41.90439605000
+238,Homestead,FB,Narragansett,Portsmouth,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.30502319000,41.61980438000
+239,Manville,FB,New River,Lincoln,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.46733856000,41.96964263000
+240,Old Harbor Breakwater,FB,Water,New Shoreham,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.55462646000,41.17415618000
+241,East Beach,LP,Beach,New Shoreham,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,-71.56667327000,41.18254470000
+242,Woonasquatucket Reservoir,FB,Farnum Pike,Smithfield,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.54101562000,41.90761184000
+245,Mohegan Bluffs / South East Light Stairway,SP,Spring,New Shoreham,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.55507659000,41.15242004000
+248,Central Falls Landing,LP,Broad,Central Falls,MUN,CIN,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.39031982000,41.89884185000
+251,Willet Pond,FB,Willett,East Providence,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.35593414000,41.77551269000
+254,Burlingame Reservoir,FB,Elbow Rock,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.74253082000,41.91448211000
+255,Eight Rod Farm,MA,Eight Rod,Tiverton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.17129516000,41.55895614000
+256,Simmons Mill Pond,FB,Colebrook,Little Compton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.15054321000,41.54354095000
+264,Corliss Landing,LP,Water,Providence,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.40550994000,41.82149887000
+271,Charlestown,FB,Charlestown Beach,Charlestown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.62668609000,41.36371994000
+274,Collier Park Ramp,FB,Henderson,Providence,UTL,NON,NON,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.40175628000,41.81210708000
+294,Georgiaville Beach,LP,Stillwater,Smithfield,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.50817108000,41.88947677000
+324,Lincoln Woods,SP,Lincoln Woods,Lincoln,STA,FEE,STA,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.43139648000,41.89726257000
+331,Smithfield High School,SC,Rosewood,Smithfield,SCH,NON,NON,0,2,1,1,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.54400634000,41.87980651000
+345,Higginson Avenue Sports Complex,LP,Crow Point,Central Falls,MUN,EAS,FED,0,1,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.40245819000,41.88519287000
+354,Marion Irons Beach,LP,Snake Hill,Glocester,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.62581634000,41.87961578000
+396,Ponagansett School,SC,Anan Wade,Glocester,SCH,EAS,FED,0,2,2,1,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.71450042000,41.86730957000
+420,Fairlawn Veterans' Park,LP,Legion,Pawtucket,MUN,EAS,FED,1,3,1,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.41025543000,41.86743545000
+427,Greenlake Beach,LP,Bayou,Smithfield,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.55112457000,41.86508178000
+438,Max Read Field,LP,Pleasant,Pawtucket,MUN,EAS,FED,0,0,2,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,-71.38112640000,41.86435317000
+461,Snake Den State Park,CA,Hartford,Johnston,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.53470611000,41.84130096000
+534,Shippee Sawmill Pond,FB,Willoughby Young,Foster,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.75236511000,41.83379364000
+537,Mount Pleasant H. S. Fields,SC,Rialto,Providence,SCH,NON,NON,0,1,2,1,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.45356750000,41.83821868000
+554,Father Lennon Park,SC,Camden,Providence,MUN,CIN,MUN,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.42711639000,41.83789825000
+558,Johnston Sr High School,SC,Cherry Hill,Johnston,SCH,NON,NON,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.49881744000,41.83306884000
+565,Dean Andrews Memorial Field,LP,Battey Meetinghouse,Scituate,STA,FEE,STA,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.60561370000,41.82970046000
+569,Hope High School,SC,Brown,Providence,SCH,NON,NON,1,2,1,1,2,1,8,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.40379333000,41.83429718000
+591,Scituate Jr.-Sr.high School,SC,Rockland,Scituate,SCH,NON,NON,0,0,1,1,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.61898040000,41.82462310000
+623,Angelo Zuccolo Pool,LP,Gesler,Providence,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.43073272000,41.82257080000
+639,Joslin Playground,LP,Kossuth,Providence,MUN,CIN,MUN,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-71.44639587000,41.82117462000
+646,East Providence High School,SC,Pawtucket,East Providence,SCH,NON,NON,0,3,6,1,6,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.35266113000,41.81922912000
+651,Central / Classical  High Schools,SC,Broad,Providence,SCH,NON,NON,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.41934967000,41.81695938000
+671,Neutaconkanut Park,LP,Killingly,Providence,MUN,EAS,FED,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,-71.46331787000,41.81418991000
+673,Bold Point Park,LP,Pier,East Providence,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.39097595000,41.81522369000
+680,Davey Lopes Park,LP,Prairie,Providence,MUN,CIN,MUN,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.41596221000,41.81035232000
+681,Pierce Field Athletic Complex,AF,Mercer,East Providence,MUN,CIN,MUN,1,4,0,0,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.38240814000,41.81060409000
+707,Bucklin St. Park / McCrane Pool,LP,Bucklin,Providence,MUN,CIN,MUN,1,1,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.42864990000,41.80519485000
+746,JT Owens Park,LP,Niantic,Providence,STA,EAS,FED,1,3,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.43684387000,41.79338836000
+817,Beachmont / Hayes Field,LP,Calvin,Cranston,MUN,EAS,FED,1,2,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1,-71.40733337000,41.77517318000
+820,Cranston High School West,SC,Phoenix,Cranston,SCH,NON,NON,0,1,1,1,1,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.47899627000,41.77336883000
+824,Park View Field,LP,Park View,Cranston,MUN,CIN,MUN,1,3,0,0,1,1,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.41453552000,41.77221298000
+828,Stillhouse Cove,LP,Narragansett,Cranston,STA,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.38991546000,41.77013778000
+830,Meshanticut Park,SP,Lakeview,Cranston,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.47604370000,41.76870346000
+832,Fay Memorial Field,LP,Dallas,Cranston,STA,FEE,STA,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.40030670000,41.77082443000
+833,Aqueduct Field,LP,Aqueduct,Cranston,MUN,CIN,MUN,0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.44475555000,41.77069473000
+855,Dean Parkway,SP,Dean,Cranston,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.46330261000,41.76323318000
+856,Sabin Point Park,LP,Shore,East Providence,MUN,EAS,FED,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.36795043000,41.76564025000
+884,Walker Farm,CA,Wampanoag,Barrington,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.32308197000,41.75685501000
+914,Crescent Park / Loof Carousel,LP,Bullocks Point,East Providence,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,-71.35919189000,41.75708007000
+919,Salter Grove,LP,Narragansett,Warwick,STA,FEE,STA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,-71.38346099000,41.75286102000
+922,Haines Park,SP,Haines Park,Barrington,STA,FEE,STA,0,3,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.34613800000,41.75232315000
+949,Brayton Ave. Field,LP,Unnamed,Cranston,MUN,CIN,MUN,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.47229766000,41.74681472000
+953,Pilgrim High School,SC,Pilgrim,Warwick,SCH,NON,NON,0,1,2,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.40910339000,41.74608230000
+963,Barrington High School,SC,Lincoln,Barrington,SCH,NON,NON,0,3,3,1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.32001495000,41.74769592000
+1013,Veterans Memorial Park,LP,Veterans Park,Barrington,MUN,EAS,FED,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.31315612000,41.73587036000
+1023,Natick Fields,LP,Crossland,West Warwick,MUN,CIN,MUN,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.49633789000,41.72712707000
+1075,Riverpoint Park,AF,Hay,West Warwick,MUN,EAS,FED,20,5,3,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.51525115000,41.71751022000
+1078,Barrington Town Beach,LP,Bay,Barrington,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.31019592000,41.72286987000
+1086,Warren Town Beach,LP,Water,Warren,MUN,CIN,MUN,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.28495788000,41.72295761000
+1095,Conimicut Pt. Beach,LP,Point,Warwick,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.35974121000,41.71665191000
+1102,West Warwick School Complex,SC,Webster Knight,West Warwick,SCH,NON,NON,0,1,3,1,3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.51573181000,41.70882034000
+1106,Nicholas Farm,MA,Plainfield Pike,Coventry,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,-71.77273559000,41.69342422000
+1112,Mickey Stevens Sports Center,LP,Sandy,Warwick,MUN,EAS,FED,0,3,0,0,0,2,8,0,0,1,1,0,0,0,0,0,0,0,1,1,-71.41457366000,41.70995330000
+1122,Gorton School,SC,Draper,Warwick,SCH,EAS,FED,0,0,2,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.37778472000,41.70618820000
+1125,Trestle Trail West',SP,Bramble Bush,Coventry,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.64464569000,41.69669342000
+1130,Upper Dam Pond,LP,Knotty Oak,Coventry,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,-71.55393981000,41.70376205000
+1138,Little Pond Beach,LP,Albert,Warwick,SCH,NON,NON,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.40768432000,41.70495223000
+1148,Gorton's Pond Beach,LP,Veterans Memorial,Warwick,MUN,EAS,FED,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.45480346000,41.70325088000
+1236,Bristol Junior-Senior High Sch.,SC,Chestnut,Bristol,SCH,NON,NON,0,1,2,1,2,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.27165985000,41.68800735000
+1237,Oakland Beach Park,LP,Burr,Warwick,MUN,EAS,FED,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.39643096000,41.68513488000
+1245,Coventry High School,SC,Club House,Coventry,SCH,NON,NON,0,1,1,1,2,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.59456634000,41.68457031000
+1261,Colt State Park,SP,Asylum,Bristol,STA,EAS,FED,0,0,0,0,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.29747009000,41.67708969000
+1268,Briar Point Beach Area,LP,Briar Point,Coventry,MUN,EAS,FED,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.54968261000,41.67430114000
+1284,Independence Park,LP,Thames,Bristol,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.27948760000,41.67378616000
+1285,Goddard Park,SP,Ives,Warwick,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,-71.43722534000,41.65924835000
+1305,North Prudence Island,MA,Neck Farm,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.34316253000,41.65590667000
+1326,Patience Island,MA,Neck Farm,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.36003112000,41.65565872000
+1337,East Greenwich Town Boat Launch,LP,Crompton,East Greenwich,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.44894409000,41.65670776000
+1368,Grinnells Beach,LP,Main,Tiverton,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.21371459000,41.62504959000
+1374,East Greenwich High School,LP,Avenger,East Greenwich,MUN,EAS,FED,1,3,4,2,4,0,6,0,1,1,0,0,0,0,0,0,0,0,0,1,-71.48366546000,41.63710403000
+1378,Big River Reservoir,MA,Burnt Sawmill,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-71.60385131000,41.63472366000
+1392,Boyds Marsh,MA,Bay View,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.24364471000,41.63571929000
+1467,Teddy's Beach,SP,Point,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,-71.21983337000,41.62541580000
+1488,Portsmouth High School,SC,Memorial,Portsmouth,SCH,NON,NON,0,4,2,1,4,3,8,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.25101470000,41.61082458000
+1491,Lehigh Hill Grove,SP,Main,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.26029968000,41.61138534000
+1501,Hope Island,MA,Bay,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.36820983000,41.60221862000
+1512,Devil's Foot Rock,CA,Post,North Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.45646667000,41.60262680000
+1520,South Prudence Island,MA,Bunker,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.32357788000,41.58792495000
+1521,Black Regiment Memorial Park,SP,Musselbed Shoal,Portsmouth,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.25514221000,41.63357925000
+1528,Queen's Fort Historic Site,SP,Lantern,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.52201080000,41.59032821000
+1532,Beach Pond State Park,FB,Ten Rod,Exeter,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,-71.78637695000,41.57405853000
+1535,Cocumscussoc Park,CA,Post Road,North Kingstown,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.47315216000,41.58142089000
+1560,Seapowet Marsh,FB,Seapowet,Tiverton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,-71.20941162000,41.58218383000
+1570,North Kingstown Town Boat Launch,LP,Flat Fish,North Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,-71.45279693000,41.57787704000
+1576,Wilson Park,LP,Roosevelt,North Kingstown,MUN,EAS,FED,1,3,10,0,10,2,2,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.45922851000,41.57463836000
+1615,North Kingstown Town Beach,LP,Beach,North Kingstown,MUN,CIN,MUN,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.44361114000,41.56615829000
+1644,Arcadia Management Area,MA,Ten Rod,Exeter,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,-71.72419738000,41.58083343000
+1658,North Kingstown High School,SC,Fairway,North Kingstown,SCH,NON,NON,0,2,3,1,3,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.44660949000,41.55709075000
+1661,Fogland Beach,LP,Three Rod,Tiverton,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,-71.21317291000,41.55625534000
+1678,John H Chaffee Rome Point Preserve,SP,Terre Mar,North Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.43125152000,41.54018783000
+1679,Sandy Point Beach,LP,Sandy Point,Portsmouth,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.23627471000,41.55332565000
+1694,May C. Donovan Marsh,CA,Francis,Little Compton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.20301818000,41.54493713000
+1700,Shady Lea,CA,Colonel Rodman,North Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.47031402000,41.54067611000
+1704,Silver Spring Lake Fishing Area,FB,Silver Spring,North Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.47007751000,41.53821182000
+1708,Jamestown Shores Beach,LP,Seaside,Jamestown,MUN,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.38578033000,41.53823471000
+1715,Gould Island,MA,Shore,Jamestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.34436798000,41.53399276000
+1723,Rockville Management,MA,Canonchet,Hopkinton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,-71.75704956000,41.50593948000
+1807,Bay Is. Park-Dutch Island,MA,Fort Getty,Jamestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.40055084000,41.50149154000
+1846,Hannah Robinson Tower,SP,Bridgetown,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.45588684000,41.49504852000
+1854,Carolina Management  Area,MA,Meadowbrook,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-71.68852233000,41.46908187000
+1873,Fort Getty,LP,Fort Getty,Jamestown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.39802551000,41.49164199000
+1911,Great Swamp Management Area,MA,Great Neck,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.57805633000,41.46467208000
+1912,Little Compton Town Beach,LP,Shore,Little Compton,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.13777923000,41.49385833000
+1922,Jamestown Town Beach,LP,Beavertail,Jamestown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.38410949000,41.48891830000
+1933,Easton's Beach,LP,Memorial,Newport,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.29183197000,41.48795318000
+1942,Second Beach,LP,Sachuest Point,Middletown,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.25745391000,41.48765182000
+1949,Purgatory Chasm,SP,Tuckerman,Middletown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.26841735000,41.48681259000
+1972,Third Beach,LP,Third Beach,Middletown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,-71.24562835000,41.48653793000
+1997,Fort Adams State Park,SP,Fort Adams,Newport,STA,FEE,STA,0,0,3,0,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.33828735000,41.47532653000
+2002,Fort Wetherill,SP,Fort Wetherill,Jamestown,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,-71.36210632000,41.47934722000
+2024,King Park,LP,Wellington,Newport,MUN,CIN,MUN,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.31980895000,41.47655105000
+2048,Rogers High School,SC,Wickham,Newport,SCH,NON,NON,0,0,1,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.32054138000,41.46977996000
+2062,Tri-Pond Park,LP,Asa Pond,South Kingstown,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.51093292000,41.45636367000
+2070,Beavertail State Park,SP,Beavertail,Jamestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.39702606000,41.45677566000
+2078,Sakonnet Harbor Beach,LP,Sakonnet Point,Little Compton,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.19320678000,41.46371841000
+2086,Chariho High School,SC,Switch,Richmond,SCH,NON,NON,0,4,2,1,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.69665527000,41.44982147000
+2088,Brenton Point Park,SP,Atlantic,Newport,STA,FEE,STA,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.35443115000,41.45196533000
+2099,Kings Beach,FB,Price's Neck,Newport,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.34235382000,41.45436096000
+2132,Meadow Brook Pond,FB,Church,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.69017028000,41.43840026000
+2142,Narragansett Town Beach,LP,Beach,Narragansett,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.45525360000,41.43560791000
+2162,Narragansett High School,SC,Pier,Narragansett,SCH,NON,NON,0,2,3,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.47056579000,41.42977523000
+2206,Woody Hill Area,MA,Woody Hillension,Westerly,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-71.74580383000,41.37737655000
+2217,Newton Swamp,MA,Westerly-Bradford,Westerly,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.77534484000,41.38155364000
+2220,Scarborough State Beach,SP,Ocean,Narragansett,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.47267913000,41.38970184000
+2238,Blue Shutters Beach,LP,Beach,Charlestown,MUN,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.69492340000,41.34166336000
+2251,Fort Ninigret,SP,Fort Ninigret,Charlestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.64786529000,41.38111114000
+2253,Burlingame Management Area,MA,Unnamed,Charlestown,STA,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-71.70753479000,41.40476989000
+2254,Succotash Marsh,CA,Succotash,South Kingstown,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.52602386000,41.37991714000
+2256,Babcock Hall,LP,Ward,Westerly,SCH,NON,SCH,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.82043457000,41.37632751000
+2258,Galilee Bird Sanctuary,MA,Galilee Escape,Narragansett,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.49902343000,41.37820434000
+2281,Ninigret Park,LP,Park,Charlestown,MUN,EAS,FED,1,1,1,0,2,1,4,0,0,0,0,0,0,1,0,0,0,0,1,1,-71.66593933000,41.37002182000
+2284,Fishermen's Memorial State Campground,SP,Point Judith,Narragansett,STA,EAS,FED,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.49288177000,41.38025283000
+2300,East Matunuck State Beach,SP,Succotash,South Kingstown,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.52599334000,41.37781143000
+2326,Roger Wheeler State Beach,SP,Sand Hill Cove,Narragansett,STA,EAS,FED,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.49946594000,41.37331390000
+2336,Green Hill / Goose Island,FB,Charlestown Beach,South Kingstown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.60766601000,41.36441802000
+2346,Fish Hill Ball Fields,AF,Fish Hill,Coventry,STA,FEE,STA,0,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.62533569000,41.66588211000
+2361,Charlestown Town Beach,LP,Brown Hill,Charlestown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.62590026000,41.36083221000
+2364,Camp Cronin,FB,Ocean,Narragansett,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.48472595000,41.36273956000
+2365,Charlestown Breachway Campground,SP,Charlestown Beach,Charlestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.63808441000,41.35821533000
+2397,Ninigret Conservation Area,CA,Beach,Charlestown,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.67544555000,41.34807205000
+2399,Quonochontaug Fishing Area,FB,Beach,Charlestown,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.72224426000,41.33657455000
+2420,Misquamicut State Beach,SP,Atlantic,Westerly,STA,FEE,STA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.80358123000,41.32316589000
+2433,Westerly Town Beach,LP,Atlantic,Westerly,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.79054260000,41.32500839000
+2465,Clay Head / Risom,CA,Corn Neck,New Shoreham,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.56066894000,41.22084045000
+2472,Crescent Beach,LP,Corn Neck,New Shoreham,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.56574249000,41.18125534000
+2481,Rodman's Hollow,CA,Black Rock,New Shoreham,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.59078979000,41.15256881000
+2528,Merrill S. Whipple Conservation,MA,Sandy Bottom,Coventry,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,-71.55630493000,41.68816757000
+2540,South Kingstown Town Beach,LP,Matunuck Beach,South Kingstown,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.55059051000,41.37555313000
+2553,Britto's Park,LP,Unnamed,Warren,MUN,CIN,MUN,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-71.26116943000,41.72505187000
+2555,East Bay Bike Path,SP,Market,Warren,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.28073883000,41.73088455000
+2558,Cole Avenue Field,LP,Hugh Cole,Warren,MUN,CIN,MUN,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.25711059000,41.72736358000
+2578,Buttonhole Golf Course,LP,King Philip,Johnston,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,-71.46350860000,41.82532119000
+2634,Doreen Tomlinson Complex,AF,Daggett,Pawtucket,STA,EAS,FED,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.34529113000,41.88639068000
+2654,Salty Brine State Beach,SP,Sand Hill Cove,Narragansett,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.51280212000,41.37543487000
+2657,Washington Secondary Bike Path,LP,Howard,Cranston,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.44989013000,41.79179382000
+2668,Exeter / West Greenwich Jr-sr High,SC,Nooseneck Hill,West Greenwich,SCH,NON,NON,0,2,2,1,3,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.63713073000,41.60582733000
+2684,Broad Rock Middle School,SC,Broad Rock,South Kingstown,SCH,NON,NON,0,0,2,0,2,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.48425292000,41.45588302000
+2706,Black Hut Management Area,MA,Glen Meadow,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-71.64867401000,41.98720932000
+2707,Burrillville Middle School,SC,Broncos,Burrillville,SCH,NON,NON,1,2,1,0,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.62338256000,41.98054504000
+2739,Waypoyset Preserve / Bristol Narrows,CA,Narrows,Bristol,NGO,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,-71.24816131000,41.69705581000
+2749,Blue Beach,LP,Quonset,North Kingstown,MUN,CIN,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.41568756000,41.58681106000
+2752,Laforge Point Park,LP,Walmsley,North Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.45254516000,41.50638198000
+2758,Killingly Pond,MA,Cook Estate,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.78054809000,41.86515808000
+2768,Mccoy Stadium Annex,AF,Division,Pawtucket,MUN,EAS,FED,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.36843872000,41.87414932000
+2769,Town Landing,LP,Taft,Pawtucket,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.38403320000,41.87176895000
+2772,Thunder Mist Overlook,LP,River,Woonsocket,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-71.51758575000,42.00001144000
+2785,Union Pond Fishing Access,FB,Reservoir,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70395660000,41.95180892000
+2786,Spring Lake Beach,LP,Hillside,Burrillville,MUN,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.65743255000,41.98682403000
+2787,Slatersville Pond Fishing Access,FB,Victory Highway,North Smithfield,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,-71.60088348000,41.98708724000
+2809,Jamestown Town Pier,LP,Conanicus,Jamestown,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.36679077000,41.49643325000
+2811,Potter Cove Access,FB,Bayview,Jamestown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.35974884000,41.51020050000
+2816,Rocky Point Park,LP,Rocky Point,Warwick,STA,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.36405181000,41.69140243000
+2823,Oakland Forest,CA,Oakland Farm,Portsmouth,NGO,EAS,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.26146697000,41.55591583000
+2824,High Rocks Gorge,CA,Harkness,North Smithfield,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.55272674000,42.01098632000
+2825,Tillinghast Pond,FB,Plain,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.75569152000,41.64473724000
+2826,Chariho Athletic Association,LP,Nooseneck Hill,Hopkinton,PRV,NON,NON,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70585632000,41.51308059000
+2830,Hope Pond Recreation Area & Beach,LP,Ryefield,Scituate,MUN,CIN,MUN,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,-71.56555175000,41.73530578000
+2831,North Glen Boat Launch,LP,North Glen,Coventry,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.54834747000,41.67012023000
+2832,Tiogue Boat Launch,LP,Tiogue,Coventry,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.54940032000,41.68517303000
+2841,Allen Harbor,LP,Alllen,North Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.41185760000,41.62038421000
+2842,Parks And Recreation Complex,LP,Clarke,Narragansett,MUN,CIN,MUN,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.47698211000,41.39974212000
+2846,County Road Boat Launch,LP,County,Barrington,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.29730224000,41.73725891000
+2868,Spring Lake,FB,Black Hut,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.66511535000,41.97899246000
+2869,Wakefield Pond,FB,Lee,Burrillville,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.78852844000,41.96621322000
+2870,Deep Pond,FB,Deep Pond,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.71777343000,41.56175613000
+2871,Frosty Hollow Pond,FB,Camp E-hun-tee,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.70903015000,41.58768844000
+2872,Simmons Mill Pond,MA,Colebrook,Little Compton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.15438079000,41.53970336000
+2873,Pettaquamscutt Pond,FB,Gilbert Stuart,North Kingstown,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.44407653000,41.51992034000
+2874,Biscuit City,FB,Biscuit City,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.61579895000,41.45082473000
+2875,Stafford Pond,FB,Oldafford,Tiverton,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.14877319000,41.63361358000
+2876,Big River @burnt Saw Mill Rd,FB,Burnt Sawmill,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.60775756000,41.64326858000
+2877,Tarbox Pond,FB,Hopkins Hill,West Greenwich,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.57354736000,41.63637924000
+2878,Hope Valley,FB,Nooseneck Hill,Hopkinton,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70645904000,41.51210403000
+2879,Fogland Boat Launch,FB,Fogland,Tiverton,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.21348571000,41.55488204000
+2880,Longmeadow Fishing And Boating Access,FB,Dorr,Warwick,MUN,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.36469268000,41.70441818000
+2881,Zeke's Bridge,FB,Harkney Hill,Coventry,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.61888122000,41.66522979000
+2882,Pascoag Reservoir Fishing Access,FB,Brandy Brook,Glocester,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.71816253000,41.92723464000
+2883,JL Curran,SP,Seven Mile,Cranston,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,-71.55120086000,41.75072860000
+2884,Richmond Landing,FB,Church,Richmond,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.68135070000,41.44525146000
+2885,White Rock,FB,State 78,Westerly,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.84104156000,41.39451217000
+2887,Brickyard Pond,FB,Legion,Barrington,MUN,CIN,MUN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.32526397000,41.73535919000
+2888,Olney Pond Fishing Access,FB,Stump Hill,Lincoln,STA,EAS,FED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.42659759000,41.89469528000
+2890,Lonsdale Drive-in,FB,John,Lincoln,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.40005493000,41.90730285000
+2891,High Banks,FB,Summit,Exeter,STA,FEE,STA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.71535491000,41.56528854000
+2892,Rose Nulman Memorial Park,LP,Ocean,Narragansett,PRV,NON,PRV,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.48078155000,41.36204910000
