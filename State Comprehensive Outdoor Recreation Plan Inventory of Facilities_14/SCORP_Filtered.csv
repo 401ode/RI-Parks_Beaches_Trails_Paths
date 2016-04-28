@@ -1,28 +1,28 @@
-OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Football Field,Multi-use Field,Basketball Court,Tennis,Volleyball Court,Track,Skate Park,IH_Rink,SH_Rink,Golf,Fishing,Boating,Hunting,Trails,Beach,Pool,Active Rec,Lon,Lat,Rest Room,Walking Path,Bike Path,State Grant,LWCF Grant,Summary
+OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Football Field,Multi-use Field,Basketball Court,Tennis,Volleyball Court,Track,Skate Park,IH_Rink,SH_Rink,Golf,Fishing,Boating,Hunting,Trails,Beach,Pool,Active Rec,Lon,Lat,Rest Room,Walking Path,Bike Path,State Grant,LWCF Grant,Short_Summary
 3,3,Spring Grove Beach,Local Park,Spring Grove,Glocester,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.653849,41.913438,0,0,0,N,N,Spring Grove Beach is a Local Park located in Glocester
 4,4,Lime Acres,Local Park,Jenckes Hill,Lincoln,Municipal,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.469891,41.910619,0,0,0,Y,Y,Lime Acres is a Local Park located in Lincoln
-23,23,Slater Park,Local Park,Pawtucket,Pawtucket,Municipal,0,9,0,0,1,0,10,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.346330,41.869923,1,0,0,Y,Y,Slater Park is a Local Park located in Pawtucket
+23,23,Slater Park,Local Park,Pawtucket,Pawtucket,Municipal,0,9,0,0,1,0,10,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.34633,41.869923,1,0,0,Y,Y,Slater Park is a Local Park located in Pawtucket
 28,28,Max Read Field,Local Park,Pleasant,Pawtucket,Municipal,0,0,2,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,-71.381124,41.864352,0,0,0,Y,Y,Max Read Field is a Local Park located in Pawtucket
-33,33,Blackstone Blvd. Park,Local Park,Blackstone,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.387790,41.852104,0,1,0,N,Y,Blackstone Blvd. Park is a Local Park located in Providence
+33,33,Blackstone Blvd. Park,Local Park,Blackstone,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.38779,41.852104,0,1,0,N,Y,Blackstone Blvd. Park is a Local Park located in Providence
 34,34,Stephen Olney Park,Local Park,Smithfield,North Providence,Municipal,2,4,0,0,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,1,-71.453493,41.855428,0,1,0,Y,Y,Stephen Olney Park is a Local Park located in North Providence
 38,38,Kimberly Ann Rock Memorial Athletic Complex,Athletic Facility,Ferris,East Providence,Municipal,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.346472,41.848534,1,0,0,N,N,Kimberly Ann Rock Memorial Athletic Complex is a Athletic Facility located in East Providence
 44,44,Blackstone Park / Patterson Park,Local Park,Parkside,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.379488,41.833786,0,0,0,N,Y,Blackstone Park / Patterson Park is a Local Park located in Providence
-45,45,Father Lennon Park,School,Camden,Providence,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.427114,41.837900,0,0,0,N,N,Father Lennon Park is a School located in Providence
-56,56,Angelo Zuccolo Pool,Local Park,Gesler,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.430731,41.822570,1,0,0,N,N,Angelo Zuccolo Pool is a Local Park located in Providence
+45,45,Father Lennon Park,School,Camden,Providence,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.427114,41.8379,0,0,0,N,N,Father Lennon Park is a School located in Providence
+56,56,Angelo Zuccolo Pool,Local Park,Gesler,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.430731,41.82257,1,0,0,N,N,Angelo Zuccolo Pool is a Local Park located in Providence
 57,57,John Donigian Memorial Park,Local Park,Valley,Providence,Municipal,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.440826,41.823264,0,1,0,N,Y,John Donigian Memorial Park is a Local Park located in Providence
 62,62,India Point Park,Local Park,India,Providence,Municipal,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.392367,41.817845,0,0,0,Y,Y,India Point Park is a Local Park located in Providence
-71,71,Roger Williams Park,Local Park,Elmwood,Providence,Municipal,1,4,0,0,2,0,10,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.412300,41.782944,1,1,0,Y,Y,Roger Williams Park is a Local Park located in Providence
-86,86,Beachmont / Hayes Field,Local Park,Calvin,Cranston,Municipal,1,2,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1,-71.407330,41.775174,0,0,0,N,Y,Beachmont / Hayes Field is a Local Park located in Cranston
+71,71,Roger Williams Park,Local Park,Elmwood,Providence,Municipal,1,4,0,0,2,0,10,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.4123,41.782944,1,1,0,Y,Y,Roger Williams Park is a Local Park located in Providence
+86,86,Beachmont / Hayes Field,Local Park,Calvin,Cranston,Municipal,1,2,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1,-71.40733,41.775174,0,0,0,N,Y,Beachmont / Hayes Field is a Local Park located in Cranston
 87,87,Stillhouse Cove,Local Park,Narragansett,Cranston,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.389917,41.770139,0,0,0,N,N,Stillhouse Cove is a Local Park located in Cranston
 88,88,Aqueduct Field,Local Park,Aqueduct,Cranston,Municipal,0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.444754,41.770694,0,0,0,N,N,Aqueduct Field is a Local Park located in Cranston
-89,89,Osamequin Nature Trail,Local Park,Wampanoag,Barrington,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.322961,41.770360,0,0,0,N,N,Osamequin Nature Trail is a Local Park located in Barrington
-91,91,Sabin Point Park,Local Park,Shore,East Providence,Municipal,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.367953,41.765640,0,0,0,Y,Y,Sabin Point Park is a Local Park located in East Providence
+89,89,Osamequin Nature Trail,Local Park,Wampanoag,Barrington,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.322961,41.77036,0,0,0,N,N,Osamequin Nature Trail is a Local Park located in Barrington
+91,91,Sabin Point Park,Local Park,Shore,East Providence,Municipal,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.367953,41.76564,0,0,0,Y,Y,Sabin Point Park is a Local Park located in East Providence
 97,97,Crescent Park / Loof Carousel,Local Park,Bullocks Point,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.359192,41.757079,1,0,0,N,Y,Crescent Park / Loof Carousel is a Local Park located in East Providence
 99,99,Briggs Farm,Athletic Facility,Hope,Cranston,Municipal,0,5,5,0,5,0,2,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.511555,41.752075,1,0,0,Y,Y,Briggs Farm is a Athletic Facility located in Cranston
 100,100,Latham Ave. Park,Local Park,Shore,Barrington,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.352122,41.745801,0,0,0,Y,N,Latham Ave. Park is a Local Park located in Barrington
 107,107,Mickey Stevens Sports Center,Local Park,Sandy,Warwick,Municipal,0,3,0,0,0,2,8,0,0,1,1,0,0,0,0,0,0,0,1,1,-71.414576,41.709954,1,0,0,N,Y,Mickey Stevens Sports Center is a Local Park located in Warwick
 109,109,Little Pond Beach,Local Park,Albert,Warwick,School,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.407682,41.704952,0,0,0,N,N,Little Pond Beach is a Local Park located in Warwick
-110,110,Upper Dam Pond,Local Park,Knotty Oak,Coventry,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.554188,41.704620,0,0,0,N,Y,Upper Dam Pond is a Local Park located in Coventry
+110,110,Upper Dam Pond,Local Park,Knotty Oak,Coventry,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.554188,41.70462,0,0,0,N,Y,Upper Dam Pond is a Local Park located in Coventry
 120,120,Briar Point Beach Area,Local Park,Briar Point,Coventry,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.549679,41.674302,1,0,0,Y,Y,Briar Point Beach Area is a Local Park located in Coventry
 121,121,Independence Park,Local Park,Thames,Bristol,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.279487,41.673785,1,1,1,Y,N,Independence Park is a Local Park located in Bristol
 127,127,Wilson Park,Local Park,Roosevelt,North Kingstown,Municipal,1,3,10,0,10,2,2,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.459231,41.574637,1,0,0,Y,Y,Wilson Park is a Local Park located in North Kingstown
@@ -32,7 +32,7 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 163,163,Tuckertown Recreation Area,Local Park,Tuckertown Park,South Kingstown,Municipal,1,2,4,0,1,1,2,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.556846,41.426759,1,0,0,N,Y,Tuckertown Recreation Area is a Local Park located in South Kingstown
 168,168,Wilcox Park,Local Park,Grove,Westerly,Municipal,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.828134,41.378604,1,1,0,Y,N,Wilcox Park is a Local Park located in Westerly
 169,169,Ninigret Park,Local Park,Park,Charlestown,Municipal,1,1,1,0,2,1,4,0,0,0,0,0,0,1,0,0,0,0,1,1,-71.665937,41.370021,1,0,0,Y,Y,Ninigret Park is a Local Park located in Charlestown
-172,172,Coventry Greenway And Bike Path,Local Park,Main,Coventry,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.573990,41.695070,0,0,0,N,N,Coventry Greenway And Bike Path is a Local Park located in Coventry
+172,172,Coventry Greenway And Bike Path,Local Park,Main,Coventry,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.57399,41.69507,0,0,0,N,N,Coventry Greenway And Bike Path is a Local Park located in Coventry
 174,174,South Kingstown Town Beach,Local Park,Matunuck Beach,South Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.550589,41.375552,1,0,0,Y,Y,South Kingstown Town Beach is a Local Park located in South Kingstown
 177,177,Britto's Park,Local Park,Unnamed,Warren,Municipal,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.261173,41.725052,0,0,0,N,N,Britto's Park is a Local Park located in Warren
 178,178,Cole Avenue Field,Local Park,Hugh Cole,Warren,Municipal,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.257112,41.727364,1,0,0,N,N,Cole Avenue Field is a Local Park located in Warren
@@ -44,17 +44,17 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 204,204,Brayton Ave. Field,Local Park,Unnamed,Cranston,Municipal,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.472299,41.746813,1,1,0,N,N,Brayton Ave. Field is a Local Park located in Cranston
 205,205,Park View Field,Local Park,Park View,Cranston,Municipal,1,3,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.414537,41.772213,1,1,0,Y,N,Park View Field is a Local Park located in Cranston
 210,210,Pierce Field Athletic Complex,Athletic Facility,Mercer,East Providence,Municipal,1,4,0,0,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.382405,41.810602,1,0,0,Y,N,Pierce Field Athletic Complex is a Athletic Facility located in East Providence
-216,216,King Park,Local Park,Wellington,Newport,Municipal,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.319806,41.476550,1,0,0,Y,N,King Park is a Local Park located in Newport
+216,216,King Park,Local Park,Wellington,Newport,Municipal,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.319806,41.47655,1,0,0,Y,N,King Park is a Local Park located in Newport
 219,219,Fairlawn Veterans' Park,Local Park,Legion,Pawtucket,Municipal,1,3,1,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.410258,41.867437,1,0,0,Y,Y,Fairlawn Veterans' Park is a Local Park located in Pawtucket
-224,224,Joslin Playground,Local Park,Kossuth,Providence,Municipal,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-71.446710,41.821175,0,0,0,N,N,Joslin Playground is a Local Park located in Providence
+224,224,Joslin Playground,Local Park,Kossuth,Providence,Municipal,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-71.44671,41.821175,0,0,0,N,N,Joslin Playground is a Local Park located in Providence
 226,226,Neutaconkanut Park,Local Park,Killingly,Providence,Municipal,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,-71.463318,41.814191,0,0,0,Y,Y,Neutaconkanut Park is a Local Park located in Providence
-227,227,Old Mountain Field,Local Park,Kingstown,South Kingstown,Municipal,1,2,0,0,0,0,4,0,0,1,0,1,0,1,0,0,1,0,0,1,-71.488434,41.446210,0,0,0,Y,N,Old Mountain Field is a Local Park located in South Kingstown
+227,227,Old Mountain Field,Local Park,Kingstown,South Kingstown,Municipal,1,2,0,0,0,0,4,0,0,1,0,1,0,1,0,0,1,0,0,1,-71.488434,41.44621,0,0,0,Y,N,Old Mountain Field is a Local Park located in South Kingstown
 229,229,Town Farm Recreation Area,Local Park,Main,Tiverton,Municipal,1,3,1,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.192116,41.582928,0,1,0,Y,N,Town Farm Recreation Area is a Local Park located in Tiverton
 232,232,Oakland Beach Park,Local Park,Burr,Warwick,Municipal,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.396434,41.685134,1,0,0,Y,Y,Oakland Beach Park is a Local Park located in Warwick
 234,234,City Park,Local Park,Warwick Park,Warwick,Municipal,1,4,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.412482,41.692601,1,1,1,Y,Y,City Park is a Local Park located in Warwick
 237,237,Natick Fields,Local Park,Crossland,West Warwick,Municipal,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.495264,41.726277,0,0,0,N,N,Natick Fields is a Local Park located in West Warwick
 238,238,Riverpoint Park,Athletic Facility,Hay,West Warwick,Municipal,20,5,3,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.515249,41.717512,1,1,1,Y,Y,Riverpoint Park is a Athletic Facility located in West Warwick
-245,245,Black Hut Management Area,Management Area,Glen Meadow,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-71.648676,41.987210,0,0,0,N,N,Black Hut Management Area is a Management Area located in Burrillville
+245,245,Black Hut Management Area,Management Area,Glen Meadow,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,-71.648676,41.98721,0,0,0,N,N,Black Hut Management Area is a Management Area located in Burrillville
 248,248,Doric Ave / Osler Field,Local Park,Doric,Cranston,Municipal,1,0,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.429907,41.770684,1,1,0,Y,Y,Doric Ave / Osler Field is a Local Park located in Cranston
 262,262,Carl's Pond,Fishing / Boating,Jencks,Cumberland,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.446601,42.013129,0,0,0,N,N,Carl's Pond is a Fishing / Boating located in Cumberland
 263,263,St Paul / Waterford Playground,Local Park,Saint Paul,North Smithfield,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.540628,42.013987,0,0,0,N,Y,St Paul / Waterford Playground is a Local Park located in North Smithfield
@@ -75,26 +75,26 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 312,312,Marion Irons Beach,Local Park,Snake Hill,Glocester,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.625818,41.879615,0,0,0,N,N,Marion Irons Beach is a Local Park located in Glocester
 322,322,Greenlake Beach,Local Park,Bayou,Smithfield,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.551839,41.865265,1,0,0,N,N,Greenlake Beach is a Local Park located in Smithfield
 323,323,McCarthy Park,Local Park,School,Pawtucket,Municipal,1,2,1,0,1,1,3,0,0,0,0,1,0,1,0,0,0,0,0,1,-71.376462,41.863003,0,0,0,Y,N,McCarthy Park is a Local Park located in Pawtucket
-327,327,Snake Den State Park,Conservation Area,Hartford,Johnston,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.532001,41.841300,0,0,0,N,Y,Snake Den State Park is a Conservation Area located in Johnston
+327,327,Snake Den State Park,Conservation Area,Hartford,Johnston,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.532001,41.8413,0,0,0,N,Y,Snake Den State Park is a Conservation Area located in Johnston
 328,328,Lippitt Park,Local Park,Hope,Providence,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.391451,41.854711,0,1,0,N,Y,Lippitt Park is a Local Park located in Providence
-333,333,Iola French Park,Local Park,Stansbury,Providence,Municipal,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.432870,41.851359,0,1,0,N,N,Iola French Park is a Local Park located in Providence
+333,333,Iola French Park,Local Park,Stansbury,Providence,Municipal,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.43287,41.851359,0,1,0,N,N,Iola French Park is a Local Park located in Providence
 334,334,Ricci School Athletic Complex,Athletic Facility,Intervale,North Providence,Municipal,0,0,3,0,3,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.471598,41.848203,0,0,0,N,N,Ricci School Athletic Complex is a Athletic Facility located in North Providence
-340,340,Mount Pleasant H. S. Fields,School,Rialto,Providence,School,0,1,2,1,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.453569,41.838220,0,0,0,Y,N,Mount Pleasant H. S. Fields is a School located in Providence
+340,340,Mount Pleasant H. S. Fields,School,Rialto,Providence,School,0,1,2,1,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.453569,41.83822,0,0,0,Y,N,Mount Pleasant H. S. Fields is a School located in Providence
 345,345,Johnston Sr High School,School,Cherry Hill,Johnston,School,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.501006,41.833013,0,0,0,N,N,Johnston Sr High School is a School located in Johnston
 348,348,Shippee Sawmill Pond,Fishing / Boating,Willoughby Young,Foster,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.752366,41.833792,0,0,0,N,N,Shippee Sawmill Pond is a Fishing / Boating located in Foster
 352,352,Dean Andrews Memorial Field,Local Park,Battey Meetinghouse,Scituate,State,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.604893,41.829299,0,0,0,N,N,Dean Andrews Memorial Field is a Local Park located in Scituate
 355,355,Roger Williams National Park,Local Park,Main,Providence,Federal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.410546,41.830008,0,1,0,N,N,Roger Williams National Park is a Local Park located in Providence
 356,356,Scituate Jr.-Sr. High School,School,Rockland,Scituate,School,0,0,1,1,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.618977,41.824622,0,0,0,N,N,Scituate Jr.-Sr. High School is a School located in Scituate
-363,363,Central / Classical  High Schools,School,Broad,Providence,School,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.419350,41.816960,0,0,0,N,N,Central / Classical  High Schools is a School located in Providence
+363,363,Central / Classical  High Schools,School,Broad,Providence,School,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.41935,41.81696,0,0,0,N,N,Central / Classical  High Schools is a School located in Providence
 368,368,Bold Point Park,Local Park,Pier,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.390973,41.815222,0,0,0,Y,Y,Bold Point Park is a Local Park located in East Providence
 371,371,Davey Lopes Park,Local Park,Prairie,Providence,Municipal,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.415963,41.810352,0,0,0,N,N,Davey Lopes Park is a Local Park located in Providence
 379,379,Bucklin St. Park / McCrane Pool,Local Park,Bucklin,Providence,Municipal,1,1,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-71.428647,41.805194,0,0,0,N,N,Bucklin St. Park / McCrane Pool is a Local Park located in Providence
-386,386,Squantum Woods Grove,Local Park,Veterans Memorial,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.369868,41.794520,0,0,0,N,N,Squantum Woods Grove is a Local Park located in East Providence
+386,386,Squantum Woods Grove,Local Park,Veterans Memorial,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.369868,41.79452,0,0,0,N,N,Squantum Woods Grove is a Local Park located in East Providence
 387,387,JT Owens Park,Local Park,Niantic,Providence,State,1,3,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.436846,41.793388,0,0,0,N,Y,JT Owens Park is a Local Park located in Providence
 392,392,Fay Memorial Field,Local Park,Dallas,Cranston,State,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.400307,41.770825,0,0,0,N,N,Fay Memorial Field is a Local Park located in Cranston
 393,393,Meshanticut Park,State Park,Lakeview,Cranston,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.476043,41.768705,0,0,0,N,N,Meshanticut Park is a State Park located in Cranston
 397,397,Walker Farm,Fishing / Boating,Wampanoag,Barrington,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.321676,41.753035,0,0,0,N,Y,Walker Farm is a Fishing / Boating located in Barrington
-400,400,Adams Playground,Local Park,Adams,Warwick,Municipal,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.397801,41.758520,0,1,0,N,Y,Adams Playground is a Local Park located in Warwick
+400,400,Adams Playground,Local Park,Adams,Warwick,Municipal,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.397801,41.75852,0,1,0,N,Y,Adams Playground is a Local Park located in Warwick
 404,404,Haines Park,State Park,Haines Park,Barrington,State,0,3,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.346137,41.752324,0,0,0,N,Y,Haines Park is a State Park located in Barrington
 405,405,Salter Grove,Local Park,Narragansett,Warwick,State,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.383462,41.752861,0,0,0,N,N,Salter Grove is a Local Park located in Warwick
 407,407,Hampdem Meadows Greenbelt,Conservation Area,Lafayette,Barrington,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.299988,41.748182,0,0,0,Y,N,Hampdem Meadows Greenbelt is a Conservation Area located in Barrington
@@ -119,20 +119,20 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 496,496,Devil's Foot Rock,Conservation Area,Post,North Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.456466,41.602625,0,0,0,N,N,Devil's Foot Rock is a Conservation Area located in North Kingstown
 497,497,South Prudence Island,Management Area,Bunker,Portsmouth,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.323576,41.587923,0,0,0,N,Y,South Prudence Island is a Management Area located in Portsmouth
 500,500,Queen's Fort Historic Site,State Park,Lantern,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.522012,41.590329,0,0,0,N,N,Queen's Fort Historic Site is a State Park located in Exeter
-501,501,Cocumscussoc Park,Conservation Area,Post Road,North Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.473153,41.581420,0,0,0,N,Y,Cocumscussoc Park is a Conservation Area located in North Kingstown
+501,501,Cocumscussoc Park,Conservation Area,Post Road,North Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.473153,41.58142,0,0,0,N,Y,Cocumscussoc Park is a Conservation Area located in North Kingstown
 502,502,Seapowet Marsh,Fishing / Boating,Seapowet,Tiverton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.209411,41.582185,0,0,0,N,N,Seapowet Marsh is a Fishing / Boating located in Tiverton
 504,504,Beach Pond State Park,Fishing / Boating,Ten Rod,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,-71.786376,41.574058,0,0,0,N,Y,Beach Pond State Park is a Fishing / Boating located in Exeter
-505,505,North Kingstown Town Boat Launch,Local Park,Flat Fish,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.452800,41.577877,0,0,0,N,N,North Kingstown Town Boat Launch is a Local Park located in North Kingstown
+505,505,North Kingstown Town Boat Launch,Local Park,Flat Fish,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.4528,41.577877,0,0,0,N,N,North Kingstown Town Boat Launch is a Local Park located in North Kingstown
 509,509,North Kingstown Town Beach,Local Park,Beach,North Kingstown,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.443978,41.566693,1,0,0,N,N,North Kingstown Town Beach is a Local Park located in North Kingstown
-510,510,Fogland Beach,Local Park,Three Rod,Tiverton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.213170,41.556254,1,0,0,N,N,Fogland Beach is a Local Park located in Tiverton
+510,510,Fogland Beach,Local Park,Three Rod,Tiverton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.21317,41.556254,1,0,0,N,N,Fogland Beach is a Local Park located in Tiverton
 512,512,North Kingstown High School,School,Fairway,North Kingstown,School,0,2,3,1,3,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.446609,41.557092,0,0,0,N,N,North Kingstown High School is a School located in North Kingstown
 513,513,Arcadia Management Area,Management Area,Ten Rod,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,-71.724199,41.580835,0,0,0,N,N,Arcadia Management Area is a Management Area located in Exeter
 515,515,Sandy Point Beach,Local Park,Sandy Point,Portsmouth,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.236275,41.553326,1,0,0,Y,Y,Sandy Point Beach is a Local Park located in Portsmouth
 516,516,John H Chafee Rome Point Preserve,State Park,Boston Neck Road,North Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.431251,41.540186,0,0,0,N,N,John H Chafee Rome Point Preserve is a State Park located in North Kingstown
-517,517,May C. Donovan Marsh,Conservation Area,Francis,Little Compton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.203020,41.544938,0,0,0,N,N,May C. Donovan Marsh is a Conservation Area located in Little Compton
+517,517,May C. Donovan Marsh,Conservation Area,Francis,Little Compton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.20302,41.544938,0,0,0,N,N,May C. Donovan Marsh is a Conservation Area located in Little Compton
 520,520,Shady Lea,Conservation Area,Colonel Rodman,North Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.470316,41.540675,0,0,0,N,N,Shady Lea is a Conservation Area located in North Kingstown
 522,522,Silver Spring Lake Fishing Area,Fishing / Boating,Silver Spring,North Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.470075,41.538213,0,0,0,N,N,Silver Spring Lake Fishing Area is a Fishing / Boating located in North Kingstown
-523,523,Jamestown Shores Beach,Local Park,Seaside,Jamestown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.385780,41.538237,0,0,0,N,N,Jamestown Shores Beach is a Local Park located in Jamestown
+523,523,Jamestown Shores Beach,Local Park,Seaside,Jamestown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.38578,41.538237,0,0,0,N,N,Jamestown Shores Beach is a Local Park located in Jamestown
 527,527,Rockville Management,Management Area,Canonchet,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,-71.757047,41.505938,0,0,0,N,N,Rockville Management is a Management Area located in Hopkinton
 535,535,Van Zandt Pier,Local Park,Van Zandt,Newport,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.322508,41.498414,0,0,0,Y,N,Van Zandt Pier is a Local Park located in Newport
 540,540,Hannah Robinson Tower,State Park,Bridgetown,South Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.455886,41.495048,0,0,0,N,N,Hannah Robinson Tower is a State Park located in South Kingstown
@@ -147,10 +147,10 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 553,553,Cliff Walk,Local Park,Narragansett,Newport,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.297308,41.475895,0,1,0,N,Y,Cliff Walk is a Local Park located in Newport
 554,554,Fort Adams State Park,State Park,Fort Adams,Newport,State,0,0,3,0,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.338285,41.475328,1,1,0,N,Y,Fort Adams State Park is a State Park located in Newport
 555,555,Fort Wetherill,State Park,Fort Wetherill,Jamestown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.365277,41.480219,1,0,0,N,Y,Fort Wetherill is a State Park located in Jamestown
-557,557,Rogers High School,School,Wickham,Newport,School,0,0,1,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.320540,41.469780,0,0,0,N,N,Rogers High School is a School located in Newport
+557,557,Rogers High School,School,Wickham,Newport,School,0,0,1,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.32054,41.46978,0,0,0,N,N,Rogers High School is a School located in Newport
 560,560,Beavertail State Park,State Park,Beavertail,Jamestown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.397029,41.456776,1,0,0,N,Y,Beavertail State Park is a State Park located in Jamestown
 561,561,Brenton Point Park,State Park,Atlantic,Newport,State,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.354434,41.451964,1,0,0,N,Y,Brenton Point Park is a State Park located in Newport
-562,562,Kings Beach,Fishing / Boating,Price's Neck,Newport,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.342353,41.454360,0,0,0,N,Y,Kings Beach is a Fishing / Boating located in Newport
+562,562,Kings Beach,Fishing / Boating,Price's Neck,Newport,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.342353,41.45436,0,0,0,N,Y,Kings Beach is a Fishing / Boating located in Newport
 563,563,Frank Fagan Park,Local Park,Dam,South Kingstown,Municipal,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.506856,41.453247,0,1,0,Y,Y,Frank Fagan Park is a Local Park located in South Kingstown
 564,564,Chariho High School,School,Switch,Richmond,School,0,4,2,1,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.697339,41.450793,0,0,0,N,N,Chariho High School is a School located in Richmond
 569,569,East Greenwich High School,Athletic Facility,Avenger,East Greenwich,Municipal,1,3,4,2,4,0,6,0,1,1,0,0,0,0,0,0,0,0,0,1,-71.483664,41.637105,0,0,0,N,Y,East Greenwich High School is a Athletic Facility located in East Greenwich
@@ -168,7 +168,7 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 591,591,Fort Ninigret,State Park,Fort Ninigret,Charlestown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.647867,41.381112,0,0,0,N,N,Fort Ninigret is a State Park located in Charlestown
 592,592,Burlingame Management Area,Management Area,Unnamed,Charlestown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.707536,41.404769,0,0,0,N,N,Burlingame Management Area is a Management Area located in Charlestown
 595,595,Babcock Hall,Local Park,Ward,Westerly,School,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.820431,41.376328,0,0,0,N,N,Babcock Hall is a Local Park located in Westerly
-596,596,East Matunuck State Beach,State Park,Succotash,South Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.525990,41.377811,1,0,0,N,Y,East Matunuck State Beach is a State Park located in South Kingstown
+596,596,East Matunuck State Beach,State Park,Succotash,South Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.52599,41.377811,1,0,0,N,Y,East Matunuck State Beach is a State Park located in South Kingstown
 597,597,Roger Wheeler State Beach,State Park,Sand Hill Cove,Narragansett,State,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.499466,41.373315,1,0,0,N,Y,Roger Wheeler State Beach is a State Park located in Narragansett
 600,600,Camp Cronin,Fishing / Boating,Ocean,Narragansett,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.485847,41.362218,0,0,0,N,Y,Camp Cronin is a Fishing / Boating located in Narragansett
 601,601,Charlestown Town Beach,Local Park,Brown Hill,Charlestown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.625667,41.361211,1,0,0,N,N,Charlestown Town Beach is a Local Park located in Charlestown
@@ -177,15 +177,15 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 605,605,Quonochontaug Fishing Area,Fishing / Boating,Beach,Charlestown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.722246,41.336573,0,0,0,N,N,Quonochontaug Fishing Area is a Fishing / Boating located in Charlestown
 606,606,Misquamicut State Beach,State Park,Atlantic,Westerly,State,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.803578,41.323164,1,0,0,N,N,Misquamicut State Beach is a State Park located in Westerly
 607,607,Westerly Town Beach,Local Park,Atlantic,Westerly,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.790545,41.325007,1,0,0,Y,N,Westerly Town Beach is a Local Park located in Westerly
-609,609,Settler's Rock,Local Park,Corn Neck,New Shoreham,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.567455,41.224600,0,0,0,N,N,Settler's Rock is a Local Park located in New Shoreham
+609,609,Settler's Rock,Local Park,Corn Neck,New Shoreham,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.567455,41.2246,0,0,0,N,N,Settler's Rock is a Local Park located in New Shoreham
 611,611,Clay Head,Conservation Area,Clayhead,New Shoreham,Non-Governmental Org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.562078,41.208542,0,0,0,N,Y,Clay Head is a Conservation Area located in New Shoreham
-614,614,Rodman's Hollow,Conservation Area,Black Rock,New Shoreham,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.590790,41.152571,0,0,0,N,Y,Rodman's Hollow is a Conservation Area located in New Shoreham
-616,616,Chepiwanoxet,Local Park,John Wickes,Warwick,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.442100,41.673582,0,0,0,N,N,Chepiwanoxet is a Local Park located in Warwick
-617,617,Lincoln Park,Local Park,Kentucky,Warwick,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.436914,41.737030,0,1,0,N,N,Lincoln Park is a Local Park located in Warwick
+614,614,Rodman's Hollow,Conservation Area,Black Rock,New Shoreham,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.59079,41.152571,0,0,0,N,Y,Rodman's Hollow is a Conservation Area located in New Shoreham
+616,616,Chepiwanoxet,Local Park,John Wickes,Warwick,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.4421,41.673582,0,0,0,N,N,Chepiwanoxet is a Local Park located in Warwick
+617,617,Lincoln Park,Local Park,Kentucky,Warwick,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.436914,41.73703,0,1,0,N,N,Lincoln Park is a Local Park located in Warwick
 621,621,Merrill S. Whipple Conservation,Management Area,Sandy Bottom,Coventry,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,-71.556304,41.688168,0,0,0,N,N,Merrill S. Whipple Conservation is a Management Area located in Coventry
-624,624,East Bay Bike Path,State Park,Franklin,Warren,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.280670,41.725813,0,1,1,N,N,East Bay Bike Path is a State Park located in Warren
-627,627,Buttonhole Golf Course,Local Park,King Philip,Johnston,State,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,-71.463510,41.825323,1,0,0,N,Y,Buttonhole Golf Course is a Local Park located in Johnston
-628,628,Waterplace Park,Local Park,Finance,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.413970,41.827199,0,1,0,N,N,Waterplace Park is a Local Park located in Providence
+624,624,East Bay Bike Path,State Park,Franklin,Warren,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.28067,41.725813,0,1,1,N,N,East Bay Bike Path is a State Park located in Warren
+627,627,Buttonhole Golf Course,Local Park,King Philip,Johnston,State,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,-71.46351,41.825323,1,0,0,N,Y,Buttonhole Golf Course is a Local Park located in Johnston
+628,628,Waterplace Park,Local Park,Finance,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.41397,41.827199,0,1,0,N,N,Waterplace Park is a Local Park located in Providence
 635,635,St. Andrew's Farm,Athletic Facility,Middle,Barrington,Municipal,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.331377,41.748697,0,1,0,Y,N,St. Andrew's Farm is a Athletic Facility located in Barrington
 636,636,Salty Brine State Beach,State Park,Sand Hill Cove,Narragansett,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.512802,41.375436,1,0,0,N,Y,Salty Brine State Beach is a State Park located in Narragansett
 640,640,Barrington High School,School,Lincoln,Barrington,School,0,3,3,1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.320014,41.747694,0,0,0,N,N,Barrington High School is a School located in Barrington
@@ -195,24 +195,24 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 646,646,East Providence High School,School,Pawtucket,East Providence,School,0,3,6,1,6,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.352663,41.819228,0,0,0,N,N,East Providence High School is a School located in East Providence
 648,648,Ponagansett School,School,Anan Wade,Glocester,School,0,2,2,1,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.714499,41.867309,0,0,0,Y,Y,Ponagansett School is a School located in Glocester
 650,650,Lincoln Junior / Senior High,School,Old River,Lincoln,School,0,2,2,1,2,0,8,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.451391,41.937735,0,0,0,N,N,Lincoln Junior / Senior High is a School located in Lincoln
-655,655,Notte Memorial Park,Local Park,Douglas,North Providence,Municipal,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.462760,41.871503,0,0,0,Y,Y,Notte Memorial Park is a Local Park located in North Providence
+655,655,Notte Memorial Park,Local Park,Douglas,North Providence,Municipal,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.46276,41.871503,0,0,0,Y,Y,Notte Memorial Park is a Local Park located in North Providence
 657,657,North Smithfield High School,School,Greenville,North Smithfield,School,0,2,1,1,1,2,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.544471,41.951657,0,0,0,N,Y,North Smithfield High School is a School located in North Smithfield
 658,658,Hope High School,School,Brown,Providence,School,1,2,1,1,2,1,8,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.403795,41.834295,0,0,0,Y,N,Hope High School is a School located in Providence
 660,660,Smithfield High School,School,Rosewood,Smithfield,School,0,2,1,1,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.544006,41.879808,0,0,0,N,N,Smithfield High School is a School located in Smithfield
-664,664,Gorton School,School,Draper,Warwick,School,0,0,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.377782,41.706190,0,1,0,N,N,Gorton School is a School located in Warwick
-666,666,Father Tirocchi Playground,Local Park,Pontiac,Warwick,Municipal,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.485260,41.723669,0,1,1,N,Y,Father Tirocchi Playground is a Local Park located in Warwick
+664,664,Gorton School,School,Draper,Warwick,School,0,0,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.377782,41.70619,0,1,0,N,N,Gorton School is a School located in Warwick
+666,666,Father Tirocchi Playground,Local Park,Pontiac,Warwick,Municipal,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.48526,41.723669,0,1,1,N,Y,Father Tirocchi Playground is a Local Park located in Warwick
 667,667,Pilgrim High School,School,Pilgrim,Warwick,School,0,1,2,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.409104,41.746083,0,0,0,N,N,Pilgrim High School is a School located in Warwick
 669,669,West Warwick School Complex,School,Webster Knight,West Warwick,School,0,1,3,1,3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.515731,41.708819,0,0,0,N,N,West Warwick School Complex is a School located in West Warwick
 670,670,Cold Spring Park,Local Park,Katherine,Woonsocket,Municipal,1,2,0,0,0,1,2,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.525199,42.009141,0,0,0,Y,Y,Cold Spring Park is a Local Park located in Woonsocket
-672,672,Exeter / West Greenwich Soccer,Athletic Facility,Victory,West Greenwich,Municipal,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.686190,41.639300,0,0,0,N,N,Exeter / West Greenwich Soccer is a Athletic Facility located in West Greenwich
+672,672,Exeter / West Greenwich Soccer,Athletic Facility,Victory,West Greenwich,Municipal,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-71.68619,41.6393,0,0,0,N,N,Exeter / West Greenwich Soccer is a Athletic Facility located in West Greenwich
 673,673,Exeter / West Greenwich Jr-Sr High,School,Nooseneck Hill,West Greenwich,School,0,2,2,1,3,0,4,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.637134,41.605827,0,0,0,Y,N,Exeter / West Greenwich Jr-Sr High is a School located in West Greenwich
 675,675,Broad Rock Middle School,School,Broad Rock,South Kingstown,School,0,0,2,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.484544,41.455342,0,1,0,N,N,Broad Rock Middle School is a School located in South Kingstown
 679,679,Burrillville Middle School,School,Broncos,Burrillville,School,1,2,1,0,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.623386,41.980544,0,0,0,Y,N,Burrillville Middle School is a School located in Burrillville
 688,688,Mt. Hope Farm,Local Park,Metacom,Bristol,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.254936,41.667625,0,0,0,N,N,Mt. Hope Farm is a Local Park located in Bristol
 689,689,Waypoyset Preserve / Bristol Narrows,Conservation Area,Narrows,Bristol,Non-Governmental Org,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,-71.246395,41.697129,0,0,0,N,N,Waypoyset Preserve / Bristol Narrows is a Conservation Area located in Bristol
 691,691,Blue Beach,Local Park,Quonset,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.415686,41.586811,0,0,0,N,N,Blue Beach is a Local Park located in North Kingstown
-692,692,Killingly Pond,Management Area,Cook Estate,Glocester,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.780548,41.865160,0,0,0,N,N,Killingly Pond is a Management Area located in Glocester
-701,701,Mccoy Stadium Annex,Athletic Facility,Division,Pawtucket,Municipal,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.368438,41.874150,1,0,0,Y,Y,Mccoy Stadium Annex is a Athletic Facility located in Pawtucket
+692,692,Killingly Pond,Management Area,Cook Estate,Glocester,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-71.780548,41.86516,0,0,0,N,N,Killingly Pond is a Management Area located in Glocester
+701,701,Mccoy Stadium Annex,Athletic Facility,Division,Pawtucket,Municipal,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,-71.368438,41.87415,1,0,0,Y,Y,Mccoy Stadium Annex is a Athletic Facility located in Pawtucket
 702,702,Town Landing,Local Park,Taft,Pawtucket,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.384035,41.871768,0,0,0,Y,N,Town Landing is a Local Park located in Pawtucket
 705,705,Thunder Mist Overlook,Local Park,River,Woonsocket,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.517583,42.000012,0,0,0,N,N,Thunder Mist Overlook is a Local Park located in Woonsocket
 706,706,Blackstone River Park,Local Park,High,Central Falls,Municipal,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.386793,41.898635,1,1,0,Y,N,Blackstone River Park is a Local Park located in Central Falls
@@ -220,7 +220,7 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 716,716,Union Pond Fishing Access,Fishing / Boating,Reservoir,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.703954,41.951807,1,0,0,N,N,Union Pond Fishing Access is a Fishing / Boating located in Burrillville
 717,717,Spring Lake Beach,Local Park,Hillside,Burrillville,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.657436,41.986826,1,0,0,Y,N,Spring Lake Beach is a Local Park located in Burrillville
 718,718,Slatersville Pond Fishing Access,Fishing / Boating,Victory Highway,North Smithfield,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-71.600883,41.987087,0,0,0,N,N,Slatersville Pond Fishing Access is a Fishing / Boating located in North Smithfield
-720,720,Manville Memorial Park,Local Park,High,Lincoln,Municipal,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.478040,41.965877,0,1,0,N,N,Manville Memorial Park is a Local Park located in Lincoln
+720,720,Manville Memorial Park,Local Park,High,Lincoln,Municipal,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.47804,41.965877,0,1,0,N,N,Manville Memorial Park is a Local Park located in Lincoln
 721,721,Great Road Gateway,Local Park,Front,Lincoln,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.419502,41.903537,0,1,0,N,N,Great Road Gateway is a Local Park located in Lincoln
 722,722,Tasca Field,Athletic Facility,Washington Highway,Scituate,Municipal,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.571273,41.836305,0,1,0,Y,N,Tasca Field is a Athletic Facility located in Scituate
 729,729,Jamestown Town Pier,Local Park,Conanicus,Jamestown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.366792,41.496434,0,0,0,N,Y,Jamestown Town Pier is a Local Park located in Jamestown
@@ -228,28 +228,28 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 735,735,Rocky Point Park,Local Park,Rocky Point,Warwick,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.366789,41.688344,1,1,0,N,N,Rocky Point Park is a Local Park located in Warwick
 748,748,Rose Larisa Memorial Park,Local Park,Bullocks Point,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.360932,41.756741,0,1,0,N,Y,Rose Larisa Memorial Park is a Local Park located in East Providence
 750,750,Riverside Square Park,Local Park,Bullocks Point,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.362021,41.771786,0,1,1,N,N,Riverside Square Park is a Local Park located in East Providence
-752,752,Rovensky Park,Local Park,Bellevue,Newport,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.307280,41.460061,0,1,0,N,N,Rovensky Park is a Local Park located in Newport
+752,752,Rovensky Park,Local Park,Bellevue,Newport,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.30728,41.460061,0,1,0,N,N,Rovensky Park is a Local Park located in Newport
 754,754,South County Bike Path,Local Park,Ministerial,South Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.554322,41.474304,0,1,1,N,N,South County Bike Path is a Local Park located in South Kingstown
 756,756,Allen Harbor,Local Park,Alllen,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.411861,41.620384,0,0,0,N,N,Allen Harbor is a Local Park located in North Kingstown
 758,758,Town Dock Park,Local Park,Brown,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.451216,41.570169,1,0,0,N,N,Town Dock Park is a Local Park located in North Kingstown
 761,761,Mystic Woods,Conservation Area,South,East Greenwich,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.528934,41.607042,0,0,0,N,N,Mystic Woods is a Conservation Area located in East Greenwich
 764,764,Weetamo Woods,Local Park,Lake,Tiverton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.163022,41.587203,0,0,0,N,N,Weetamo Woods is a Local Park located in Tiverton
-765,765,Grinnells Beach,Local Park,Main,Tiverton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.213713,41.625050,1,0,0,Y,N,Grinnells Beach is a Local Park located in Tiverton
+765,765,Grinnells Beach,Local Park,Main,Tiverton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.213713,41.62505,1,0,0,Y,N,Grinnells Beach is a Local Park located in Tiverton
 770,770,Blue Shutters Beach,Local Park,Beach,Charlestown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-71.694925,41.341662,1,0,0,N,N,Blue Shutters Beach is a Local Park located in Charlestown
 771,771,Fish Hill Ball Fields,Athletic Facility,Fish Hill,Coventry,State,0,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-71.625332,41.665882,1,0,0,N,N,Fish Hill Ball Fields is a Athletic Facility located in Coventry
 773,773,North Glen Boat Launch,Local Park,North Glen,Coventry,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.548344,41.670119,0,0,0,N,N,North Glen Boat Launch is a Local Park located in Coventry
 774,774,Hope Pond Recreation Area & Beach,Local Park,Ryefield,Scituate,Municipal,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,-71.565549,41.735306,0,0,0,N,N,Hope Pond Recreation Area & Beach is a Local Park located in Scituate
-778,778,Chariho Athletic Association,Local Park,Nooseneck Hill,Hopkinton,State,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.705860,41.513082,1,0,0,N,N,Chariho Athletic Association is a Local Park located in Hopkinton
+778,778,Chariho Athletic Association,Local Park,Nooseneck Hill,Hopkinton,State,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70586,41.513082,1,0,0,N,N,Chariho Athletic Association is a Local Park located in Hopkinton
 779,779,Big River / Nooseneck Hill Road Fishing Access,Fishing / Boating,Nooseneck Hill,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,-71.613731,41.644436,0,0,0,N,N,Big River / Nooseneck Hill Road Fishing Access is a Fishing / Boating located in West Greenwich
 780,780,Nannaquaket Bridge,Fishing / Boating,Main,Tiverton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.207597,41.617481,0,0,0,N,N,Nannaquaket Bridge is a Fishing / Boating located in Tiverton
-783,783,Round Top,Management Area,Round Top,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.699347,42.003940,0,0,0,N,N,Round Top is a Management Area located in Burrillville
-785,785,Blue Pond,Fishing / Boating,Canonchet,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.752874,41.502340,0,0,0,N,N,Blue Pond is a Fishing / Boating located in Hopkinton
+783,783,Round Top,Management Area,Round Top,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.699347,42.00394,0,0,0,N,N,Round Top is a Management Area located in Burrillville
+785,785,Blue Pond,Fishing / Boating,Canonchet,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-71.752874,41.50234,0,0,0,N,N,Blue Pond is a Fishing / Boating located in Hopkinton
 786,786,Long Pond,Fishing / Boating,North,Hopkinton,Non-Governmental Org,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.779158,41.508668,0,0,0,N,N,Long Pond is a Fishing / Boating located in Hopkinton
 788,788,Carr Pond,Fishing / Boating,Hopkins Hill,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.571107,41.631134,1,0,0,N,N,Carr Pond is a Fishing / Boating located in West Greenwich
 791,791,State Pier # 4,Fishing / Boating,Succotash,Narragansett,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.514997,41.378828,0,0,0,N,N,State Pier # 4 is a Fishing / Boating located in Narragansett
 794,794,Peck Pond / Pulaski Park,State Park,Unnamed,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,-71.796807,41.932786,1,0,0,N,Y,Peck Pond / Pulaski Park is a State Park located in Burrillville
 797,797,Olney Pond Fishing Access,Fishing / Boating,Stump Hill,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.426597,41.894694,0,0,0,N,N,Olney Pond Fishing Access is a Fishing / Boating located in Lincoln
-798,798,Bucks Horn Brook,Fishing / Boating,Lewis Farm,Coventry,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.756830,41.695362,0,0,0,N,N,Bucks Horn Brook is a Fishing / Boating located in Coventry
+798,798,Bucks Horn Brook,Fishing / Boating,Lewis Farm,Coventry,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.75683,41.695362,0,0,0,N,N,Bucks Horn Brook is a Fishing / Boating located in Coventry
 800,800,Deep Pond,Fishing / Boating,Deep Pond,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.717771,41.561757,0,0,0,N,N,Deep Pond is a Fishing / Boating located in Exeter
 801,801,Falls River - Austin Farm,Fishing / Boating,Plain,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.745796,41.598336,0,0,0,N,N,Falls River - Austin Farm is a Fishing / Boating located in Exeter
 802,802,Lower Fall River,Fishing / Boating,Midway Rail,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.720783,41.580259,0,0,0,N,N,Lower Fall River is a Fishing / Boating located in Exeter
@@ -257,18 +257,18 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 804,804,Upper Flat River,Fishing / Boating,Plain,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.720311,41.595625,0,0,0,N,N,Upper Flat River is a Fishing / Boating located in Exeter
 805,805,Lower Flat River,Fishing / Boating,Arcadia Man Area,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.718994,41.579508,0,0,0,N,N,Lower Flat River is a Fishing / Boating located in Exeter
 806,806,Frosty Hollow Pond,Fishing / Boating,Camp E-hun-tee,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.709033,41.587687,0,0,0,N,N,Frosty Hollow Pond is a Fishing / Boating located in Exeter
-807,807,Paris Brook,Fishing / Boating,Mount Tom,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.729140,41.564669,0,0,0,N,N,Paris Brook is a Fishing / Boating located in Exeter
-808,808,Step Stone Falls,Fishing / Boating,Falls River,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.760630,41.612550,0,0,0,N,N,Step Stone Falls is a Fishing / Boating located in West Greenwich
+807,807,Paris Brook,Fishing / Boating,Mount Tom,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.72914,41.564669,0,0,0,N,N,Paris Brook is a Fishing / Boating located in Exeter
+808,808,Step Stone Falls,Fishing / Boating,Falls River,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.76063,41.61255,0,0,0,N,N,Step Stone Falls is a Fishing / Boating located in West Greenwich
 809,809,Ponagansett,Fishing / Boating,Pine Tree,Foster,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.743199,41.845366,0,0,0,N,N,Ponagansett is a Fishing / Boating located in Foster
 810,810,Mechanic St,Fishing / Boating,Mechanic,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.716734,41.503187,0,0,0,N,N,Mechanic St is a Fishing / Boating located in Hopkinton
 811,811,Simmons Mill Pond,Management Area,Colebrook,Little Compton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,-71.154378,41.539705,0,0,0,N,N,Simmons Mill Pond is a Management Area located in Little Compton
 812,812,Carolina Trout Pond,Fishing / Boating,Coondog,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.701844,41.485767,0,0,0,N,N,Carolina Trout Pond is a Fishing / Boating located in Richmond
-813,813,Meadow Brook At Carolina,Fishing / Boating,Pine Hill,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.690200,41.466357,0,0,0,N,N,Meadow Brook At Carolina is a Fishing / Boating located in Richmond
+813,813,Meadow Brook At Carolina,Fishing / Boating,Pine Hill,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.6902,41.466357,0,0,0,N,N,Meadow Brook At Carolina is a Fishing / Boating located in Richmond
 814,814,Deep Hole,Fishing / Boating,Matunuck Beach,South Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.538333,41.373502,0,0,0,N,N,Deep Hole is a Fishing / Boating located in South Kingstown
 816,816,Weekapaug Breachway,Fishing / Boating,Wawaloam,Westerly,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.763492,41.330429,0,0,0,N,N,Weekapaug Breachway is a Fishing / Boating located in Westerly
 817,817,East Beach,Fishing / Boating,Beach,Charlestown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,-71.690076,41.344485,1,0,0,N,Y,East Beach is a Fishing / Boating located in Charlestown
 818,818,Black Point,Fishing / Boating,Ocean,Narragansett,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,-71.464501,41.400036,0,0,0,N,N,Black Point is a Fishing / Boating located in Narragansett
-819,819,Adamsville Brook,Conservation Area,Crandall,Tiverton,Utility,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.133530,41.562312,0,0,0,N,N,Adamsville Brook is a Conservation Area located in Tiverton
+819,819,Adamsville Brook,Conservation Area,Crandall,Tiverton,Utility,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.13353,41.562312,0,0,0,N,N,Adamsville Brook is a Conservation Area located in Tiverton
 826,826,Old Harbor Breakwater,Fishing / Boating,Water,New Shoreham,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.554625,41.174157,0,0,0,N,N,Old Harbor Breakwater is a Fishing / Boating located in New Shoreham
 827,827,East Beach,Local Park,Beach,New Shoreham,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,-71.566676,41.182544,1,0,0,N,N,East Beach is a Local Park located in New Shoreham
 828,828,Mohegan Bluffs / South East Light Stairway,State Park,Spring,New Shoreham,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.555077,41.152419,0,0,0,N,Y,Mohegan Bluffs / South East Light Stairway is a State Park located in New Shoreham
@@ -280,20 +280,20 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 835,835,Locustville Pond,Fishing / Boating,Unnamed,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.717153,41.515677,0,0,0,N,N,Locustville Pond is a Fishing / Boating located in Hopkinton
 836,836,Longmeadow Fishing And Boating Access,Fishing / Boating,Dorr,Warwick,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.364691,41.704419,0,0,0,N,N,Longmeadow Fishing And Boating Access is a Fishing / Boating located in Warwick
 837,837,Stump Pond,Fishing / Boating,Log,Smithfield,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.546361,41.900902,0,0,0,N,N,Stump Pond is a Fishing / Boating located in Smithfield
-838,838,Gull Cove Fishing & Boating Access,Fishing / Boating,State 138,Portsmouth,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.230813,41.633850,0,0,0,N,N,Gull Cove Fishing & Boating Access is a Fishing / Boating located in Portsmouth
+838,838,Gull Cove Fishing & Boating Access,Fishing / Boating,State 138,Portsmouth,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.230813,41.63385,0,0,0,N,N,Gull Cove Fishing & Boating Access is a Fishing / Boating located in Portsmouth
 839,839,Festival Pier,Fishing / Boating,Tim Healey,Pawtucket,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.379854,41.868938,0,0,0,Y,N,Festival Pier is a Fishing / Boating located in Pawtucket
 840,840,Zeke's Bridge,Fishing / Boating,Harkney Hill,Coventry,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.618878,41.665228,0,0,0,N,N,Zeke's Bridge is a Fishing / Boating located in Coventry
-842,842,Clarkville Pond,Fishing / Boating,Shepard,Glocester,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,-71.787800,41.924522,0,0,0,N,Y,Clarkville Pond is a Fishing / Boating located in Glocester
-843,843,Pascoag Reservoir Fishing Access,Fishing / Boating,Brandy Brook,Glocester,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.718160,41.927233,0,0,0,N,N,Pascoag Reservoir Fishing Access is a Fishing / Boating located in Glocester
+842,842,Clarkville Pond,Fishing / Boating,Shepard,Glocester,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,-71.7878,41.924522,0,0,0,N,Y,Clarkville Pond is a Fishing / Boating located in Glocester
+843,843,Pascoag Reservoir Fishing Access,Fishing / Boating,Brandy Brook,Glocester,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.71816,41.927233,0,0,0,N,N,Pascoag Reservoir Fishing Access is a Fishing / Boating located in Glocester
 844,844,Lake Washington,Fishing / Boating,Lake Washington,Glocester,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.758357,41.917302,0,0,0,N,N,Lake Washington is a Fishing / Boating located in Glocester
 845,845,Moscow Pond,Fishing / Boating,Woody Hill,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.741826,41.523295,0,0,0,N,N,Moscow Pond is a Fishing / Boating located in Hopkinton
-846,846,Olney Pond,Fishing / Boating,Les Pawson Loop,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.427737,41.889480,0,0,0,N,Y,Olney Pond is a Fishing / Boating located in Lincoln
+846,846,Olney Pond,Fishing / Boating,Les Pawson Loop,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.427737,41.88948,0,0,0,N,Y,Olney Pond is a Fishing / Boating located in Lincoln
 847,847,Carbuncle Pond,Fishing / Boating,Plainfield Pike,Coventry,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.770045,41.697442,0,0,0,N,N,Carbuncle Pond is a Fishing / Boating located in Coventry
 848,848,JL Curran,State Park,Seven Mile,Cranston,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,-71.551199,41.750729,0,0,0,N,N,JL Curran is a State Park located in Cranston
 849,849,Alton Pond Landing,Fishing / Boating,Alton Bradford,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.722437,41.438109,0,0,0,N,N,Alton Pond Landing is a Fishing / Boating located in Hopkinton
 850,850,Ashville Pond,Fishing / Boating,Canonchet,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.751404,41.499298,0,0,0,N,N,Ashville Pond is a Fishing / Boating located in Hopkinton
-851,851,Tefft River Access,Fishing / Boating,Mechanic,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.716640,41.498423,0,0,0,N,N,Tefft River Access is a Fishing / Boating located in Hopkinton
-852,852,Beaver River Fishing Access,Fishing / Boating,Kingstown,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.628268,41.492340,0,0,0,N,N,Beaver River Fishing Access is a Fishing / Boating located in Richmond
+851,851,Tefft River Access,Fishing / Boating,Mechanic,Hopkinton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.71664,41.498423,0,0,0,N,N,Tefft River Access is a Fishing / Boating located in Hopkinton
+852,852,Beaver River Fishing Access,Fishing / Boating,Kingstown,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-71.628268,41.49234,0,0,0,N,N,Beaver River Fishing Access is a Fishing / Boating located in Richmond
 853,853,Richmond Landing,Fishing / Boating,Church,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.681354,41.445251,0,0,0,N,N,Richmond Landing is a Fishing / Boating located in Richmond
 854,854,Asa Pond,Local Park,Galway,South Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.515232,41.457903,0,0,0,N,Y,Asa Pond is a Local Park located in South Kingstown
 855,855,Barber Pond,Fishing / Boating,Barber's Pond,South Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.564402,41.499138,0,0,0,N,N,Barber Pond is a Fishing / Boating located in South Kingstown
@@ -304,9 +304,9 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 860,860,Breakhart Pond,Fishing / Boating,Austin Farm,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,-71.703776,41.595722,0,0,0,N,N,Breakhart Pond is a Fishing / Boating located in Exeter
 861,861,Bradford Landing,Fishing / Boating,Main,Westerly,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.748283,41.406297,0,0,0,N,N,Bradford Landing is a Fishing / Boating located in Westerly
 862,862,Pleasant St Boat Launch,Fishing / Boating,Pleasant,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.447792,41.576842,0,0,0,N,N,Pleasant St Boat Launch is a Fishing / Boating located in North Kingstown
-865,865,South Ferry Rd,Local Park,Ferry,Narragansett,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.420510,41.492559,0,0,0,N,N,South Ferry Rd is a Local Park located in Narragansett
+865,865,South Ferry Rd,Local Park,Ferry,Narragansett,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,-71.42051,41.492559,0,0,0,N,N,South Ferry Rd is a Local Park located in Narragansett
 866,866,Brickyard Pond,Fishing / Boating,Legion,Barrington,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.325263,41.735358,0,0,0,N,N,Brickyard Pond is a Fishing / Boating located in Barrington
-869,869,Tarkiln Pond,Fishing / Boating,Mowry,Burrillville,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.597710,41.965025,0,0,0,N,N,Tarkiln Pond is a Fishing / Boating located in Burrillville
+869,869,Tarkiln Pond,Fishing / Boating,Mowry,Burrillville,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.59771,41.965025,0,0,0,N,N,Tarkiln Pond is a Fishing / Boating located in Burrillville
 870,870,Wallum Lake,Fishing / Boating,Shore,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.761792,42.000801,0,0,0,N,N,Wallum Lake is a Fishing / Boating located in Burrillville
 871,871,Spring Lake,Fishing / Boating,Black Hut,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.665116,41.978992,0,0,0,N,N,Spring Lake is a Fishing / Boating located in Burrillville
 872,872,Wakefield Pond,Fishing / Boating,Lee,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.788525,41.966212,0,0,0,N,N,Wakefield Pond is a Fishing / Boating located in Burrillville
@@ -319,8 +319,8 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 879,879,Switch Rd Canoe Access,Fishing / Boating,Hope Valley,Hopkinton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.715897,41.493468,0,0,0,N,N,Switch Rd Canoe Access is a Fishing / Boating located in Hopkinton
 880,880,Sakonnet Point,Fishing / Boating,Sakonnet Point,Little Compton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.193132,41.463383,0,0,0,N,N,Sakonnet Point is a Fishing / Boating located in Little Compton
 881,881,Galilee Boat Ramp,Fishing / Boating,Great Island,Narragansett,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.507484,41.383199,0,0,0,N,N,Galilee Boat Ramp is a Fishing / Boating located in Narragansett
-882,882,Narrow River Canoe Access,Fishing / Boating,Boston Neck,Narragansett,Federal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.449815,41.449410,0,0,0,N,N,Narrow River Canoe Access is a Fishing / Boating located in Narragansett
-883,883,Pettaquamscutt Pond,Fishing / Boating,Gilbert Stuart,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.444583,41.519610,0,0,0,N,N,Pettaquamscutt Pond is a Fishing / Boating located in North Kingstown
+882,882,Narrow River Canoe Access,Fishing / Boating,Boston Neck,Narragansett,Federal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.449815,41.44941,0,0,0,N,N,Narrow River Canoe Access is a Fishing / Boating located in Narragansett
+883,883,Pettaquamscutt Pond,Fishing / Boating,Gilbert Stuart,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.444583,41.51961,0,0,0,N,N,Pettaquamscutt Pond is a Fishing / Boating located in North Kingstown
 884,884,Wyoming Dam,Fishing / Boating,Bridge,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.702832,41.515653,0,0,0,N,N,Wyoming Dam is a Fishing / Boating located in Richmond
 885,885,Indian Lake Boat Ramp,Fishing / Boating,Indian,South Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.469534,41.474108,0,0,0,N,N,Indian Lake Boat Ramp is a Fishing / Boating located in South Kingstown
 886,886,Biscuit City,Fishing / Boating,Biscuit City,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.615799,41.450823,0,0,0,N,N,Biscuit City is a Fishing / Boating located in Richmond
@@ -329,33 +329,33 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 889,889,Worden Pond Boat Launch,Fishing / Boating,Worden's Pond,South Kingstown,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.567816,41.429521,0,0,0,N,N,Worden Pond Boat Launch is a Fishing / Boating located in South Kingstown
 890,890,Stafford Pond,Fishing / Boating,Old Stafford Rd,Tiverton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.148775,41.633614,0,0,0,N,N,Stafford Pond is a Fishing / Boating located in Tiverton
 891,891,Main Street Boat Ramp,Fishing / Boating,Main,Westerly,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.832141,41.374984,0,0,0,N,N,Main Street Boat Ramp is a Fishing / Boating located in Westerly
-892,892,Haines Park Boat Ramp,Fishing / Boating,Beach Point,East Providence,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.352730,41.753795,1,0,0,N,Y,Haines Park Boat Ramp is a Fishing / Boating located in East Providence
+892,892,Haines Park Boat Ramp,Fishing / Boating,Beach Point,East Providence,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.35273,41.753795,1,0,0,N,Y,Haines Park Boat Ramp is a Fishing / Boating located in East Providence
 893,893,Browning Mill Pond,Fishing / Boating,K And G Ranch,Richmond,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.685275,41.556027,0,0,0,N,N,Browning Mill Pond is a Fishing / Boating located in Richmond
 894,894,Monahan's Dock Fishing And Boating Access,Fishing / Boating,Ocean,Narragansett,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.455354,41.422153,0,0,0,N,N,Monahan's Dock Fishing And Boating Access is a Fishing / Boating located in Narragansett
 895,895,Big River @ Burnt Saw Mill Rd,Fishing / Boating,Burnt Sawmill,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.607758,41.643268,0,0,0,N,N,Big River @ Burnt Saw Mill Rd is a Fishing / Boating located in West Greenwich
-896,896,Big River@ Weaver Hill Road,Fishing / Boating,Weaver Hill Road,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.614350,41.649413,0,0,0,N,N,Big River@ Weaver Hill Road is a Fishing / Boating located in West Greenwich
-897,897,Tarbox Pond,Fishing / Boating,Hopkins Hill,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.573550,41.636377,0,0,0,N,N,Tarbox Pond is a Fishing / Boating located in West Greenwich
-898,898,Hopkins Mill Pond,Fishing / Boating,Winsor,Foster,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.707370,41.824130,0,0,0,N,N,Hopkins Mill Pond is a Fishing / Boating located in Foster
+896,896,Big River@ Weaver Hill Road,Fishing / Boating,Weaver Hill Road,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.61435,41.649413,0,0,0,N,N,Big River@ Weaver Hill Road is a Fishing / Boating located in West Greenwich
+897,897,Tarbox Pond,Fishing / Boating,Hopkins Hill,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.57355,41.636377,0,0,0,N,N,Tarbox Pond is a Fishing / Boating located in West Greenwich
+898,898,Hopkins Mill Pond,Fishing / Boating,Winsor,Foster,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.70737,41.82413,0,0,0,N,N,Hopkins Mill Pond is a Fishing / Boating located in Foster
 899,899,Wood River Fishing Access @ Chariho Little League,Fishing / Boating,Nooseneck Hill,Hopkinton,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.706463,41.512103,0,0,0,N,N,Wood River Fishing Access @ Chariho Little League is a Fishing / Boating located in Hopkinton
 900,900,Pawtuxet River Fishing Access,Fishing / Boating,Hope Furnace,Scituate,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.565359,41.731086,0,0,0,N,N,Pawtuxet River Fishing Access is a Fishing / Boating located in Scituate
 902,902,Harrisville Pond Fishing Access,Fishing / Boating,Sherman Farm,Burrillville,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.678794,41.970855,0,0,0,N,N,Harrisville Pond Fishing Access is a Fishing / Boating located in Burrillville
 903,903,Bellville Pond,Fishing / Boating,Oak Hill,North Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,-71.475683,41.560435,0,0,0,N,Y,Bellville Pond is a Fishing / Boating located in North Kingstown
 904,904,Weaver Cove,Fishing / Boating,Unnamed,Portsmouth,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.287929,41.573816,0,0,0,Y,N,Weaver Cove is a Fishing / Boating located in Portsmouth
 906,906,State Street Boat Launch,Fishing / Boating,State,Bristol,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.278334,41.670008,0,0,0,N,N,State Street Boat Launch is a Fishing / Boating located in Bristol
-907,907,Town Dock,Fishing / Boating,Water,Warren,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.285680,41.726292,0,0,0,N,N,Town Dock is a Fishing / Boating located in Warren
-910,910,Central Falls Landing,Local Park,Broad,Central Falls,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.390318,41.898840,0,0,0,Y,N,Central Falls Landing is a Local Park located in Central Falls
+907,907,Town Dock,Fishing / Boating,Water,Warren,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.28568,41.726292,0,0,0,N,N,Town Dock is a Fishing / Boating located in Warren
+910,910,Central Falls Landing,Local Park,Broad,Central Falls,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.390318,41.89884,0,0,0,Y,N,Central Falls Landing is a Local Park located in Central Falls
 911,911,Willet Pond,Fishing / Boating,Willett,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.355935,41.775514,0,0,0,N,Y,Willet Pond is a Fishing / Boating located in East Providence
 912,912,Homestead Boat Ramp,Fishing / Boating,Narragansett,Portsmouth,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.305022,41.619805,0,0,0,N,N,Homestead Boat Ramp is a Fishing / Boating located in Portsmouth
 913,913,Charlestown Beach Kayak Launch,Fishing / Boating,Charlestown Beach,Charlestown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.626689,41.363721,0,0,0,N,N,Charlestown Beach Kayak Launch is a Fishing / Boating located in Charlestown
 914,914,High Banks,Fishing / Boating,Summit,Exeter,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.715356,41.565288,0,0,0,N,N,High Banks is a Fishing / Boating located in Exeter
 915,915,Simmons Mill Pond,Fishing / Boating,Colebrook,Little Compton,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.150545,41.543541,0,0,0,N,N,Simmons Mill Pond is a Fishing / Boating located in Little Compton
-916,916,Corliss Landing,Local Park,Water,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.405509,41.821500,0,0,0,Y,N,Corliss Landing is a Local Park located in Providence
-918,918,Tillinghast Pond,Fishing / Boating,Plain,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.756890,41.645099,1,0,0,N,N,Tillinghast Pond is a Fishing / Boating located in West Greenwich
+916,916,Corliss Landing,Local Park,Water,Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.405509,41.8215,0,0,0,Y,N,Corliss Landing is a Local Park located in Providence
+918,918,Tillinghast Pond,Fishing / Boating,Plain,West Greenwich,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.75689,41.645099,1,0,0,N,N,Tillinghast Pond is a Fishing / Boating located in West Greenwich
 919,919,High Rocks Gorge,Conservation Area,Harkness,North Smithfield,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-71.552728,42.010987,0,0,0,N,N,High Rocks Gorge is a Conservation Area located in North Smithfield
-920,920,Oakland Forest,Conservation Area,Oakland Farm,Portsmouth,Non-Governmental Org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.261470,41.555915,0,0,0,Y,N,Oakland Forest is a Conservation Area located in Portsmouth
+920,920,Oakland Forest,Conservation Area,Oakland Farm,Portsmouth,Non-Governmental Org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.26147,41.555915,0,0,0,Y,N,Oakland Forest is a Conservation Area located in Portsmouth
 921,921,Rose Nulman Memorial Park,Local Park,Ocean,Narragansett,State,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-71.480785,41.362051,0,0,0,N,N,Rose Nulman Memorial Park is a Local Park located in Narragansett
 927,927,Briggs/Boesch Farm,Conservation Area,South,East Greenwich,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-71.506456,41.608263,0,0,0,N,N,Briggs/Boesch Farm is a Conservation Area located in East Greenwich
-929,929,Ten Mile River Greenway,Local Park,Ferris,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.345577,41.847810,1,1,1,N,N,Ten Mile River Greenway is a Local Park located in East Providence
+929,929,Ten Mile River Greenway,Local Park,Ferris,East Providence,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.345577,41.84781,1,1,1,N,N,Ten Mile River Greenway is a Local Park located in East Providence
 932,932,Paradise Valley ParK,Local Park,Prospect,Middletown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.269562,41.500759,0,1,0,N,N,Paradise Valley ParK is a Local Park located in Middletown
 939,939,Lee Romano Field,Athletic Facility,Greystone,North Providence,Municipal,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,-71.492929,41.865644,0,1,0,N,N,Lee Romano Field is a Athletic Facility located in North Providence
 947,947,Hodgson Rotary Park,Local Park,Roosevelt,Pawtucket,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.383024,41.877178,0,0,0,N,N,Hodgson Rotary Park is a Local Park located in Pawtucket
@@ -365,18 +365,18 @@ OBJECTID,ID,Name,Type,Street,Town,OwnerTyp,Playground,Ball Field,Soccer Field,Fo
 971,971,Riverside Park,Local Park,Aleppo,Providence,Municipal,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-71.448957,41.819753,1,1,1,N,N,Riverside Park is a Local Park located in Providence
 972,972,South County Bike Path,Local Park,Main,South Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.498831,41.439366,1,1,1,N,N,South County Bike Path is a Local Park located in South Kingstown
 973,973,South County Bike Path,Local Park,Railroad,South Kingstown,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.562305,41.483037,1,1,1,N,N,South County Bike Path is a Local Park located in South Kingstown
-974,974,Blackstone Bikeway,State Park,John,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.400897,41.907160,0,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
-975,975,Blackstone Bikeway,State Park,Lower River,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.434330,41.937642,0,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
+974,974,Blackstone Bikeway,State Park,John,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.400897,41.90716,0,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
+975,975,Blackstone Bikeway,State Park,Lower River,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.43433,41.937642,0,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
 976,976,Blackstone Bikeway,State Park,Rte 295,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.444167,41.939541,1,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
 977,977,Blackstone Bikeway,State Park,School,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.452944,41.953101,0,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
-978,978,Blackstone Bikeway,State Park,New River,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.466971,41.968270,0,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
+978,978,Blackstone Bikeway,State Park,New River,Lincoln,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.466971,41.96827,0,1,1,N,N,Blackstone Bikeway is a State Park located in Lincoln
 979,979,Blackstone Bikeway,State Park,Davison Ext,Woonsocket,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.494231,41.996131,1,1,1,N,N,Blackstone Bikeway is a State Park located in Woonsocket
 980,980,Ten Mile River Greenway,Local Park,Slater Memorial Park,Pawtucket,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.343168,41.868313,1,1,1,N,N,Ten Mile River Greenway is a Local Park located in Pawtucket
 981,981,East Bay Bike Path,State Park,Veterans Parkway,East Providence,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.388393,41.813305,0,1,1,N,N,East Bay Bike Path is a State Park located in East Providence
 982,982,East Bay Bike Path,State Park,Bullocks Point,East Providence,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.362556,41.772503,0,1,1,N,N,East Bay Bike Path is a State Park located in East Providence
 983,983,East Bay Bike Path,Local Park,Metropolitan Park,Barrington,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.349008,41.753904,1,1,1,N,N,East Bay Bike Path is a Local Park located in Barrington
-984,984,East Bay Bike Path,State Park,Asylum,Bristol,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.283955,41.686910,0,1,1,N,N,East Bay Bike Path is a State Park located in Bristol
-985,985,Washington Secondary Bikepath,Local Park,Depot,Cranston,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.443320,41.801425,0,1,1,N,N,Washington Secondary Bikepath is a Local Park located in Cranston
+984,984,East Bay Bike Path,State Park,Asylum,Bristol,State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.283955,41.68691,0,1,1,N,N,East Bay Bike Path is a State Park located in Bristol
+985,985,Washington Secondary Bikepath,Local Park,Depot,Cranston,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.44332,41.801425,0,1,1,N,N,Washington Secondary Bikepath is a Local Park located in Cranston
 986,986,Washington Secondary Bikepath,Local Park,Oak,Cranston,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.454052,41.788599,0,1,1,N,N,Washington Secondary Bikepath is a Local Park located in Cranston
 987,987,Washington Secondary Bikepath,Local Park,Sherman,Cranston,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.475857,41.758592,0,1,1,N,N,Washington Secondary Bikepath is a Local Park located in Cranston
 988,988,Washington Secondary Bikepath,Local Park,West Natick,Warwick,Municipal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71.484724,41.728942,0,1,1,N,N,Washington Secondary Bikepath is a Local Park located in Warwick
