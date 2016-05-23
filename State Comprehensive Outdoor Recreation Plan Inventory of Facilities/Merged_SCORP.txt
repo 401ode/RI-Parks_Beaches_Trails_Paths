@@ -1,0 +1,998 @@
+ID	OBJECTID	GoRI_TestFlag	GoRI_subset	F_Name	F_Type	Street	Town	OwnerTyp	P_Ground	B_Field	S_Field	F_Field	M_Field	B_Court	T_Court	V_Court	Track	SkatPark	IH_Rink	SH_Rink	Golf	Fishing	Boating	Hunting	Trails	Beach	Pool	ActiveRec	RestRoom	W_Path	B_Path	StateGrant	LWCFGrant	Lon	Lat	Conservation.Area	Description	Are.there.additional.names.for.this.recreational.area	Should.Be.Included.in.GoRI.	Not.Included..Why.	Allow.Dogs	Restrooms.Available.	Americans.with.Disabilities.Act..ADA..Parking	Stroller.Friendly	Picnic.Area	Acres.Miles	Contact.Info	Contact.Info.Seasonal	Link.for.More.Info
+1	1	NA	N	Quinnville Playground	Local Park	Martin	Lincoln	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.51155515	41.75207533	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2	2	NA	N	Berkeley Oval	Local Park	Martin	Cumberland	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.34528756	41.88639259	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+3	3	1	Y	Spring Grove Beach	Local Park	Spring Grove	Glocester	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	N	N	-71.38240482	41.81060238	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+4	4	NA	Y	Lime Acres	Local Park	Jenckes Hill	Lincoln	MUN	0	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.47159759	41.84820321	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+5	5	NA	N	Lonsdale Park / Sam Moore Field	Local Park	River	Lincoln	MUN	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.48366356	41.63710485	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+6	6	NA	N	Lincoln Almond Little League	Local Park	Lonsdale	Lincoln	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44360105	41.96369436	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+7	7	NA	N	Heritage Park	Conservation Area	Chestnut Oak	Glocester	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.68619008	41.63929988	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+8	8	NA	N	Russell Lane Field	Local Park	Russell	Smithfield	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.36843788	41.87414987	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+9	9	NA	N	Crossman St. Playground	Local Park	Crossman	Central Falls	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.52194837	41.46387404	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+10	10	NA	N	Sacred Heart Avenue Playground	Local Park	High Street	Central Falls	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.62533221	41.66588227	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+11	11	1	N	Jenks Park	Local Park	Summit	Central Falls	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Y	Y	-71.4929287	41.86564367	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+12	12	NA	N	Mendes Field	Local Park	Louise Ann	Smithfield	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.42516672	41.90922216	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+13	13	NA	N	Galego Court Field	Local Park	Leonard Jenard	Pawtucket	MUN	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.5320006	41.84130031	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+14	14	NA	N	Esmond / War Memorial Park	Local Park	Farnum Pike	Smithfield	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.29998844	41.74818174	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+15	15	NA	N	Byron-Winsor Park	Local Park	Winsor Park	Glocester	MUN	1	1	1	0	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.45646622	41.6026252	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+16	16	NA	N	Laurel Hill Playground	Local Park	Lonsdale	Pawtucket	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.47315269	41.58142007	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+17	17	NA	N	Burgess Field	Local Park	Albert	Smithfield	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.20302047	41.54493826	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+18	18	NA	N	Wilkinson Park	Local Park	Park	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.47031642	41.54067467	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+19	19	NA	N	Collyer Park	Local Park	Main	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.24299068	41.48052468	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+20	20	NA	N	Mccoy Stadium	Athletic Facility	Bend	Pawtucket	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.4609173	41.43964766	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+21	21	NA	N	John Santos Park	Local Park	Mineral Spring	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.58502628	41.38295796	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+22	22	NA	N	Pleasant St. Park	Local Park	Division	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.67544304	41.34807129	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+23	23	NA	Y	Slater Park	Local Park	Pawtucket	Pawtucket	MUN	0	9	0	0	1	0	10	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	Y	Y	-71.5620784	41.20854164	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+24	24	NA	N	Payne Park	Local Park	Randall	Pawtucket	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.59078978	41.15257053	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+25	25	NA	N	Randall St. Park	Local Park	Randall	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.24639464	41.69712892	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+26	26	NA	N	Dean Ave. Field	Local Park	Adams	Johnston	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.55272771	42.01098685	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+27	27	NA	N	Berkeley Park	Local Park	Polo	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.26147032	41.55591511	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+28	28	1	Y	Max Read Field	Local Park	Pleasant	Pawtucket	MUN	0	0	2	1	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.50645569	41.60826271	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+30	30	NA	N	Deninno Memorial Field	Local Park	Alexander	North Providence	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44660116	42.01312872	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+31	31	NA	N	Wanskuck Park	Local Park	Woodward	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.54101704	41.90761051	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+32	32	NA	N	Morley Field	Local Park	Moshassuck	Pawtucket	MUN	0	2	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.75236647	41.83379245	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+33	33	NA	Y	Blackstone Blvd. Park	Local Park	Blackstone	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	Y	-71.32167619	41.75303517	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+34	34	NA	Y	Stephen Olney Park	Local Park	Smithfield	North Providence	MUN	2	4	0	0	1	1	4	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	Y	Y	-71.20941082	41.58218504	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+35	35	NA	N	Lynne Bourne Memorial Park	Local Park	Alma	East Providence	MUN	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.78637554	41.57405751	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+36	36	NA	N	Hopkins Square	Local Park	Charles	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.47007532	41.53821344	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+37	37	NA	N	Prete-Metcalf Field	Local Park	Charles	Providence	MUN	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.34235338	41.45435982	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+38	38	NA	Y	Kimberly Ann Rock Memorial Athletic Complex	Athletic Facility	Ferris	East Providence	MUN	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	N	N	-71.69017184	41.43840127	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+39	39	NA	N	Corliss Park	Local Park	Fernando	Providence	MUN	1	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.48584687	41.36221751	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+40	40	NA	N	General St. Playground	Local Park	General	Providence	MUN	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.72224585	41.33657338	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+41	41	NA	N	Gorham Field	Local Park	Hartford Pike	Scituate	MUN	0	3	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.70395425	41.95180725	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+42	42	NA	N	Mount Hope Community Garden	Local Park	Knowles	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.60088324	41.98708714	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+43	43	NA	N	Hopkins Park	Local Park	Admiral	Providence	MUN	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.61373137	41.64443577	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+44	44	1	Y	Blackstone Park / Patterson Park	Local Park	Parkside	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	Y	-71.75287407	41.50233956	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+45	45	1	Y	Father Lennon Park	School	Camden	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	N	N	-71.77915789	41.5086685	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+47	47	NA	N	Davis Park	Local Park	Chalkstone	Providence	MUN	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.57110699	41.63113431	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+48	48	NA	N	West Park	Local Park	Mount Pleasant	Providence	MUN	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.5149968	41.37882818	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+49	49	NA	N	Johnston Memorial Park	Local Park	Memorial	Johnston	MUN	1	4	0	0	0	2	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.42659672	41.89469397	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+50	50	NA	N	Regent Ave. Playground	Local Park	Regent	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.75683037	41.69536241	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+51	51	NA	N	Prospect Terrace Park	Local Park	Congdon	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.71777127	41.56175716	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+52	52	NA	N	Constance Witherby Park	Local Park	Waterman	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.74579559	41.59833597	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+53	53	NA	N	Burnside Park	Local Park	Washington	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.72078324	41.58025856	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+54	54	NA	N	Memorial Park	Local Park	South Main	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.73101312	41.58738217	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+55	55	NA	N	Onna Moniz-John Neighborhood Park	Local Park	Central	East Providence	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.72031105	41.595625	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+56	56	1	Y	Angelo Zuccolo Pool	Local Park	Gesler	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	N	N	-71.71899383	41.57950766	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+57	57	NA	Y	John Donigian Memorial Park	Local Park	Valley	Providence	MUN	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	N	Y	-71.70903311	41.58768743	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+58	58	NA	N	Garibaldi Square	Local Park	Atwells	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.72913979	41.56466939	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+59	59	NA	N	Fenner Square	Local Park	Governor	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.76062965	41.61254977	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+60	60	NA	N	Martello Street Playground	Local Park	Martello	East Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.74319872	41.84536618	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+61	61	1	N	Cabral Park	Local Park	Wickenden	Providence	MUN	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	N	-71.71673354	41.50318705	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+62	62	NA	Y	India Point Park	Local Park	India	Providence	MUN	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.70184395	41.48576682	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+63	63	NA	N	Dexter Training Ground	Local Park	Parade	Providence	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.69019958	41.46635721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+64	64	NA	N	Wallace St. Park	Local Park	Wallace	Providence	MUN	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.53833316	41.37350224	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+65	65	NA	N	Cerbo Square	Local Park	Murray	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.76349195	41.33042917	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+66	66	NA	N	Waldo St. Totlot	Local Park	Waldo	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.69007646	41.34448545	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+67	67	NA	N	Richardson Park	Local Park	Ocean	Providence	MUN	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.4645012	41.40003629	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+68	68	NA	N	Pocasset Field	Local Park	Spruce	Johnston	MUN	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.55462504	41.17415685	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+69	69	NA	N	Columbus Square Park	Local Park	Elmwood	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.74253264	41.91448137	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+70	70	NA	N	Rainone Playground	Local Park	Mill	Johnston	MUN	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.24241219	41.68758193	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+71	71	1	Y	Roger Williams Park	Local Park	Elmwood	Providence	MUN	1	4	0	0	2	0	10	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	Y	Y	-71.69631572	41.54090109	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+72	72	NA	N	Drummond Field	Local Park	Indiana	Providence	MUN	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.38306105	41.74860601	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+73	73	NA	N	Boyden Heights Conservation Area	Local Park	Boyden	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.71715315	41.51567743	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+74	74	NA	N	Columbia Park	Local Park	Vermont	Providence	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.36469085	41.7044193	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+75	75	NA	N	Highland Park	Local Park	Southern	Cranston	MUN	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.54636063	41.90090185	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+76	76	NA	N	Spectacle Pond Field	Local Park	Cottage	Cranston	MUN	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.23081264	41.63385044	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+77	77	NA	N	Stone Hill Field	Local Park	Elena	Cranston	MUN	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.37985377	41.86893771	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+78	78	NA	N	Washington Park Square	Local Park	Eddy	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.61887775	41.66522839	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+79	79	NA	N	Joseph Williams Field	Local Park	Elmwood	Providence	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.7878003	41.92452215	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+80	80	NA	N	Cranston Stadium / Stebbins Field	Athletic Facility	Midwood	Cranston	MUN	0	1	1	1	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.71816035	41.92723289	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+81	81	NA	N	Foster Town House Field	Local Park	Howard Hill	Foster	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.75835699	41.9173022	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+82	82	NA	N	Knightsville Park	Local Park	Cranston	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.74182579	41.52329467	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+83	83	NA	N	Friendly Community	Local Park	Doric	Cranston	UNK	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42773712	41.88947957	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+84	84	NA	N	Veterans' Park	Local Park	Pontiac	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.77004476	41.69744185	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+85	85	NA	N	Comstock Gardens	Local Park	Wildflower	Cranston	MUN	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.72243714	41.43810936	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+86	86	1	Y	Beachmont / Hayes Field	Local Park	Calvin	Cranston	MUN	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	N	Y	-71.751404	41.49929845	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+87	87	1	Y	Stillhouse Cove	Local Park	Narragansett	Cranston	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.71664004	41.49842334	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+88	88	1	Y	Aqueduct Field	Local Park	Aqueduct	Cranston	MUN	0	4	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	N	N	-71.62826816	41.4923402	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+89	89	1	Y	Osamequin Nature Trail	Local Park	Wampanoag	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.681354	41.44525056	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+90	90	NA	N	Grassy Plain Park	Local Park	Tanglewood	East Providence	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.56440216	41.49913784	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+91	91	1	Y	Sabin Point Park	Local Park	Shore	East Providence	MUN	1	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	Y	-71.45019861	41.46699509	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+92	92	NA	N	Pawtuxet Village Park	Local Park	View	Warwick	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	Y	-71.45379312	41.63094661	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+93	93	NA	N	Wellington Ave Park	Local Park	Wellington	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.80036587	41.38182109	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+94	94	NA	N	Providence Avenue Playground & Athletic Area	Local Park	Sunset	East Providence	MUN	1	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.84104449	41.39451304	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+95	95	NA	N	Sherman Ave. Field	Local Park	Cranston	Cranston	MUN	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.70377555	41.5957219	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+96	96	NA	N	Sherwood Park	Local Park	Congress	Barrington	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.74828321	41.40629717	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+97	97	1	Y	Crescent Park / Loof Carousel	Local Park	Bullocks Point	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	Y	-71.44779227	41.57684173	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+98	98	NA	N	Furnace Hill Brook	Conservation Area	Phenix	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.32526265	41.73535787	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+99	99	1	Y	Briggs Farm	Athletic Facility	Hope	Cranston	MUN	0	5	5	0	5	0	2	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	Y	Y	-71.59770969	41.96502458	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+100	100	NA	Y	Latham Ave. Park	Local Park	Shore	Barrington	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	N	-71.76179221	42.00080099	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+101	101	NA	N	Bicknell Field	Local Park	Walnut	Barrington	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.66511638	41.97899153	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+102	102	NA	N	F.J. Chianese Field	Local Park	Centennial	Barrington	MUN	1	1	1	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.78852496	41.96621191	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+103	103	NA	N	Hilltop Drive Field	Local Park	New London	Cranston	MUN	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.72329774	41.97000215	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+104	104	NA	N	Hope Memorial Field	Local Park	Hope	Scituate	MUN	0	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.67979539	41.37857456	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+105	105	NA	N	Warren Town Common	Local Park	Church	Warren	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.68050355	41.5604224	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+106	106	NA	N	Burr Hill Park	Local Park	Water	Warren	MUN	0	1	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.72106577	41.57295831	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+107	107	1	Y	Mickey Stevens Sports Center	Local Park	Sandy	Warwick	MUN	0	3	0	0	0	2	8	0	0	1	1	0	0	0	0	0	0	0	1	1	1	0	0	N	Y	-71.69072589	41.87563157	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+108	108	NA	N	G. Boyd Field	Local Park	Waterview	Warwick	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.67769486	41.89692732	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+109	109	1	Y	Little Pond Beach	Local Park	Albert	Warwick	SCH	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	N	N	-71.71589692	41.49346755	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+110	110	1	Y	Upper Dam Pond	Local Park	Knotty Oak	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.1931316	41.46338338	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+111	111	NA	N	Normandy Drive	Local Park	Normandy	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.50748385	41.38319854	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+112	112	NA	N	Nathaniel Greene Park	Local Park	Victory	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.44981533	41.44941048	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+113	113	NA	N	Foster Memorial Park	Local Park	Station	Coventry	MUN	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.44458262	41.5196097	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+114	114	NA	N	O'Brien Field	Local Park	Veterans Memorial Dr	Warwick	MUN	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.70283198	41.51565261	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+115	115	NA	N	Champlin Field	Local Park	Oakland Beach	Warwick	MUN	0	2	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.46953362	41.47410787	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+116	116	NA	N	Coventry Town Green	Local Park	Washington	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.61579911	41.45082335	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+117	117	NA	N	Central Coventry Park	Local Park	Provident	Coventry	MUN	0	2	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.5512686	41.48254871	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+118	118	NA	N	Crompton Playground	Local Park	Main	West Warwick	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.54908523	41.42608805	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+119	119	NA	N	Flat Top Park	Local Park	Campbell	West Warwick	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.56781604	41.42952122	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+120	120	1	Y	Briar Point Beach Area	Local Park	Briar Point	Coventry	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	Y	-71.14877494	41.63361436	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+121	121	1	Y	Independence Park	Local Park	Thames	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	1	1	Y	N	-71.83214139	41.37498351	NA	"The scenic 4-acre park is located at the head of the East Bay Bike path on beautiful Bristol Harbor and features a surfaced boat ramp, a board walk, concrete walkways, fountain, public restrooms, and beautiful sunsets. 
+The park is designed for passive recreation and is home of the Labor Day “Last Night” Concert with the Rhode Island Philharmonic. "	NA	NA	NA	NA	NA	NA	NA	NA	4 acres	NA	NA	NA
+122	122	NA	N	Frenchtown Park	Conservation Area	Cavalier	East Greenwich	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.35272985	41.75379483	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+123	123	NA	N	Bulgarmarsh Recreation Area	Local Park	Bulgarmarsh	Tiverton	MUN	1	1	0	0	0	2	4	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.68527472	41.55602721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+124	124	NA	N	Fort Barton Field	Local Park	Lawton	Tiverton	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45535413	41.42215262	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+125	125	NA	N	Frenchtown Recreation Facility	Local Park	Frenchtown	East Greenwich	MUN	1	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.607758	41.64326766	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+126	126	NA	N	Turnpike Avenue Playground	Local Park	Turnpike	Portsmouth	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.61434972	41.64941311	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+127	127	1	Y	Wilson Park	Local Park	Roosevelt	North Kingstown	MUN	1	3	10	0	10	2	2	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	Y	Y	-71.57355039	41.63637741	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+128	128	NA	N	Feurer Park	Local Park	Lafayette	North Kingstown	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.70737016	41.82413008	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+129	129	NA	N	Updike Park	Local Park	Brown	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.70646264	41.51210311	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+130	130	NA	N	Adamsville Playground	Local Park	Main	Little Compton	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.56535855	41.73108571	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+131	131	NA	N	Reynolds Field	Local Park	South	Exeter	MUN	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.67879372	41.97085488	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+132	132	NA	N	Donald Down's Park	Local Park	Indian Corner	North Kingstown	MUN	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.47568338	41.56043459	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+133	133	NA	N	Eldred Ave. Field	Local Park	Eldred	Jamestown	MUN	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.28792903	41.57381642	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+134	134	NA	N	Goldberg Little League Field	Athletic Facility	Maple	Newport	MUN	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.27833438	41.67000773	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+135	135	NA	N	Miantonomi Park	Local Park	Hillside	Newport	MUN	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.28567973	41.72629215	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+136	136	NA	N	Jos. A. Langworthy Memorial Park	Local Park	Lakeside	Hopkinton	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.35593482	41.77551392	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+137	137	NA	N	Polish Park	Local Park	Nichols	Hopkinton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.30502224	41.61980518	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+138	138	NA	N	Vernon Park	Local Park	Vernon	Newport	MUN	1	1	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.62668927	41.363721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+139	139	NA	N	Third St. Lot	Local Park	3rd	Newport	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.71535608	41.56528759	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+140	140	NA	Y	Battery Park / Fort Greene	Local Park	Washington	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.15054525	41.54354105	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+141	141	NA	N	Braga Park	Local Park	Greenlaw	Newport	MUN	1	1	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.7568902	41.64509855	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+142	142	NA	N	Equality Park	Local Park	Equality Park	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.65384876	41.91343805	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+143	143	NA	N	Congdon Park	Local Park	Bartlett	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.38112414	41.86435228	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+144	144	1	N	Fort Getty	Local Park	Fort Getty	Jamestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	Y	N	-71.37948814	41.83378567	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+145	145	NA	N	Edward Street Playground	Local Park	Edward	Newport	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.43073097	41.82256999	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+146	146	NA	N	Storer Park	Local Park	Washington	Newport	MUN	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.41229964	41.78294441	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+147	147	NA	N	Cardines Field	Athletic Facility	Marlborough	Newport	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.40733039	41.77517449	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+148	148	NA	N	Wilbour Woods	Local Park	Swamp	Little Compton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.38991687	41.77013939	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+149	149	NA	N	Eisenhower Park	Local Park	Touro	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.44475406	41.77069353	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+150	150	NA	N	Perrotti Park	Local Park	Americas Cup	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.32296077	41.77035999	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+151	151	NA	N	Touro Park	Local Park	Bellevue	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.36795302	41.76564025	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+152	152	1	Y	Third Beach	Local Park	Third Beach	Middletown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	N	N	-71.35919226	41.75707894	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+153	153	NA	N	Memorial Blvd Parks	Local Park	Memorial	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.41457582	41.70995384	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+154	154	NA	N	Aquidneck Park	Local Park	King	Newport	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.40768156	41.70495199	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+155	155	NA	N	DAR Memorial Park	Local Park	Battery	Jamestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.55418808	41.70461966	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+156	156	NA	N	Spencer Park	Local Park	Wellington	Newport	MUN	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.54967928	41.67430178	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+157	157	NA	N	Morton Park	Local Park	Morton	Newport	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.27948701	41.67378512	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+158	158	NA	N	Treaty Rock Park	Local Park	Middlebridge	South Kingstown	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45923147	41.57463658	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+159	159	NA	N	Saugatucket Park	Local Park	High	South Kingstown	MUN	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.24563061	41.48653722	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+160	160	1	Y	Tri-Pond Park	Local Park	Asa Pond	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	N	Y	-71.51092917	41.45636193	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+161	161	NA	N	Gazebo Park	Local Park	Ocean	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.55684564	41.42675869	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+162	162	NA	N	Veterans' Park	Local Park	Exchange	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.66593747	41.37002108	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+163	163	1	Y	Tuckertown Recreation Area	Local Park	Tuckertown Park	South Kingstown	MUN	1	2	4	0	1	1	2	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	N	Y	-71.55058944	41.37555167	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+164	164	NA	N	Thompson Memorial Park	Local Park	Gibson	Narragansett	MUN	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.25711183	41.72736375	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+165	165	NA	N	Crandall Field	Local Park	Ashaway	Hopkinton	MUN	1	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.34344604	41.82976755	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+166	166	NA	N	Eastward Look Park	Local Park	Sakonnet	Narragansett	MUN	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.31315699	41.73586873	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+167	167	NA	N	Brousseau Memorial Park	Local Park	Victoria	South Kingstown	MUN	1	1	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.40245514	41.88519239	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+168	168	NA	Y	Wilcox Park	Local Park	Grove	Westerly	MUN	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	Y	N	-71.31980592	41.47654996	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+169	169	1	Y	Ninigret Park	Local Park	Park	Charlestown	MUN	1	1	1	0	2	1	4	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	0	Y	Y	-71.4102577	41.86743701	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+170	170	NA	N	Cimalore Field	Athletic Facility	Wilson	Westerly	MUN	1	4	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.44671035	41.82117529	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+171	171	1	N	Deerfield Park	Local Park	Lisa Ann	Smithfield	MUN	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	N	-71.46331751	41.8141905	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+172	172	NA	Y	Coventry Greenway And Bike Path	Local Park	Main	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.48843399	41.44620996	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+173	173	NA	N	John J. Giblin Memorial Recreation Area	Local Park	Hunters Crossing	Coventry	MUN	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39643398	41.68513423	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+174	174	1	Y	South Kingstown Town Beach	Local Park	Matunuck Beach	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	Y	-71.48963718	42.00384364	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+175	175	NA	N	River Farm Fitness Stations	Local Park	Franklin	East Greenwich	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41804724	41.99959722	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+176	176	NA	N	Veteran's Field	Local Park	Asylum	Warren	MUN	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.40973156	41.93570732	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+177	177	NA	Y	Britto's Park	Local Park	Unnamed	Warren	MUN	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.50851584	41.89053593	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+178	178	1	Y	Cole Avenue Field	Local Park	Hugh Cole	Warren	MUN	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	N	N	-71.62581788	41.87961516	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+179	179	NA	N	River Island Park	Local Park	Truman	Woonsocket	MUN	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.55183922	41.86526486	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+180	180	NA	N	Bridgepoint Commons	Conservation Area	Bridgepoint	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.60489262	41.82929879	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+181	181	NA	N	Loontjens Library Park	Local Park	Kingstown	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.41054609	41.83000824	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+182	182	NA	N	Ardoene Park	Local Park	Ardoene	Providence	MUN	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39097296	41.815222	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+183	183	NA	N	Boyle Square	Local Park	Orms	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.41596265	41.81035173	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+184	184	NA	N	DePasquale Plaza	Local Park	De Pasquale	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42864702	41.8051943	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+185	185	NA	N	Amos Earley Park	Local Park	Cadillac	Providence	MUN	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.36986782	41.7945202	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+186	186	NA	N	Mount Pleasant Memorial Park	Local Park	Newark	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43684644	41.79338767	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+187	187	NA	N	Murphy-Trainor Park	Local Park	Niantic	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.4003067	41.770825	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+188	188	NA	N	Ninth St. Park	Local Park	9th	Providence	MUN	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.38346168	41.75286131	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+189	189	NA	N	Pearl St. Park	Local Park	Providence	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.31019269	41.72286827	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+190	190	NA	N	Rochambeau Square	Local Park	Brewster	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.28495673	41.72295818	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+191	191	NA	N	St. John's Park	Local Park	Atwells	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.35973888	41.71665252	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+192	192	NA	N	Summit Ave. Park	Local Park	Summit	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.45480306	41.70325121	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+193	193	NA	N	Ballard Park	Conservation Area	Wickham	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.44894529	41.65670916	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+194	194	1	Y	Doreen Tomlinson Complex	Athletic Facility	Daggett	Pawtucket	STA	0	5	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	N	Y	-71.21983186	41.62541621	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+195	195	1	Y	Turner Reservoir	Local Park	Hunts Mill	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	N	N	-71.45280048	41.57787738	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+196	196	NA	N	John L. Lewis Waterfront Park	Local Park	Water	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.44397787	41.56669276	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+197	197	NA	N	Walley Park	Local Park	Hope	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.21317045	41.55625372	NA	"Walley Beach is a 1.3 acre picturesque park overlooking the beautiful Bristol Harbor. Located next to the Herreshoff dock on Hope Street.  It has a small swimming area, a picnic table and beaches. A great place to sit and relax watching the boats or sun bathing.  "	NA	NA	NA	NA	NA	NA	NA	NA	1.3 acres	NA	NA	NA
+198	198	NA	N	Heinz Field	Local Park	Old Center	New Shoreham	MUN	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.23627473	41.55332581	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+199	199	1	Y	Veterans Memorial Park	Local Park	Veterans Park	Barrington	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	N	N	-71.38578005	41.53823655	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+200	200	1	Y	Higginson Avenue Sports Complex	Local Park	Crow Point	Central Falls	MUN	0	1	1	1	1	2	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Y	Y	-71.13778201	41.49385842	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+201	201	NA	N	Macomber Stadium	Local Park	Blackstone	Central Falls	MUN	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.25745258	41.48765177	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+202	202	NA	Y	Herbert F. Paine Memorial Park	Local Park	Main	Coventry	MUN	1	4	0	0	0	2	4	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	Y	Y	-71.29183492	41.48795321	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+203	203	NA	N	Rice Memorial Field	Local Park	Knotty Oak	Coventry	MUN	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.38410629	41.48891754	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+204	204	NA	Y	Brayton Ave. Field	Local Park	Unnamed	Cranston	MUN	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	N	N	-71.45525383	41.43560611	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+205	205	NA	Y	Park View Field	Local Park	Park View	Cranston	MUN	1	3	0	0	1	1	4	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	Y	N	-71.6256669	41.36121066	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+206	206	NA	N	Mayfield Ave. Field	Local Park	Pontiac	Cranston	MUN	11	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.79054511	41.32500682	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+207	207	NA	N	Riverside Athletic &  Recreation Area	Athletic Facility	Somerset	East Providence	MUN	1	2	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.4421003	41.67358217	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+208	208	NA	N	Kent Heights Athletic And Recreation Area	Local Park	Clyde	East Providence	MUN	1	2	1	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.46350954	41.82532304	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+209	209	NA	N	Hull St Athletic And Recreation Area	Athletic Facility	Agnes	East Providence	MUN	1	2	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.52519899	42.00914135	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+210	210	1	Y	Pierce Field Athletic Complex	Athletic Facility	Mercer	East Providence	MUN	1	4	0	0	1	2	2	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Y	N	-71.2549365	41.66762549	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+211	211	NA	N	Glocester Memorial Park	Local Park	Adelaide	Glocester	MUN	1	3	0	0	1	2	2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41568632	41.58681103	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+212	212	1	N	Sprague Field	Local Park	Kingstown	Narragansett	MUN	1	2	0	0	0	0	5	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	Y	-71.38403546	41.87176792	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+213	213	NA	N	George C. Playfield	Local Park	Point Judith	Narragansett	MUN	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.65743615	41.9868258	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+214	214	NA	N	Freebody Park	Local Park	Middleton	Newport	MUN	1	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.36678937	41.68834371	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+215	215	NA	N	Hunter Park	Local Park	Van Zandt	Newport	MUN	1	1	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41186131	41.62038422	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+216	216	1	Y	King Park	Local Park	Wellington	Newport	MUN	1	2	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	Y	N	-71.16302238	41.58720251	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+217	217	NA	N	Murphy Field	Local Park	Carroll	Newport	MUN	0	2	1	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.21371284	41.62505021	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+218	218	NA	N	Evans Memorial Park	Local Park	Smith	North Providence	MUN	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.6949247	41.34166151	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+219	219	1	Y	Fairlawn Veterans' Park	Local Park	Legion	Pawtucket	MUN	1	3	1	0	1	1	4	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	Y	Y	-71.54834396	41.67011909	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+220	220	NA	N	Coutu Memorial Field	Athletic Facility	Fountain	Pawtucket	MUN	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.56554946	41.7353064	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+221	221	NA	N	Hank Soars Complex	Local Park	Rocco	Pawtucket	MUN	1	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.70585988	41.51308193	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+222	222	NA	N	Collyer Park	Local Park	Collyer	Providence	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.56667577	41.18254411	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+223	223	NA	N	Gano St. Park	Local Park	Power	Providence	MUN	0	2	1	0	1	0	2	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.51523187	41.45790294	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+224	224	1	Y	Joslin Playground	Local Park	Kossuth	Providence	MUN	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	N	N	-71.42050988	41.49255867	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+225	225	NA	N	Merino Park	Local Park	Heath	Providence	MUN	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39031846	41.8988402	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+226	226	1	Y	Neutaconkanut Park	Local Park	Killingly	Providence	MUN	1	2	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0	Y	Y	-71.40550855	41.82150019	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+227	227	1	Y	Old Mountain Field	Local Park	Kingstown	South Kingstown	MUN	1	2	0	0	0	0	4	0	0	1	0	1	0	1	0	0	1	0	0	1	0	0	0	Y	N	-71.48078523	41.36205057	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+228	228	NA	N	West Kingston Park	Local Park	Kingstown	South Kingstown	MUN	1	2	1	0	1	2	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.69921112	41.69081879	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+229	229	NA	Y	Town Farm Recreation Area	Local Park	Main	Tiverton	MUN	1	3	1	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Y	N	-71.34900799	41.7539042	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+230	230	NA	N	Jamiel Park	Local Park	Wood	Warren	MUN	0	1	1	0	1	2	2	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.61897791	41.70414343	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+231	231	NA	N	Palmer Ave. Field	Local Park	Standish	Warwick	MUN	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.42212785	41.62019171	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+232	232	1	Y	Oakland Beach Park	Local Park	Burr	Warwick	MUN	1	1	0	0	1	1	0	0	0	0	0	0	0	1	1	0	0	1	0	1	1	0	0	Y	Y	-71.64867624	41.98720971	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+233	233	NA	N	Clegg Field	Local Park	Winter	Warwick	MUN	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.78728439	41.99706348	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+234	234	NA	Y	City Park	Local Park	Warwick Park	Warwick	MUN	1	4	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	Y	Y	-71.7685075	41.94266103	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+235	235	NA	N	Whittaker Field	Local Park	Monroe	Warwick	MUN	1	2	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.74745167	41.90439763	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+236	236	NA	N	Winslow Softball Field	Local Park	Taft	Warwick	MUN	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.7727351	41.69342239	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+237	237	NA	Y	Natick Fields	Local Park	Crossland	West Warwick	MUN	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.60385252	41.63472387	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+238	238	NA	Y	Riverpoint Park	Athletic Facility	Hay	West Warwick	MUN	20	5	3	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	Y	Y	-71.34316306	41.65590721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+239	239	NA	N	Craig Field	Local Park	Mountain	Westerly	MUN	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.36003371	41.65565899	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+240	240	NA	N	Green Hill Park	Local Park	Maple	South Kingstown	MUN	1	1	1	0	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.24364399	41.63571918	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+241	241	NA	N	Berkeley / Peckham Memorial Field	Local Park	Green End	Middletown	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.32357555	41.58792314	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+242	242	NA	N	Grand Pre Park	Local Park	Carolina Back	Charlestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.72419876	41.58083531	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+243	243	NA	N	Hargrave Park	Local Park	Columbia Heights	Charlestown	MUN	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.75704728	41.50593813	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+244	244	NA	N	Wicklund Park	Local Park	Carolina Back Road	Charlestown	MUN	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.68852297	41.46908363	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+245	245	1	Y	Black Hut Management Area	Management Area	Glen Meadow	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	N	N	-71.57805349	41.46467079	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+246	246	NA	N	Veteran's Memorial Park	Local Park	Pascoag Main	Burrillville	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.74580578	41.37737746	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+247	247	NA	N	Ricci Field	Local Park	Duckworth	Cranston	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.77534604	41.3815532	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+248	248	NA	Y	Doric Ave / Osler Field	Local Park	Doric	Cranston	MUN	1	0	1	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	Y	Y	-71.70753614	41.40476861	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+249	249	NA	N	Dutemple / McKenna Park	Local Park	Beckwith	Cranston	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.55630418	41.68816757	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+250	250	NA	N	Glen Farm Recreation Area	Local Park	Linden	Portsmouth	MUN	0	2	10	0	10	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.7805479	41.86515979	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+251	251	NA	N	Quidnick Ballfield	Local Park	Knight	Coventry	MUN	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.69934659	42.00394004	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+252	252	NA	N	Coelho Park	Local Park	Berry	Bristol	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	N	N	-71.1543782	41.53970523	NA	"Coelho Park is a 3.2-acre, large, residential playground, located off Hopeworth Avenue and Jenny Lane, It is designed for families and children of all ages. It includes two playground areas, basketball court, soccer field, concrete walkway, small pond and a pavilion and benches and picnic tables. A great place for a picnic. The pond is used for ice skating in the winter."	NA	NA	NA	NA	NA	NA	Yes	NA	3.2 acres	NA	NA	NA
+253	253	NA	N	Paull Park	Local Park	Sherry	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.17129225	41.55895787	NA	"A beautiful 13.2-acre wetland conservation area located across from the Mt. Hope High School, Paull park features Ramos Field, a baseball diamond, swing set and parking. Paull Park is a wetland area with  nature trails."	Ramos Field	NA	NA	NA	NA	NA	NA	NA	13.2 acres	NA	NA	NA
+254	254	NA	N	Westerly Peewee Football	Athletic Facility	Old Hopkinton	Westerly	PRV	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.42711446	41.83789995	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+255	255	NA	N	Calf Pasture Point	Local Park	Unnamed	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45356928	41.83821984	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+256	256	1	N	Laforge Point Park	Local Park	Walmsley	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.50100627	41.83301314	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+257	257	NA	N	Blackstone Memorial Park	Local Park	Blackstone	Cumberland	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.61897724	41.82462196	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+258	258	NA	N	High Street Field	Athletic Facility	High	Cumberland	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.27165638	41.68800767	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+259	259	NA	N	Valley Falls Heritage Park	Local Park	Mill	Cumberland	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.25101714	41.6108262	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+260	260	NA	N	PriviIege Street Field	Local Park	Privilege	Woonsocket	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.44660868	41.55709243	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+261	261	NA	N	Kelly Park / River Meadows	Local Park	Canal	North Smithfield	MUN	0	2	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.32053993	41.46977997	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+262	262	1	Y	Carl's Pond	Fishing / Boating	Jencks	Cumberland	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.69733893	41.45079299	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+263	263	NA	Y	St Paul / Waterford Playground	Local Park	Saint Paul	North Smithfield	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.47056645	41.42977653	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+264	264	1	Y	Buck Hill Management Area	Management Area	Benson Mountain	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	N	N	-71.82043132	41.37632833	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+265	265	NA	Y	Kendrick Ave. Playlot	Local Park	Kendrick	Woonsocket	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.32001409	41.74769443	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+266	266	1	Y	Cass Park	Local Park	Newland	Woonsocket	MUN	1	2	3	0	3	1	5	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	Y	Y	-71.59456721	41.68457091	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+267	267	1	Y	Diamond Hill Park	Local Park	Diamond Hill	Cumberland	MUN	0	2	2	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	Y	Y	-71.4789983	41.7733679	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+268	268	NA	N	Rhodes Ave Conservation Area	Conservation Area	Rhodes	Woonsocket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.35266303	41.81922773	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+269	269	NA	N	Costa Park	Local Park	Olo	Woonsocket	MUN	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.71449857	41.86730856	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+270	270	1	N	Kendall-Dean Field	School	Greene	North Smithfield	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	Y	-71.45139089	41.93773507	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+271	271	1	N	Margaret F. Carroll Park	Local Park	Main	North Smithfield	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	N	-71.54447129	41.95165709	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+272	272	NA	N	Lemoureux Field	Local Park	Alysworth	Woonsocket	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.40379536	41.83429541	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+273	273	NA	N	Bernon Memorial Park	Local Park	Kermit	Woonsocket	MUN	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.54400591	41.87980813	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+274	274	NA	N	Globe Park	Local Park	Providence	Woonsocket	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.40910366	41.74608269	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+275	275	NA	N	Iron Rocks Conservation Area	Conservation Area	Park	Woonsocket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.51573101	41.70881945	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+276	276	NA	N	Milton Ave / Union Village Playground	Local Park	Milton	North Smithfield	MUN	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.63713366	41.60582734	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+277	277	NA	Y	Barry Memorial Field	Athletic Facility	Smithfield	Woonsocket	MUN	0	3	2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	N	N	-71.62338553	41.98054383	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+278	278	NA	N	Booth Pond Conservation Area	Conservation Area	Jillson	Woonsocket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.40835476	41.91162597	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+279	279	NA	N	Cumberland Hill School	School	Manville Hill	Cumberland	SCH	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.53817926	41.91281288	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+280	280	NA	N	Burrillville High School	School	Whipple	Burrillville	SCH	0	1	2	0	1	1	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.43139699	41.89726179	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+281	281	NA	N	Callahan School	School	Callahan School	Burrillville	SCH	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.47604276	41.76870451	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+282	282	NA	N	Town Common / Bicentennial Park	Local Park	Steere	Burrillville	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.34613697	41.75232442	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+283	283	NA	N	Cumberland High School Farm Drive Field	School	Mendon	Cumberland	MUN	0	2	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.29746634	41.6770906	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+284	284	NA	N	Whitemill Property	Local Park	Wallum Lake	Burrillville	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.43722388	41.65924781	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+285	285	NA	N	Northern Lincoln Elementary	School	New River	Lincoln	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.26029934	41.61138656	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+286	286	NA	N	Hauser Memorial Field	Local Park	Howard	Burrillville	MUN	1	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.25514099	41.63357825	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+287	287	NA	N	Albion Playground	Local Park	Berkshire	Lincoln	MUN	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.52201244	41.59032929	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+288	288	NA	N	Ashton School	School	Scott	Cumberland	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.43125142	41.54018644	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+289	289	1	Y	Monastery	Local Park	Diamond Hill	Cumberland	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	Y	-71.45588557	41.49504847	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+290	290	1	Y	Blackstone Bikeway	State Park	Farnworth	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	N	N	-71.2684191	41.48681422	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+291	291	1	Y	George Washington Management Area	Management Area	Richardson	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0	0	N	Y	-71.33828531	41.47532818	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+292	292	NA	N	Garvin Field	School	Lonsdale Farm	Cumberland	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.36527682	41.48021883	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+293	293	NA	N	Mowry Conservation Area	Conservation Area	Farnum Pike	Smithfield	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.39702944	41.45677614	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+294	294	1	Y	Washington Grove	State Park	Washington	Smithfield	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.35443376	41.45196351	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+295	295	NA	N	Butterfly Pond Area	Local Park	Butterfly	Lincoln	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.4726791	41.38970208	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+296	296	1	Y	Woonasquatucket Reservoir	Fishing / Boating	Farnum Pike	Smithfield	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	Y	-71.64786675	41.38111243	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+297	297	NA	N	BF Norton School	School	Broad	Cumberland	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.5259904	41.37781081	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+298	298	1	Y	Durfee Hill Management Area	Management Area	Willie Woodhead	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	Y	-71.49946588	41.37331525	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+299	299	1	Y	Chase Farm Conservation Area	Conservation Area	Hollywood	Lincoln	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	Y	Y	-71.63808469	41.35821598	Chase Farm Park	"The site of Lincoln’s last operating dairy farm, Chase & Butterfly Farm, the park contains 80-acres of picturesque hills and meadows depicting the rural character of the Great Road Historic District. Its idyllic setting is enjoyed by the public for walking, kite flying, fishing and sledding. Special events such as concerts, powwows, and Civil War Reenactments are held there as well."	Hearthside	Yes		Unsure	Yes	Yes	Yes	Yes	NA		NA	http://www.hearthsidehouse.org/chaseFarmHouse/
+300	300	NA	N	Raymond C. Laperche Elem. Sch.	School	Limerock	Smithfield	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.80357795	41.32316413	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+301	301	NA	N	Barney Pond Area	Local Park	Smithfield	Lincoln	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.28067042	41.72581274	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+302	302	NA	N	Illinois St. Playground	Local Park	Illinois	Central Falls	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	Y	-71.51280235	41.37543555	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+303	303	NA	N	Sullivan Field	Local Park	Woodland	Lincoln	MUN	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.79680722	41.93278647	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+304	304	1	Y	Georgiaville Beach	Local Park	Stillwater	Smithfield	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	1	0	0	N	N	-71.55507655	41.15241851	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+305	305	NA	N	John St. Playground	Local Park	John	Pawtucket	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.55119892	41.75072867	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+306	306	1	Y	Lincoln Woods	State Park	Lincoln Woods	Lincoln	STA	0	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	1	1	0	N	Y	-71.40089696	41.90715993	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+307	307	NA	N	Garfield St. Totlot	Local Park	Garfield	Central Falls	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.4343299	41.93764161	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+308	308	NA	N	Gallagher Junior High School	School	Indian Run	Smithfield	SCH	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44416746	41.93954059	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+309	309	NA	N	Old County Elementary School	School	Old County	Smithfield	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45294413	41.95310107	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+310	310	NA	N	McCabe Elementry School	School	Pleasant View	Smithfield	SCH	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.46697109	41.96827039	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+311	311	NA	N	Fairlawn Playground	Local Park	Mcduff	Lincoln	MUN	1	1	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.49423089	41.99613113	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+312	312	1	Y	Marion Irons Beach	Local Park	Snake Hill	Glocester	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	N	N	-71.3883932	41.81330494	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+313	313	NA	N	Willow Field	Local Park	Willow	Smithfield	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.36255605	41.77250279	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+314	314	NA	N	Smithfield Ave Playground	Local Park	Smithfield	Pawtucket	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.28395503	41.68690959	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+315	315	NA	N	Jenks Jr High School	School	Division	Pawtucket	SCH	0	0	0	0	0	1	2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.29827765	41.75379359	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+316	316	NA	N	Slater School Playground	School	Mineral Spring	Pawtucket	SCH	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.49347343	41.99388412	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+317	317	NA	N	Ayotte Park / Novelty Park	Local Park	Johnson	Pawtucket	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.52602327	41.37991679	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+318	318	NA	N	Birchwood School	School	Patricia	North Providence	SCH	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.57406748	41.21140991	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+319	319	NA	N	Baldwin School	School	Randall	Pawtucket	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.56066948	41.22084183	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+320	320	NA	N	Greystone Park	Local Park	Elmore	North Providence	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45417719	41.65041654	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+321	321	NA	N	Ivan St. Park	Local Park	Washington	North Providence	MUN	1	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.503098	41.42250131	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+322	322	1	Y	Greenlake Beach	Local Park	Bayou	Smithfield	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	N	N	-71.5195838	41.38589476	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+323	323	NA	Y	McCarthy Park	Local Park	School	Pawtucket	MUN	1	2	1	0	1	1	3	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	Y	N	-71.21348812	41.55488291	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+324	324	NA	N	Duffy Complex	Athletic Facility	Cleveland	Pawtucket	MUN	1	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.40175292	41.81210684	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+325	325	NA	N	North Providence High School	School	Jackson	North Providence	SCH	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44779609	41.57684247	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+326	326	NA	N	Centerdale School	School	Brookside	North Providence	SCH	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.38881589	41.88765423	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+327	327	1	Y	Snake Den State Park	Conservation Area	Hartford	Johnston	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	Y	-71.39238154	41.81949109	Snake Den State Park	"This undeveloped State park, minutes from Providence, includes the historic Dame Farm and several nice hiking/mountian biking trails"		Yes		Yes	No	No	No	No	NA	RI Parks & Recreation (401) 667-6200 	NA	
+328	328	NA	Y	Lippitt Park	Local Park	Hope	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	Y	-71.39802252	41.4916438	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+329	329	NA	N	Windmill St. Playground	Local Park	Windmill	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.55036864	41.88010183	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+330	330	NA	N	Canada Pond	Fishing / Boating	Udell	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	Y	-71.46976909	41.43500669	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+331	331	NA	N	McGuire School	Local Park	Central	North Providence	MUN	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.45254419	41.50638201	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+332	332	NA	N	Ascham St. Playground	Local Park	Ascham	Providence	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.57904964	42.00004095	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+333	333	NA	Y	Iola French Park	Local Park	Stansbury	Providence	MUN	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	N	N	-71.29054395	41.68762909	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+334	334	1	Y	Ricci School Athletic Complex	Athletic Facility	Intervale	North Providence	MUN	0	0	3	0	3	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44404665	41.47089452	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+335	335	NA	N	Morris Ave. Totlot	Local Park	Morris	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.19320615	41.46371863	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+336	336	NA	N	Billy Taylor Park	Local Park	Camp	Providence	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.58277417	42.00007827	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+337	337	NA	N	Fargnoli Park	Local Park	Smith	Providence	MUN	1	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.2972995	41.73726007	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+338	338	NA	N	Sessions St. Playground	Local Park	Sessions	Providence	MUN	1	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.4766885	41.39966844	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+339	339	NA	N	Triggs Memorial Golf Course	Athletic Facility	Chalkstone	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	N	N	-71.36820642	41.60221962	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+340	340	1	Y	Mount Pleasant H. S. Fields	School	Rialto	Providence	SCH	0	1	2	1	2	1	2	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.3443717	41.53399235	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+341	341	NA	N	Nathan Bishop School	School	Elmgrove	Providence	SCH	0	0	0	0	0	1	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.40055381	41.50149014	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+342	342	NA	N	Obediah Brown Field	Local Park	Obediah Brown	Providence	MUN	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.49902682	41.37820421	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+343	343	NA	N	Barnes School	School	Barnes	Johnston	SCH	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.57568695	42.00180914	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+344	344	NA	N	Martin Luther King Playground	Local Park	Camp	Providence	MUN	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.41106504	41.70613592	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+345	345	1	Y	Johnston Sr High School	School	Cherry Hill	Johnston	SCH	0	0	1	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.65536211	41.4495815	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+346	346	NA	N	Candace St. Playground	Local Park	Goddard	Providence	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.46330162	41.76323359	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+347	347	NA	N	Brown Ave. School	School	Brown	Johnston	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.49287926	41.38025349	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+348	348	1	Y	Shippee Sawmill Pond	Fishing / Boating	Willoughby Young	Foster	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.75794486	41.92362538	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+349	349	NA	N	Gladys Potter Park	Local Park	Humboldt	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.34647216	41.84853354	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+350	350	NA	N	Viscolosi Park	Local Park	Chalkstone	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.51524934	41.71751213	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+351	351	NA	N	Agawam Playground & Softball Complex	Athletic Facility	Pawtucket	East Providence	MUN	1	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.51870073	41.98605713	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+352	352	1	Y	Dean Andrews Memorial Field	Local Park	Battey Meetinghouse	Scituate	STA	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.71844719	41.73250523	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+353	353	NA	N	Berkander Field	Local Park	Institute	Scituate	MUN	1	1	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.33137675	41.74869683	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+354	354	NA	N	Paterson St. Park	Local Park	Patterson	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.57127346	41.83630533	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+355	355	1	Y	Roger Williams National Park	Local Park	Main	Providence	FED	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	N	-71.52893352	41.60704214	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+356	356	1	Y	Scituate Jr.-Sr. High School	School	Rockland	Scituate	SCH	0	0	1	1	1	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.13352987	41.56231236	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+357	357	NA	N	Preston & Ives Playground	Local Park	Preston	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.35974913	41.51020062	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+358	358	NA	N	Manton Heights	Local Park	Manton	Providence	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.20759657	41.61748101	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+359	359	NA	N	Brassil Memorial Park	Local Park	Arnold	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.46989147	41.91061853	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+360	360	NA	N	Ridge St. Playground	Local Park	Penn	Providence	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.34632972	41.86992267	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+361	361	NA	N	Woodlake Park	Local Park	Reservoir	Johnston	MUN	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.38779002	41.85210415	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+362	362	NA	N	Abbot Park	Local Park	Weybosset	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45349281	41.85542754	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+363	363	NA	Y	Central / Classical  High Schools	School	Broad	Providence	SCH	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44082556	41.82326371	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+364	364	NA	N	Windsor Hills School	School	Valley View	Johnston	SCH	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39236738	41.81784486	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+365	365	NA	N	Laurel Hill Playground	School	Grover	Providence	SCH	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.35212189	41.74580144	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+366	366	NA	N	Bridgham School Playfield	School	Broadway	Providence	SCH	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.32163792	41.49683146	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+367	367	NA	N	Mauran Avenue Playground	Local Park	Mauran	East Providence	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.82813437	41.3786039	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+368	368	1	Y	Bold Point Park	Local Park	Pier	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	Y	-71.57399033	41.69506959	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+369	369	NA	N	Captain Issac Paine School	School	Danielson Pike	Foster	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.26117284	41.72505231	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+370	370	NA	N	Cranston St. Playground	Local Park	Cranston	Providence	MUN	1	1	1	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.56969147	41.69276337	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+371	371	1	Y	Davey Lopes Park	Local Park	Prairie	Providence	MUN	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	N	N	-71.47229938	41.74681344	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+372	372	NA	N	Ellery St. Park	Local Park	Ellery	Providence	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41453689	41.77221325	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+373	373	NA	N	Paul Grande Park	Local Park	Daniel	Providence	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.19211558	41.58292839	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+374	374	NA	N	Warren St. Playground	Local Park	Fuller	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.41248189	41.6926006	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+375	375	NA	N	Clarence St. Playground	Local Park	Clarence	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.4952641	41.72627732	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+376	376	NA	N	Scalabrini Piazza	Local Park	Silver Lake	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42990723	41.77068351	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+377	377	NA	N	Mattie Smith Totlot	Local Park	Taylor	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.54062787	42.01398697	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+378	378	NA	N	Salisbury St. Totlot	Local Park	Salisbury	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.49996486	42.00706746	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+379	379	1	Y	Bucklin St. Park / McCrane Pool	Local Park	Bucklin	Providence	MUN	1	1	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	N	N	-71.3764615	41.86300335	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+380	380	NA	N	Baxter St. Park	Local Park	Norwich	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39145097	41.85471096	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+381	381	NA	N	Harriet & Sayles Park	Local Park	Sayles	Providence	MUN	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.43286975	41.85135922	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+383	383	NA	N	Lawrence Street Playground	Local Park	Lawrence	Cranston	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39780118	41.75852018	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+384	384	NA	N	Dyer Ave. Field	Local Park	Dyer	Cranston	MUN	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.32250821	41.49841364	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+385	385	NA	N	Jennifer Rivera Memorial Park	Local Park	Niagara	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.29730786	41.47589496	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+386	386	1	Y	Squantum Woods Grove	Local Park	Veterans Memorial	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	N	N	-71.50685616	41.45324731	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+387	387	1	Y	JT Owens Park	Local Park	Niantic	Providence	STA	1	3	0	0	0	0	2	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.50952688	42.0100352	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+388	388	NA	N	Sackett St. Playground	Local Park	Sackett	Providence	MUN	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.53058882	41.99774171	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+389	389	NA	N	Smith St. Lot	Local Park	Smith	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.497271	41.42804251	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+390	390	NA	N	Western Hills Middle School	School	Phenix	Cranston	SCH	0	2	1	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.5674552	41.22459995	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+391	391	NA	N	Brook Street Little League Field	Local Park	Brook	East Providence	MUN	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.43691366	41.73703027	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+392	392	1	Y	Fay Memorial Field	Local Park	Dallas	Cranston	STA	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41397029	41.82719903	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+393	393	1	Y	Meshanticut Park	State Park	Lakeview	Cranston	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.46275956	41.8715035	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+394	394	NA	N	Commercial Street Playground	Local Park	Commercial	Cranston	MUN	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.4852603	41.72366878	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+395	395	NA	N	Oaklawn Ave. Field	Local Park	Oaklawn	Cranston	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.51758254	42.00001235	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+396	396	1	N	Dean Parkway	State Park	Dean	Cranston	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.38679313	41.89863454	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+397	397	1	Y	Walker Farm	Fishing / Boating	Wampanoag	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.47804045	41.96587709	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+398	398	NA	N	Garden City School	School	Magazine	Cranston	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41950228	41.90353666	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+399	399	NA	N	Sowams School	School	Sowams	Barrington	SCH	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.3667924	41.49643398	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+400	400	NA	Y	Adams Playground	Local Park	Adams	Warwick	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	N	Y	-71.3609321	41.75674146	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+401	401	NA	N	Vinter Avenue Playground	Local Park	Vintner	East Providence	MUN	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.36202108	41.77178597	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+402	402	NA	N	Aldrich Junior High School	School	Post	Warwick	SCH	0	1	2	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.30727955	41.46006064	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+403	403	NA	N	Klitzner Field / West Side Little League	Athletic Facility	Post	Warwick	MUN	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.55432167	41.47430425	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+404	404	1	Y	Haines Park	State Park	Haines Park	Barrington	STA	0	3	1	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.45121568	41.57016898	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+405	405	1	Y	Salter Grove	Local Park	Narragansett	Warwick	STA	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.34557665	41.84781017	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+406	406	NA	N	Wyman School	School	Columbia	Warwick	SCH	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.26956169	41.50075928	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+407	407	1	Y	Hampdem Meadows Greenbelt	Conservation Area	Lafayette	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Y	N	-71.38302422	41.87717767	Hampdem Meadows Greenbelt	Walking trail through a natural area conserved by the Town of Barrington.  Mostly local use		Yes		Yes	No	No	No	No	NA	Town of Barrington	NA	
+408	408	NA	N	Holliman School	School	Black	Warwick	SCH	0	2	1	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.41288479	41.82507848	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+409	409	NA	N	Barrington Middle School	School	Middle	Barrington	SCH	0	1	3	0	3	2	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.48089862	41.45130296	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+410	410	NA	N	Prince's Pond	Local Park	Priscilla	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.44895709	41.81975348	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+411	411	NA	N	John Brown School	School	Miantonomo	Warwick	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.49883057	41.43936569	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+412	412	NA	N	Wujcik Farm / Heritage Park	Conservation Area	Schoolhouse	Warren	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.56230466	41.483037	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+413	413	NA	N	Peck Center Playground	Local Park	Town Hall	Barrington	MUN	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.34316793	41.86831267	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+414	414	NA	N	Moosup Valley Park	Local Park	Moosup Valley	Foster	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	Y	-71.44331982	41.80142462	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+415	415	NA	N	Spring Green School	School	Balsam	Warwick	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45405211	41.78859907	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+416	416	NA	Y	Woody Lowden Recreation Center	Athletic Facility	Howard Hill	Foster	MUN	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Y	N	-71.47585682	41.75859166	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+417	417	NA	N	Baker St Park	Local Park	Baker	Warren	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.48472408	41.72894193	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+418	418	NA	N	Child St. School	School	Moonbeam	Warren	SCH	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.51493243	41.71548853	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+419	419	NA	N	Hoxsie School	School	Glenwood	Warwick	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.547552	41.69466874	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+420	420	NA	N	Nayatt School	School	Nayatt	Barrington	SCH	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44009779	41.82272572	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+421	421	NA	N	Lakecrest Park	Local Park	Stanmore	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.44810307	41.81965414	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+422	422	NA	N	Pontiac Playground	Local Park	Greenwich	Warwick	MUN	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.46044214	41.82650537	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+423	423	NA	N	Porter Field	Local Park	Vernon	Warwick	MUN	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.47295917	41.83454685	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+424	424	NA	N	Harris Playground	Local Park	Howard	Coventry	MUN	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41934975	41.81696043	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+425	425	1	Y	Barrington Town Beach	Local Park	Bay	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	N	-71.37778216	41.70618989	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+426	426	1	Y	Warren Town Beach	Local Park	Water	Warren	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	N	N	-71.48454369	41.45534247	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+427	427	NA	N	Sherman School	School	Killey	Warwick	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.36999668	41.87305749	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+428	428	NA	N	Halifax St. Playground	Local Park	Halifax	Warwick	MUN	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.44583382	41.78433382	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+429	429	1	Y	Conimicut Pt. Beach	Local Park	Point	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	Y	-71.31473529	41.51602909	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+430	430	NA	N	Natick Dam Overlook	Local Park	O'donnell	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	Y	-71.31659966	41.49118147	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+431	431	NA	N	Hanley Farm Marsh	Conservation Area	Beach	Warren	NGO	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.81418735	41.3672355	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+432	432	NA	N	Warwick National Little League / Bend Street Field	Local Park	Bend	Warwick	MUN	1	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.35093405	41.77416219	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+433	433	NA	N	Greenwood School	School	Trinity	Warwick	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.36610579	41.8150985	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+434	434	NA	N	Cedar Crest Playground	Local Park	San Miguel	Bristol	MUN	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.37923328	41.8813863	NA	"Cedarcrest Park is a 2-acre neighborhood park located on Fatima Drive. It features a beautiful playground, basketball court and a baseball field. This wooded park is great for picnics."	Cedarcrest Park 	NA	NA	NA	NA	NA	NA	NA	2 acres	NA	NA	NA
+435	435	NA	N	Tollgate  School Complex	School	Toll Gate	Warwick	SCH	0	2	2	1	4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.80600975	41.38689995	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+436	436	NA	N	Lippitt School	School	Almy	Warwick	SCH	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39435082	41.91727352	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+437	437	1	N	Veterans' High School	School	West Shore	Warwick	SCH	0	2	1	1	2	0	6	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	N	-71.38534982	41.86413358	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+438	438	1	Y	Nicholas Farm	Management Area	Plainfield Pike	Coventry	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	N	N	-71.45892074	41.83682136	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+440	440	NA	N	Washington Oak School	School	Walker	Coventry	SCH	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.35159868	41.82711013	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+441	441	1	Y	Gorton's Pond Beach	Local Park	Veterans Memorial	Warwick	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	Y	Y	-71.40812777	41.75687893	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+442	442	NA	N	Scott Elementary School	School	Centerville	Warwick	SCH	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.42327867	41.60176838	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+443	443	NA	N	Robertson School	School	Nausauket	Warwick	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.64532086	41.41550094	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+444	444	NA	N	Rockwell School	School	Hope	Bristol	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43775329	41.70772571	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+445	445	NA	N	Kerri Lyn Playground	Local Park	Kerri Lyn	Warwick	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.50407154	41.88507014	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+446	446	NA	N	Western Coventry School	School	Flat River	Coventry	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.4799874	41.8486867	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+447	447	NA	N	Matteson Pond	Conservation Area	Carlton	West Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	Y	-71.40977373	41.80700217	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+448	448	NA	N	Duchess St. Field	Local Park	Duchess	Warwick	MUN	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.61120356	41.83071507	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+449	449	NA	N	Warwick Neck School	School	Warwick Neck	Warwick	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.50583142	42.00952285	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+450	450	NA	N	Sowams Playground	Local Park	Sweeney	Bristol	MUN	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.4087792	41.9850675	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+451	451	1	Y	Bristol Junior-Senior High Sch.	School	Chestnut	Bristol	SCH	0	1	2	1	2	0	6	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39871689	41.98176496	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+452	452	1	N	Bristol Town Farm	Local Park	Asylum	Bristol	MUN	0	5	3	0	3	1	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	Y	Y	-71.69031651	41.92125074	NA	"The Town Beach and Sports Complex is a 47.15 acre park located near the entrance to Colt State Park. It features a pebbly beach with seasonal lifeguards, a large grassy expanse with a playground, many picnic tables, beach volleyball court, pavilion and ample parking. 
+
+The Sports Complex includes five baseball/softball fields, two tennis courts, two basketball courts, a roller hockey arena, two Bocce Courts, one Horseshoe Court, three Soccer fields, two large multipurpose fields, a 5 mile cross country fitness trail with exercise equipment, and a skate park. 
+
+A concession stand is open from Memorial Day weekend through Labor Day. It is the office for the Department of Parks and Recreation, as well as home for “Camp Poppasquaw”. It boarders the beautiful Colt State Park and the East Bay Bike Path."	Bristol Town Beach & Sports Complex	NA	NA	NA	NA	NA	NA	NA	47.15 acres	NA	NA	NA
+453	453	NA	N	Leahy Pond	Local Park	Primrose	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.66211428	41.90771696	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+454	454	NA	N	Wood Street Field	Local Park	Wood	Coventry	SCH	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.64605599	41.95081651	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+455	455	NA	N	Hopeworth Road Site	Conservation Area	Hopeworth	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.67129787	41.76625398	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+456	456	NA	N	Hopeworth Playground	Local Park	Hopeworth	Bristol	MUN	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.55049237	41.70503235	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+457	457	1	Y	Colt State Park	State Park	Asylum	Bristol	STA	0	0	0	0	4	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	1	0	N	N	-71.28434321	41.72551352	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+458	458	NA	N	Veterans' Field	Local Park	Wood	Bristol	MUN	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.37047713	41.50491431	NA	"Veteran’s Memorial Park is Home to the King Philip Little League and Roger Pigeon Memorial field, this newly renovated 8.1-acre park has a major league and minor league baseball field, a basketball court, playground, picnic tables and a parking lot. Two buildings contain bathrooms, storage and concession rooms. It is located at the North end of Wood Street, bordered by Silver Creek, which provides scenic views of swans and ducks."	Veteran’s Memorial Park	NA	NA	NA	NA	NA	NA	NA	8.1 acres 	NA	NA	NA
+459	459	NA	N	Guiteras Field	Local Park	Washington	Bristol	MUN	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44581532	41.71908043	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+460	460	NA	N	Tiogue School	School	Shore	Coventry	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.46933417	41.71028682	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+461	461	1	Y	Big River Reservoir	Management Area	Burnt Sawmill	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	N	N	-71.47628196	41.68181858	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+462	462	NA	N	Hopkins Hill School	School	Johnson	Coventry	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45738587	41.90116544	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+463	463	NA	N	Bristol Town Common	Local Park	Church	Bristol	MUN	1	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.35655335	41.81841921	NA	"The Bristol Town Common is a 7.08-acre site for numerous activities at all times of the year. Located one block east of Hope St., bordered by Wood and High Streets on the east and west, respectively. State Street runs along the North edge and Church runs along the Common's South side.  An old-time bandstand used for Concerts on the Common, and the 4th of July Carnival, a lighted tennis court with three courts, basketball court, softball field, and a large playground are some of the features. Summer basketball leagues and tennis lessons are provided.    "	NA	Yes	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA
+464	464	1	Y	Goddard Park	State Park	Ives	Warwick	STA	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	1	1	1	0	N	Y	-71.36762449	41.80731371	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+465	465	NA	N	Rockwell Park	Local Park	Thames	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.17647008	41.57108365	NA	"Rockwell Park is a 1.2-acre harbor side park at the end of John Street on historic Thames Street. The park has a fairly new dock system for residents as well as some space for transient boaters. The park also has a playground with slides and swings for younger children, a boardwalk and benches."	NA	NA	NA	NA	NA	NA	NA	NA	1.2 acres	NA	NA	NA
+466	466	NA	N	Pocasset Field	Local Park	Main	Tiverton	MUN	1	1	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.38295223	41.89408238	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+467	467	1	Y	North Prudence Island	Management Area	Neck Farm	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.26454763	41.52212763	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+468	468	NA	N	West Street Tot Lot	Local Park	James	East Greenwich	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.31806491	41.47714899	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+469	469	1	Y	Patience Island	Management Area	Neck Farm	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.31728563	41.47706648	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+470	470	NA	N	Academy Field	Local Park	Church	East Greenwich	MUN	0	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.31073211	41.48261381	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+471	471	NA	N	Barbara Tufts Memorial Playground	Local Park	Crompton	East Greenwich	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.4534918	41.84074489	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+472	472	NA	N	Eldredge Field	Local Park	Friendship	East Greenwich	MUN	1	2	1	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.40447728	41.80236084	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+473	473	1	Y	East Greenwich Town Boat Launch	Local Park	Crompton	East Greenwich	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	Y	-71.35271312	41.86777012	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+474	474	NA	N	Cole Middle School	Local Park	Cedar	East Greenwich	MUN	0	2	1	0	1	1	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.50270237	41.83439308	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+475	475	NA	N	Fairfield St. Playground	Local Park	Fairfield	East Greenwich	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.62888628	41.89097753	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+476	476	NA	N	Potowomut School	School	Potowomut	Warwick	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.49009874	41.75517131	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+477	477	1	Y	Boyds Marsh	Management Area	Bay View	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.50731756	41.62895756	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+478	478	NA	N	Tiverton Middle School	School	Quintal	Tiverton	SCH	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44596176	41.45285822	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+479	479	NA	N	Founder's Grove	Local Park	Boyds	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.32343424	41.46687696	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+480	480	NA	N	Tiverton High School	School	Brayton	Tiverton	SCH	0	1	2	1	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.53278462	42.00356381	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+481	481	NA	N	Signal Rock Playground	Local Park	Signal Rock	North Kingstown	MUN	1	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.47309381	41.99563505	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+482	482	NA	N	Fort Barton Historic Site	Conservation Area	Highland	Tiverton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.50159417	41.98259493	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+483	483	NA	N	Frenchtown School Playground	Local Park	Frenchtown	East Greenwich	MUN	1	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.55304302	41.92401795	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+484	484	1	Y	Teddy's Beach	Local Park	Point	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	N	N	-71.25560813	41.73985693	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+485	485	NA	N	Hutchinson School	School	Brownell	Portsmouth	SCH	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.28863245	41.71199719	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+486	486	NA	N	McGinn Park	Local Park	School	North Kingstown	MUN	1	4	1	1	1	4	6	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	Y	Y	-71.53156461	41.69270542	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+487	487	NA	N	Hathaway School	School	Main	Portsmouth	SCH	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.24596888	41.68364923	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+488	488	NA	N	Quidnesset School	School	Edmond	North Kingstown	SCH	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.19644929	41.62596399	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+489	489	1	Y	Portsmouth High School	School	Memorial	Portsmouth	SCH	0	4	2	1	4	3	8	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45290535	41.57279988	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+490	490	1	Y	Lehigh Hill Grove	State Park	Main	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.51138179	41.83072214	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+491	491	NA	N	Davisville Elementary School	School	East	North Kingstown	SCH	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.4750003	41.95441256	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+492	492	NA	N	Lineham School	School	Nooseneck Hill	West Greenwich	SCH	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.48708525	41.61244876	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+493	493	1	N	Hope Island	Management Area	Bay	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.81252346	41.41342338	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+494	494	NA	N	Municipal Golf Course	Athletic Facility	Lt James Brown	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	N	N	-71.60818622	41.89082593	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+495	495	1	Y	Black Regiment Memorial Park	State Park	Musselbed Shoal	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.67073316	41.89853263	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+496	496	1	Y	Devil's Foot Rock	Conservation Area	Post	North Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.70404927	41.90882091	Devil's Foot Rock	Historic site where colonial era legend holds that the Devil left his footprints on the rock.		No	"mainly of historical interest, not much of a hike"						NA		NA	
+497	497	1	Y	South Prudence Island	Management Area	Bunker	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	Y	-71.45036556	41.55136877	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+498	498	NA	N	Exeter / W.Greenwich L.L.. / Venon Oatley Field	Local Park	New London	Exeter	MUN	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39785502	41.90224066	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+499	499	NA	N	Stony Lane School	School	Iron Horse	North Kingstown	SCH	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.75408558	41.39098268	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+500	500	1	Y	Queen's Fort Historic Site	State Park	Lantern	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42797712	41.85867894	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+501	501	1	Y	Cocumscussoc Park	Conservation Area	Post Road	North Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	Y	-71.27626431	41.55856619	Cocumscussoc Park	This is undeveloped State Park just outside Wickford.  It's rough trail system is primarily use by hunters in season.		No	"no amenities, little parking, "						NA		NA	
+502	502	1	Y	Seapowet Marsh	Fishing / Boating	Seapowet	Tiverton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.64172354	41.96570262	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+503	503	NA	N	Melville School	School	Bradford	Portsmouth	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.79138305	41.89685848	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+504	504	1	Y	Beach Pond State Park	Fishing / Boating	Ten Rod	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	N	Y	-71.47154914	41.95917658	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+505	505	1	Y	North Kingstown Town Boat Launch	Local Park	Flat Fish	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.54845051	41.91467047	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+506	506	NA	N	Bush Hill Marsh	Conservation Area	Newtown	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.54783038	41.73713484	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+507	507	NA	N	Wickford Elementary School	School	Phillips	North Kingstown	MUN	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.44993011	41.44841611	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+508	508	NA	N	Wickford Middle School	School	Tower Hill	North Kingstown	SCH	0	2	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.48794217	42.00532228	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+509	509	1	Y	North Kingstown Town Beach	Local Park	Beach	North Kingstown	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	N	-71.49574713	42.00200809	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+510	510	1	Y	Fogland Beach	Local Park	Three Rod	Tiverton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	1	0	0	N	N	-71.19737003	41.55335611	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+511	511	NA	N	Redwood Farms	Local Park	Redwood	Portsmouth	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.18638297	41.62925465	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+512	512	1	Y	North Kingstown High School	School	Fairway	North Kingstown	SCH	0	2	3	1	3	0	6	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.27776092	41.59072857	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+513	513	1	Y	Arcadia Management Area	Management Area	Ten Rod	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	2	0	0	0	N	N	-71.23482487	41.57693547	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+514	514	NA	N	Portsmouth Middle School	School	Jepson	Portsmouth	SCH	0	2	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.27156825	41.5840276	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+515	515	1	Y	Sandy Point Beach	Local Park	Sandy Point	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	Y	-71.25372434	41.70888864	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+516	516	1	Y	John H Chafee Rome Point Preserve	State Park	Boston Neck Road	North Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	N	N	-71.43224028	41.92974988	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+517	517	1	Y	May C. Donovan Marsh	Conservation Area	Francis	Little Compton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42845791	41.92677475	May C. Donovan Marsh			No	Primarily a waterfowl hunting area.  The only access is from the water						NA		NA	
+518	518	NA	N	Hamilton School	School	Boston Neck	North Kingstown	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41774877	41.90876809	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+519	519	NA	N	Pennfield School	School	Main	Portsmouth	SCH	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.40453505	41.90167976	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+520	520	1	Y	Shady Lea	Conservation Area	Colonel Rodman	North Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.51606104	41.89399436	Shady Lea Grove	"Located on Silver Spring lake at the junction of Routes 1 & 4, Shady Lea is possibly the most popular place in RI on the opening day of trout season each Spring."		Yes		Yes	No	No	No	Yes	NA	RI Parks & Recreation (401) 667-6200 	NA	
+521	521	NA	N	Oliphant School	School	Oliphant	Middletown	SCH	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.40091105	41.88861258	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+522	522	1	Y	Silver Spring Lake Fishing Area	Fishing / Boating	Silver Spring	North Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.38453125	41.88868246	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+523	523	1	Y	Jamestown Shores Beach	Local Park	Seaside	Jamestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	N	N	-71.50958565	41.88407273	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+524	524	1	N	Gould Island	Management Area	Shore	Jamestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	N	N	-71.40334571	41.87969664	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+525	525	NA	N	Kennedy School	School	Lake Erie	Middletown	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.50165929	41.87887119	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+526	526	NA	N	Middletown Middle School	School	Turner	Middletown	SCH	0	2	1	1	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.60377837	41.87687266	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+527	527	1	Y	Rockville Management	Management Area	Canonchet	Hopkinton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	N	N	-71.40009413	41.87782517	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+528	528	NA	N	Linden School	School	Linden	Middletown	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.54843114	41.87600694	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+529	529	NA	N	Wilbour & McMahon School	Local Park	Meeting House	Little Compton	MUN	1	1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.38701827	41.87669966	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+530	530	NA	N	Sullivan School	School	Dexter	Newport	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39251251	41.87513764	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+531	531	NA	N	Eldridge Playground	Local Park	Miner	North Kingstown	MUN	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39860939	41.87416644	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+532	532	1	N	Bay Is. Park-Dutch Island	Management Area	Fort Getty	Jamestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.38524858	41.87229164	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+533	533	NA	N	Richmond Elementary School	School	Kingstown	Richmond	SCH	1	1	0	0	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39183233	41.86948988	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+534	534	NA	N	Coggeshall School	School	Evarts	Newport	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39422205	41.86953855	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+535	535	NA	Y	Van Zandt Pier	Local Park	Van Zandt	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.49775314	41.86827217	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+536	536	NA	N	Abbie Perry Park	Local Park	Sand Turn	South Kingstown	MUN	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.36744643	41.8673236	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+537	537	NA	N	Pettaquamscutt Park	Local Park	Woodsia	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.44906701	41.8618832	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+538	538	NA	N	Jamestown Library Playground	Local Park	Douglas	Jamestown	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43247577	41.85990704	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+539	539	NA	N	Aquidneck School	School	Reservoir	Middletown	SCH	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.40298774	41.85880098	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+540	540	1	Y	Hannah Robinson Tower	State Park	Bridgetown	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.35774456	41.85417626	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+541	541	1	Y	Little Compton Town Beach	Local Park	Shore	Little Compton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	N	N	-71.42041171	41.85085045	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+542	542	NA	N	Cranston / Calvert School	School	Cranston	Newport	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42098093	41.8495148	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+543	543	NA	N	Admiral Luce Circle	Local Park	Kay	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42949905	41.84790582	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+544	544	NA	N	Sachuest Point Campground	Local Park	Sachuest Point	Middletown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.44428081	41.85287283	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+545	545	1	Y	Sachuest Pt. National Refuge	Conservation Area	Sachuest Point	Middletown	FED	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	N	N	-71.64837259	41.83829857	Sachuest Pt. National Refuge	"From the mid-1600’s to the early 1900’s, Sachuest Point was used for farming and sheep grazing. During World War II, the U.S. Navy used this site for a rifle range and communications center. In 1970, a 70 acre donation from the Audubon Society of Rhode Island led to the establishment of Sachuest Point National Wildlife Refuge. Today, with the land transfers from the Navy, the Refuge totals 242 acres that provide an important stopover and wintering area for migratory birds.  Scenic trail along the Atlantic Ocean and Sakonnet River and a popular spot for bird watching."		Yes		No	Yes	Yes	Unsure	Unsure	NA	US Fish & Wildlife Service (401)364-912	NA	http://www.fws.gov/refuge/Sachuest_Point/
+546	546	1	Y	Carolina Management  Area	Management Area	Meadowbrook	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	N	N	-71.4044631	41.84172041	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+547	547	1	Y	Second Beach	Local Park	Sachuest Point	Middletown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	Y	-71.41949519	41.84134085	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+548	548	1	Y	Easton's Beach	Local Park	Memorial	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Y	Y	-71.43086529	41.83305666	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+549	549	1	Y	Jamestown Town Beach	Local Park	Beavertail	Jamestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	N	N	-71.45046094	41.83184798	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+550	550	1	Y	Purgatory Chasm	State Park	Tuckerman	Middletown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.50493071	41.82824667	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+551	551	NA	N	West Kingston School	School	Ministerial	South Kingstown	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43712308	41.82993051	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+552	552	1	Y	Great Swamp Management Area	Management Area	Great Neck	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.40729988	41.82990248	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+553	553	NA	Y	Cliff Walk	Local Park	Narragansett	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	Y	-71.3838594	41.82736457	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+554	554	1	Y	Fort Adams State Park	State Park	Fort Adams	Newport	STA	0	0	3	0	3	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	1	0	N	Y	-71.41214058	41.82543655	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+555	555	1	Y	Fort Wetherill	State Park	Fort Wetherill	Jamestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	Y	-71.40780899	41.82516194	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+556	556	NA	N	Indian Lake Playground	Local Park	Indian	South Kingstown	MUN	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.36849431	41.82313275	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+557	557	1	Y	Rogers High School	School	Wickham	Newport	SCH	0	0	1	0	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.42159034	41.82304355	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+558	558	1	N	Mettatuxet Minipark	Local Park	Tupelo	Narragansett	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	N	-71.39422525	41.82307242	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+559	559	1	N	Sakonnet Harbor Beach	Local Park	Sakonnet Point	Little Compton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	N	N	-71.35957983	41.81955233	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+560	560	1	Y	Beavertail State Park	State Park	Beavertail	Jamestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	N	Y	-71.4312146	41.81349461	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+561	561	1	Y	Brenton Point Park	State Park	Atlantic	Newport	STA	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	N	Y	-71.44376278	41.81134306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+562	562	1	Y	Kings Beach	Fishing / Boating	Price's Neck	Newport	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	N	Y	-71.45698261	41.80781061	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+563	563	NA	Y	Frank Fagan Park	Local Park	Dam	South Kingstown	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Y	Y	-71.43500034	41.80581248	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+564	564	1	Y	Chariho High School	School	Switch	Richmond	SCH	0	4	2	1	2	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.40926733	41.797964	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+565	565	1	N	Charlestown School	School	Old Shannock	Charlestown	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	N	-71.4725488	41.79694261	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+566	566	NA	N	South Kingstown Village Green	Local Park	Kingstown	South Kingstown	MUN	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.425731	41.79668973	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+567	567	NA	N	Hazard Field	School	School	South Kingstown	SCH	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.48719497	41.79577928	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+568	568	NA	N	Cooney-tate Field	Local Park	Gansett	Cranston	MUN	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.39260892	41.79113243	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+569	569	1	Y	East Greenwich High School	Athletic Facility	Avenger	East Greenwich	MUN	1	3	4	2	4	0	6	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.36987907	41.79003093	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+570	570	NA	Y	World War II Park	Local Park	School	Woonsocket	MUN	1	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	N	Y	-71.39392409	41.78924407	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+571	571	NA	Y	Dunn Park	Local Park	Mason	Woonsocket	MUN	1	1	1	0	1	2	3	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	N	Y	-71.46120431	41.78763826	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+572	572	NA	N	Edgewood Park	Local Park	Narragansett	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.44056235	41.78759755	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+573	573	NA	N	Hazard School	School	School	South Kingstown	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.48611149	41.7863272	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+574	574	1	Y	Canonchet Farm	Conservation Area	Anne Hoxsie	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	N	Y	-71.40239934	41.78721668	Canonchet Farm	174 acre historic farm.  South County Museum offers exhibits and demonstrations of early farm life. 	South County Museum	Yes		No	Yes	Yes	Yes	Yes	NA		NA	http://canonchet.org/index.php
+575	575	NA	N	Peacedale Elementary School	School	Emmett	South Kingstown	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.4200721	41.78449845	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+576	576	1	Y	Meadow Brook Pond	Fishing / Boating	Church	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.71970115	41.78337062	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+577	577	1	Y	Narragansett Town Beach	Local Park	Beach	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	N	-71.46519837	41.7823389	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+578	578	NA	N	Town Farm	Local Park	Dobson	South Kingstown	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.42370291	41.78446809	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+579	579	NA	N	Briggs Memorial Park	Local Park	High	Hopkinton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43598448	41.77870865	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+580	580	NA	Y	Marina Park	Local Park	Salt Pond	South Kingstown	MUN	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	Y	N	-71.51710607	41.77755465	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+581	581	1	Y	Narragansett High School	School	Pier	Narragansett	SCH	0	2	3	1	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.33298002	41.76831439	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+582	582	NA	N	Ashaway School	School	Hillside	Hopkinton	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.38916458	41.76262623	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+583	583	NA	N	Charlestown Town Hall Field	Athletic Facility	County	Charlestown	MUN	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.42775265	41.76080312	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+584	584	NA	N	Gingerella Sports Complex	Local Park	White Rock	Westerly	MUN	1	0	5	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.35701991	41.75990677	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+585	585	1	Y	Scarborough State Beach	State Park	Ocean	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	Y	-71.47712039	41.75831197	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+586	586	1	Y	Woody Hill Area	Management Area	Woody Hillension	Westerly	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	N	N	-71.33367092	41.75646999	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+587	587	1	Y	Newton Swamp	Management Area	Westerly-Bradford	Westerly	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.3388532	41.74290865	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+588	588	1	N	Succotash Marsh	Conservation Area	Succotash	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.31612966	41.74081452	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+589	589	1	Y	Trustom Pond National Wildlife Refuge	Conservation Area	Border	South Kingstown	FED	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	N	-71.47509518	41.73981323	Trustom Pond National Wildlife Refuge	"The refuge includes 787 acres of various wildlife habitats including fields, shrublands, woodlands, fresh and saltwater ponds and sandy beaches and dunes. Approximately 300 bird species, more than 40 mammal species, and 20 species of reptiles and amphibians call Trustom Pond refuge home during the year. Trustom Pond is the only undeveloped coastal salt pond in Rhode Island, making it even more valuable to wildlife. On the southern boundary is found a barrier beach which remains one of the few Rhode Island nesting sites for two species of concern, the least tern and piping plover."		Yes		No	Yes	Unsure	No	No	787	US Fish & Wildlife Service (401) 364-9124	NA	http://www.fws.gov/refuge/Trustom_Pond/about.html
+590	590	1	N	Galilee Bird Sanctuary	Management Area	Galilee Escape	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.55482661	41.73672989	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+591	591	1	Y	Fort Ninigret	State Park	Fort Ninigret	Charlestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.2834424	41.72976548	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+592	592	1	Y	Burlingame Management Area	Management Area	Unnamed	Charlestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.28326955	41.72248043	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+593	593	1	N	Fishermen's Memorial State Campground	State Park	Point Judith	Narragansett	STA	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	N	Y	-71.40192848	41.7092743	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+594	594	NA	N	Tower St. School	Local Park	Narragansett	Westerly	SCH	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.44072986	41.7009188	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+595	595	1	Y	Babcock Hall	School	Ward	Westerly	SCH	0	1	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.69472853	41.7020462	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+596	596	1	Y	East Matunuck State Beach	State Park	Succotash	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	Y	-71.56516768	41.69754975	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+597	597	1	Y	Roger Wheeler State Beach	State Park	Sand Hill Cove	Narragansett	STA	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	Y	-71.45800721	41.70068082	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+599	599	NA	N	State St. School	School	State	Westerly	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.3980513	41.6987203	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+600	600	1	Y	Camp Cronin	Fishing / Boating	Ocean	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	Y	-71.54670084	41.69716792	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+601	601	1	Y	Charlestown Town Beach	Local Park	Brown Hill	Charlestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	N	-71.63029436	41.69189456	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+602	602	1	Y	Charlestown Breachway Campground	State Park	Charlestown Beach	Charlestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	Y	-71.52338207	41.68620589	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+603	603	NA	N	Dunn's Corner School	School	Plateau	Westerly	SCH	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.52886067	41.67674364	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+604	604	1	Y	Ninigret Conservation Area	Conservation Area	Beach	Charlestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	N	Y	-71.15001763	41.62374835	Ninigret Conservation Area	Pristine stretch of Atlantic Ocean barrier beach.  There is a small parking lot and guarded beach area but the most of the area is accessible only on foot or by 4-wheel drive (permit required)	East Beach State Beach	Yes		Yes	Yes	Yes	No	Unsure	NA	RI Parks & Recreation (401) 667-6200 	NA	
+605	605	1	Y	Quonochontaug Fishing Area	Fishing / Boating	Beach	Charlestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.20918471	41.6243385	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+606	606	1	Y	Misquamicut State Beach	State Park	Atlantic	Westerly	STA	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	N	-71.52012626	41.62406091	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+607	607	1	Y	Westerly Town Beach	Local Park	Atlantic	Westerly	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	N	-71.25092768	41.60494645	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+608	608	1	N	Block Is. Nat. Wildlife Refuge	Conservation Area	Beach	New Shoreham	FED	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.49106439	41.57456586	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+609	609	NA	Y	Settler's Rock	Local Park	Corn Neck	New Shoreham	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.45223838	41.57002259	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+610	610	1	N	Clay Head / Risom	Conservation Area	Corn Neck	New Shoreham	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	Y	-71.1281996	41.55367362	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+611	611	1	Y	Clay Head	Conservation Area	Clayhead	New Shoreham	NGO	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	Y	-71.5326474	41.54912222	Clay Head	"This spectacular hike rambles above the Atlantic Ocean along clay bluffs that offer some of the most dramatic views of any hike on Block Island. With plenty of lookout points along the way, you and your dog will enjoy feeling the mist on your face and the smell of saltwater in the air."		Yes		Unsure	No	No	No	No	NA	The Nature Conservancy	NA	
+613	613	NA	N	Block Island School	School	Pilot Hill	New Shoreham	SCH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.49414073	41.53977545	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+614	614	1	Y	Rodman's Hollow	Conservation Area	Black Rock	New Shoreham	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	Y	-71.36630804	41.52538334	Rodman's Hollow	"This 230-acre glacial outwash basin, located in the southwest part of the island, is considered the birthplace of conservation on Block Island. It was preserved through a 30-year partnership between the Block Island Conservancy, The Nature Conservancy, the Town of New Shoreham, and the Rhode Island Department of Environmental Management."		Yes		Yes	No	No	No	No	NA	Town of New Shoreham Recreation Dept (401) 466-3223	NA	
+615	615	NA	N	Pascone Conservation Area	Conservation Area	Burrati	Johnston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.30992729	41.50985944	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+616	616	1	Y	Chepiwanoxet	Local Park	John Wickes	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	N	N	-71.71501938	41.50997955	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+617	617	NA	Y	Lincoln Park	Local Park	Kentucky	Warwick	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	N	-71.71737476	41.50460573	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+618	618	NA	N	Oakland Beach School	School	Gordon	Warwick	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.29955275	41.50300715	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+619	619	NA	N	Iris Ave Field	Athletic Facility	Iris	Warwick	MUN	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.31959823	41.50085906	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+620	620	NA	N	Coventry Focal Point	Local Park	Tiogue	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.29739616	41.4951863	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+621	621	1	Y	Merrill S. Whipple Conservation	Management Area	Sandy Bottom	Coventry	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	N	N	-71.30930265	41.49471204	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+622	622	NA	N	Phenix-Harris Main Street Water	Local Park	Main	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.30881498	41.49459404	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+623	623	NA	N	Hanaford Field	Local Park	Lebaron	East Greenwich	MUN	1	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.31304003	41.49255857	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+624	624	1	Y	East Bay Bike Path	State Park	Franklin	Warren	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	N	N	-71.32118199	41.49189489	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+625	625	NA	N	North Smithfield Elementary Sch	Local Park	Providence Pike	North Smithfield	MUN	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.17334324	41.48974468	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+626	626	NA	N	Alphonso St. Playground	Local Park	Alphonso	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.31378654	41.48993717	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+627	627	1	Y	Buttonhole Golf Course	Local Park	King Philip	Johnston	STA	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	N	Y	-71.31712485	41.48897703	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+628	628	NA	Y	Waterplace Park	Local Park	Finance	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	N	-71.30954923	41.48567758	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+629	629	NA	N	Woodmont Playground	Local Park	Woodmont	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.30618793	41.48356322	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+630	630	NA	N	Springfield School Grounds	Local Park	Springfield	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.31162451	41.48236382	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+631	631	NA	N	Kingston Street Playground	Local Park	Kingston	Newport	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39479116	41.48043774	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+632	632	NA	N	Potter-Burns School	School	Carter	Pawtucket	SCH	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.31656369	41.47617704	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+633	633	NA	N	Eagle Nest / Handy Pond	Conservation Area	Old River	Lincoln	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.31123832	41.47149908	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+634	634	1	N	Kent Street	Athletic Facility	Kent	Barrington	MUN	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	N	-71.4518769	41.47074225	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+635	635	NA	Y	St. Andrew's Farm	Athletic Facility	Middle	Barrington	MUN	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Y	N	-71.50145165	41.43885766	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+636	636	1	Y	Salty Brine State Beach	State Park	Sand Hill Cove	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	Y	-71.45663007	41.43138828	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+637	637	NA	N	Hunt River Preserve	Conservation Area	South County	East Greenwich	NGO	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45664927	41.43061513	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+639	639	NA	N	Ball O'Brien Park	Local Park	Side	New Shoreham	MUN	1	0	0	0	0	1	2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45976342	41.42506409	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+640	640	1	Y	Barrington High School	School	Lincoln	Barrington	SCH	0	3	3	1	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.78561524	41.42110512	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+641	641	1	Y	Coventry High School	School	Club House	Coventry	SCH	0	1	1	1	2	0	6	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.47648297	41.39666177	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+642	642	1	Y	Cranston High School West	School	Phoenix	Cranston	SCH	0	1	1	1	1	0	6	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.52962062	41.39825341	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+643	643	NA	N	Atwood Ave. Field	Local Park	Randall	Cranston	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.56926145	41.70989973	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+644	644	1	Y	Tucker Field	Athletic Facility	Mendon	Cumberland	MUN	0	2	1	1	2	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.46955856	41.63512808	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+645	645	NA	N	Silver Spring Playground & Athletic Area	School	Silver Spring	East Providence	MUN	1	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.2537063	41.72704779	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+646	646	1	Y	East Providence High School	School	Pawtucket	East Providence	SCH	0	3	6	1	6	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.51463864	41.99940587	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+647	647	NA	N	Glenlyon Park & Athletic Complex	Local Park	Kelly	East Providence	MUN	1	2	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.46008589	41.43141941	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+648	648	1	Y	Ponagansett School	School	Anan Wade	Glocester	SCH	0	2	2	1	2	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.42553268	41.79032642	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+649	649	NA	N	Jamestown School	School	Melrose	Jamestown	SCH	1	4	1	0	1	1	6	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.42147994	41.83371701	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+650	650	1	Y	Lincoln Junior / Senior High	School	Old River	Lincoln	SCH	0	2	2	1	2	0	8	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.42690193	41.82384759	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+651	651	NA	N	Middletown High School	School	Reardon	Middletown	SCH	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41650553	41.79313318	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+652	652	NA	N	Anchorage Playground	Local Park	Main	Middletown	MUN	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.44314758	41.82530215	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+653	653	NA	N	Domenic Cristofaro Memorial Park	Local Park	Boston Neck	Narragansett	MUN	1	1	2	0	0	2	4	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.43523232	41.78910569	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+654	654	NA	N	Ryan Park	Local Park	Oak Hill	North Kingstown	MUN	0	4	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.3998226	41.85448043	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+655	655	NA	Y	Notte Memorial Park	Local Park	Douglas	North Providence	MUN	0	1	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.41654073	41.81263186	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+656	656	1	N	Pacheco Park	Local Park	Main	North Smithfield	MUN	1	4	0	0	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	Y	Y	-71.39775158	41.84952876	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+657	657	1	Y	North Smithfield High School	School	Greenville	North Smithfield	SCH	0	2	1	1	1	2	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.42948278	41.82358597	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+658	658	1	Y	Hope High School	School	Brown	Providence	SCH	1	2	1	1	2	1	8	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.39655429	41.85375878	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+659	659	NA	N	Curtis Corner Middle School	School	Curtis Corner	South Kingstown	SCH	0	0	1	1	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.38620717	41.81756769	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+660	660	1	Y	Smithfield High School	School	Rosewood	Smithfield	SCH	0	2	1	1	1	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.27254513	41.66208737	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+661	661	NA	N	Whipple Field	Athletic Facility	Whipple	Smithfield	MUN	0	5	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.57596282	41.16404036	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+662	662	NA	N	Rubery Field	Local Park	Lyman	Warwick	MUN	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.3841876	41.89359393	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+663	663	NA	N	Cedar Hill School	School	Unnamed	Warwick	SCH	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.55582822	41.69451121	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+664	664	NA	Y	Gorton School	School	Draper	Warwick	SCH	0	0	2	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	N	N	-71.46220355	41.73603174	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+665	665	NA	N	Belmont Park	Local Park	1st	Warwick	MUN	0	3	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.35511371	41.80514827	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+666	666	NA	Y	Father Tirocchi Playground	Local Park	Pontiac	Warwick	MUN	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	N	Y	-71.67330195	41.91381814	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+667	667	1	Y	Pilgrim High School	School	Pilgrim	Warwick	SCH	0	1	2	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.48645371	41.38932645	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+668	668	NA	N	Quinn School	School	Brown	West Warwick	SCH	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.30499357	41.48192315	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+669	669	1	Y	West Warwick School Complex	School	Webster Knight	West Warwick	SCH	0	1	3	1	3	0	3	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.3186689	41.49924481	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+670	670	1	Y	Cold Spring Park	Local Park	Katherine	Woonsocket	MUN	1	2	0	0	0	1	2	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	Y	-71.31657046	41.46824753	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+671	671	NA	N	Bradford Elementary School	Local Park	Penny	Westerly	MUN	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.46439147	41.85091398	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+672	672	1	Y	Exeter / West Greenwich Soccer	Athletic Facility	Victory	West Greenwich	MUN	0	0	7	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	N	N	-71.36805787	41.86426661	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+673	673	1	Y	Exeter / West Greenwich Jr-Sr High	School	Nooseneck Hill	West Greenwich	SCH	0	2	2	1	3	0	4	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.40506188	41.85298983	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+674	674	NA	N	Colonial Acres Recreation Area	Local Park	Monroe	Coventry	MUN	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.388622	41.82382257	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+675	675	NA	Y	Broad Rock Middle School	School	Broad Rock	South Kingstown	SCH	0	0	2	0	2	0	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	N	N	-71.45413944	41.82022963	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+676	676	NA	N	O'Brien Field	Local Park	Follett	Pawtucket	MUN	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.56810801	41.48870802	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+677	677	NA	N	Agnes Little School Playground	School	Ashton	Pawtucket	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.27759027	41.73189948	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+678	678	NA	N	McKinnon / Alves Soccer Complex	Local Park	Monticello	Pawtucket	MUN	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	Y	-71.37146447	41.69621129	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+679	679	1	Y	Burrillville Middle School	School	Broncos	Burrillville	SCH	1	2	1	0	1	2	2	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.37940713	41.71829995	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+680	680	NA	N	Steere Farm Elementary School	School	Steere Farm	Burrillville	SCH	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39993	41.75056228	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+681	681	NA	N	Stadium School	School	Crescent	Cranston	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.44213496	41.70840196	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+682	682	NA	N	Waterman School	School	Mapleton	Cranston	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.82185969	41.38621828	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+683	683	NA	N	First Street Park	Local Park	1st	Cranston	MUN	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.6041994	41.37805785	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+684	684	NA	N	Rhodes School	School	Shaw	Cranston	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.27376465	41.50945205	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+685	685	NA	N	Ravenwoods Field	Local Park	Victory	Coventry	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.65837603	41.45198699	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+686	686	NA	N	Amvets Memorial Park	Local Park	Tiogue	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.63615609	41.44275241	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+687	687	NA	N	Aaron Ave. Right-of-Way	Local Park	Aaron	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.65470428	41.44791261	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+688	688	1	Y	Mt. Hope Farm	Local Park	Metacom	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	N	-71.70163735	41.95736126	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+689	689	1	Y	Waypoyset Preserve / Bristol Narrows	Conservation Area	Narrows	Bristol	NGO	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	N	N	-71.45282198	41.78539747	Waypoyset Preserve / Bristol Narrows	"Wooded area and sandy spit at the mouth of the Kickemuit River.  Excellent fishing here as fast moving tidal currents stir the bottom. The Narrows Boat Ramp is located at the end of Narrows Road and is a public access right of way to the Kickemuit River on Narragansett Bay. A place to fish, launch a boat or kayak."		Yes		Yes	No	Unsure	No	Unsure	NA		NA	
+690	690	NA	N	Westerly Town Forest	Conservation Area	Havens	Westerly	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43143461	41.78110037	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+691	691	1	Y	Blue Beach	Local Park	Quonset	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	N	N	-71.25047597	41.55488859	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+692	692	1	Y	Killingly Pond	Management Area	Cook Estate	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	N	N	-71.53947262	41.69781905	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+693	693	NA	N	Philips Farm	Conservation Area	Putnam	Glocester	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.25551024	41.67999805	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+694	694	NA	N	Scotstun Town Forest	Conservation Area	Chopmist Hill	Glocester	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.26974525	41.6853303	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+695	695	NA	N	Sprague Farm	Conservation Area	Pine Orchard	Glocester	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.40336571	41.62613144	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+696	696	NA	N	Mansion Park	Local Park	Sorrento	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.3994346	41.91485381	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+697	697	NA	N	Cragan Field	Local Park	Reilly	East Greenwich	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.38935583	41.90009926	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+698	698	NA	N	Rhodes School	School	Putnam	Warwick	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.5080954	42.01554502	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+699	699	NA	N	Lincoln Avenue Park	Local Park	Lincoln	Barrington	MUN	0	1	0	0	1	0	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.5305695	42.01412593	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+700	700	NA	N	North Providence Little League West	Athletic Facility	Woonasquatucket	North Providence	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.52381104	42.00065905	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+701	701	1	Y	Mccoy Stadium Annex	Athletic Facility	Division	Pawtucket	MUN	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Y	Y	-71.48334501	42.00157932	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+702	702	1	Y	Town Landing	Local Park	Taft	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	N	-71.51144853	41.98979979	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+703	703	NA	N	Crompton Veterans Field	Local Park	Hepburn	West Warwick	MUN	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.52281194	41.98644798	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+704	704	NA	N	Franciscan Park	Local Park	Ridge	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.53242664	41.98810341	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+705	705	NA	Y	Thunder Mist Overlook	Local Park	River	Woonsocket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.67449837	41.96612845	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+706	706	NA	Y	Blackstone River Park	Local Park	High	Central Falls	MUN	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	Y	N	-71.71458006	41.96500252	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+707	707	NA	N	Public St. Basketball Court	Athletic Facility	Public	Providence	MUN	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.70935789	41.96454653	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+708	708	NA	N	Manning Field	Athletic Facility	Danielson	Scituate	SCH	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45906214	41.95225512	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+709	709	1	Y	Curtis Corner Playfields	Athletic Facility	Curtis Corner	South Kingstown	MUN	1	2	1	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	Y	N	-71.4325523	41.90690448	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+710	710	NA	N	Bouley Field	Athletic Facility	Social	Woonsocket	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.4140903	41.89648928	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+711	711	NA	N	Bentley Field	Athletic Facility	Diamond Hill	Cumberland	UTL	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39513818	41.89214725	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+712	712	NA	N	Razee Field	Athletic Facility	Nate Whipple	Cumberland	UTL	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41318056	41.89222464	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+713	713	NA	N	Burrillville Glocester Youth Soccer	Athletic Facility	Putnam	Glocester	PRV	0	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.371231	41.89197283	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+714	714	NA	N	Putnam Pike Baseball Field	Athletic Facility	Putnam	Glocester	Municipal	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.3952741	41.88606529	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+715	715	NA	N	Casino Street Field	Athletic Facility	Casino	Burrillville	Municipal	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.41417495	41.88146503	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+716	716	1	Y	Union Pond Fishing Access	Fishing / Boating	Reservoir	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	N	-71.53623906	41.87457105	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+717	717	1	Y	Spring Lake Beach	Local Park	Hillside	Burrillville	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	N	-71.41447733	41.87601264	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+718	718	1	Y	Slatersville Pond Fishing Access	Fishing / Boating	Victory Highway	North Smithfield	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	N	N	-71.37606847	41.87448776	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+719	719	NA	N	Globe Park	Local Park	Coe	Woonsocket	MUN	1	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Y	Y	-71.48793202	41.8658034	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+720	720	NA	Y	Manville Memorial Park	Local Park	High	Lincoln	MUN	1	2	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	N	N	-71.43144753	41.86663561	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+721	721	NA	Y	Great Road Gateway	Local Park	Front	Lincoln	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	N	-71.41874411	41.85621963	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+722	722	NA	Y	Tasca Field	Athletic Facility	Washington Highway	Scituate	MUN	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Y	N	-71.46640681	41.85397611	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+723	723	NA	N	Westconnaug Meadows	Athletic Facility	George Washington	Scituate	Municipal	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.41880457	41.85112505	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+724	724	NA	N	Boston Road Field	Athletic Facility	Boston	Coventry	Municipal	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39605819	41.84349506	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+725	725	NA	N	Leina Rose Street Playground	Local Park	Leina Rose	Coventry	UNK	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.40339704	41.84188033	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+726	726	NA	N	Jannitto Memorial Field	Athletic Facility	0	Warren	Municipal	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.44228241	41.84207597	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+727	727	NA	N	Island Park Playground	Local Park	Highland	Portsmouth	MUN	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.39135991	41.84200883	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+728	728	NA	N	Howland Park	Local Park	Wapping	Middletown	MUN	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.46296995	41.83729856	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+729	729	NA	Y	Jamestown Town Pier	Local Park	Conanicus	Jamestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	Y	-71.40360486	41.83815009	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+730	730	NA	N	Jamestown Town Golf Course	Athletic Facility	Conanicus	Jamestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.42161537	41.8341644	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+731	731	NA	Y	Potter Cove Access	Fishing / Boating	Bayview	Jamestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	N	N	-71.38698429	41.83258004	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+732	732	NA	N	Roger Williams Square	Local Park	Gano	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.46358075	41.83347222	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+733	733	NA	N	Kenney Field	Athletic Facility	Jefferson	Warwick	NGO	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.58497868	41.8344732	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+734	734	NA	N	Warwick Continental Little League	Athletic Facility	Greenwich	Warwick	MUN	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.38188883	41.83063617	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+735	735	1	Y	Rocky Point Park	Local Park	Rocky Point	Warwick	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	1	0	N	N	-71.39262159	41.82419759	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+736	736	NA	N	St Gregory 																																													
+737	737	NA	N	Sleepy Hollow Tennis Courts	Athletic Facility	Sleepy Hollow Farm	Warwick	Municipal	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39889673	41.82131637	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+738	738	NA	N	Shovlin Park	Local Park	Middle	East Greenwich	MUN	1	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.43517942	41.82081028	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+739	739	NA	N	Yorktown Park	Local Park	Yorktown	North Kingstown	MUN	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.52856364	41.81550452	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+740	740	NA	N	Green Conservation Area	Conservation Area	Hamilton Allenton	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.41335932	41.82034733	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+741	741	NA	N	Boys And Girls Club	Local Park	Martin	Cumberland	UNK	1	1	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.38040476	41.81561119	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+742	742	NA	N	Fatima Church Field	Local Park	High	Cumberland	PRV	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.42342686	41.81542608	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+743	743	NA	N	Fanning Wilderness Area	Conservation Area	Jones	Cumberland	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.43855381	41.81085207	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+744	744	NA	N	Davies Middle School	Athletic Facility	Jenckes Hill	Lincoln	SCH	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45749545	41.81029998	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+745	745	NA	N	Freedom Green Park	Local Park	North Broadway	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.42559493	41.8109391	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+746	746	NA	N	Senior Center Soccer Field	Athletic Facility	Payette	East Providence	MUN	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45091766	41.8091845	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+747	747	NA	N	Rose Garden Playground & Soccer Area	Athletic Facility	Brown	East Providence	MUN	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	Y	-71.45817216	41.8077423	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+748	748	NA	Y	Rose Larisa Memorial Park	Local Park	Bullocks Point	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	N	Y	-71.41752559	41.80569197	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+749	749	NA	N	Bullock Cove Access	Local Park	Carousel	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.41067679	41.80588468	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+750	750	NA	Y	Riverside Square Park	Local Park	Bullocks Point	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.41655856	41.8028283	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+751	751	1	N	County Road Boat Launch	Local Park	County	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	N	-71.41180652	41.80259776	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+752	752	NA	Y	Rovensky Park	Local Park	Bellevue	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	N	-71.45130463	41.79896054	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+753	753	NA	N	Hazard Memorial Garden	Local Park	Kingstown	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45874591	41.79584831	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+754	754	NA	Y	South County Bike Path	Local Park	Ministerial	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	N	N	-71.42066992	41.80260924	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+756	756	1	Y	Allen Harbor	Local Park	Alllen	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.41741971	41.79416612	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+757	757	NA	N	Forest Park	Local Park	Lynn	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39967325	41.78505011	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+758	758	NA	Y	Town Dock Park	Local Park	Brown	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	N	N	-71.34394523	41.77086586	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+759	759	NA	N	Town Hall Memorial Park	Local Park	Boston Neck	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.3899168	41.76672015	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+760	760	NA	N	Town Wharf	Local Park	Main	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.47296739	41.76551858	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+761	761	NA	Y	Mystic Woods	Conservation Area	South	East Greenwich	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.34990006	41.75662384	Mystic Woods	Trails wind through a wooded parcel owned by the East Greenwich Land Trust		Yes		Yes	No	No	No	No	NA	East Greenwich Land Trust 401-886-8645	NA	
+762	762	NA	N	Municipal Cove Overlook	Local Park	Division	East Greenwich	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.31790777	41.74388876	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+763	763	NA	N	Meadowbrook Field	Local Park	Chestnut	East Greenwich	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.30687672	41.74132436	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+764	764	1	Y	Weetamo Woods	Local Park	Lake	Tiverton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	N	-71.75213816	41.73702553	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+765	765	1	Y	Grinnells Beach	Local Park	Main	Tiverton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Y	N	-71.28545499	41.73066461	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+766	766	NA	N	South Field	Athletic Facility	East	Tiverton	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.40980972	41.72253264	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+767	767	NA	N	Bayview Playground	Local Park	Hooper	Tiverton	MUN	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.47440054	41.72801587	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+768	768	NA	N	Rotary Park	Local Park	Airport	Westerly	MUN	1	0	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.39760599	41.72346682	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+769	769	NA	N	Springbrook School	School	Springbrook	Westerly	SCH	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.54196204	41.72466246	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+770	770	1	Y	Blue Shutters Beach	Local Park	Beach	Charlestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	N	N	-71.45834935	41.71869307	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+771	771	1	Y	Fish Hill Ball Fields	Athletic Facility	Fish Hill	Coventry	STA	0	2	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	N	N	-71.49298606	41.71722507	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+773	773	1	Y	North Glen Boat Launch	Local Park	North Glen	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.38352836	41.71156669	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+774	774	1	Y	Hope Pond Recreation Area & Beach	Local Park	Ryefield	Scituate	MUN	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	N	N	-71.25945978	41.71023453	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+775	775	NA	N	Beaver River Road Playground	Local Park	Beaver River	Richmond	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.42490973	41.6988988	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+776	776	NA	N	Apponaug Park	Local Park	Post	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.474919	41.69241415	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+777	777	NA	N	Saul Tarlow Field	Athletic Facility	High	Central Falls	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.25721656	41.69073036	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+778	778	1	Y	Chariho Athletic Association	Local Park	Nooseneck Hill	Hopkinton	PRV	0	3	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	N	-71.25858671	41.68887821	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+779	779	1	Y	Big River / Nooseneck Hill Road Fishing Access	Fishing / Boating	Nooseneck Hill	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	N	N	-71.56259058	41.6859738	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+780	780	NA	Y	Nannaquaket Bridge	Fishing / Boating	Main	Tiverton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.24149549	41.68294616	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+781	781	NA	N	St. Mary's Pond	Fishing / Boating	Union	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.27478669	41.68007664	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+782	782	NA	N	Lampham Pond	Fishing / Boating	Victory	Burrillville	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.27576572	41.67765189	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+783	783	1	Y	Round Top	Management Area	Round Top	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0	0	N	N	-71.27208148	41.67040199	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+784	784	NA	N	Mowry Pond	Fishing / Boating	Killingly	Glocester	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.27777757	41.6689594	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+785	785	1	Y	Blue Pond	Fishing / Boating	Canonchet	Hopkinton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	N	N	-71.18440258	41.66652748	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+786	786	1	Y	Long Pond	Fishing / Boating	North	Hopkinton	NGO	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.45594866	41.66283978	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+787	787	NA	N	Upper Rochambeau / Handy Pond	Fishing / Boating	Old River	Lincoln	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.45299093	41.66098433	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+788	788	1	Y	Carr Pond	Fishing / Boating	Hopkins Hill	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	N	N	-71.44762549	41.65855015	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+789	789	NA	N	AL Mowry	Fishing / Boating	Industrial	Smithfield	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.45506999	41.65678666	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+790	790	NA	N	Seidel Pond Fishing Access	Fishing / Boating	Hall	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.46305829	41.6511542	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+791	791	1	Y	State Pier # 4	Fishing / Boating	Succotash	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.46596343	41.64550829	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+793	793	NA	N	Old Sprague Bridge Fishing Access	Fishing / Boating	Boston Neck	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.24291602	41.62847075	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+794	794	1	Y	Peck Pond / Pulaski Park	State Park	Unnamed	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	1	0	0	N	Y	-71.43647676	41.63028383	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+795	795	NA	N	Cass Pond Fishing Access	Fishing / Boating	Cass	Woonsocket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	Y	-71.50445365	41.62355699	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+796	796	NA	N	Sylvester's Pond Fishing Access	Fishing / Boating	Woonsocket Hospital	Woonsocket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	Y	-71.46225323	41.61854718	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+797	797	1	Y	Olney Pond Fishing Access	Fishing / Boating	Stump Hill	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.62014999	41.58550697	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+798	798	1	Y	Bucks Horn Brook	Fishing / Boating	Lewis Farm	Coventry	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.29442513	41.56242548	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+800	800	1	Y	Deep Pond	Fishing / Boating	Deep Pond	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.17634002	41.50856225	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+801	801	1	Y	Falls River - Austin Farm	Fishing / Boating	Plain	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.42795478	41.5067444	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+802	802	1	Y	Lower Fall River	Fishing / Boating	Midway Rail	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.57801365	41.49799875	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+803	803	1	Y	Simon Jordan Fishing Access	Fishing / Boating	Brookie	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.44699872	41.49902696	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+804	804	1	Y	Upper Flat River	Fishing / Boating	Plain	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.37425685	41.49804935	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+805	805	1	Y	Lower Flat River	Fishing / Boating	Arcadia Man Area	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.30456748	41.4937964	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+806	806	1	Y	Frosty Hollow Pond	Fishing / Boating	Camp E-hun-tee	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.25128814	41.48707467	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+807	807	1	Y	Paris Brook	Fishing / Boating	Mount Tom	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.46517619	41.47392649	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+808	808	1	Y	Step Stone Falls	Fishing / Boating	Falls River	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.4943843	41.45002314	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+809	809	1	Y	Ponagansett	Fishing / Boating	Pine Tree	Foster	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.45267627	41.78778519	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+810	810	1	Y	Mechanic St	Fishing / Boating	Mechanic	Hopkinton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.39504461	41.78184439	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+811	811	1	Y	Simmons Mill Pond	Management Area	Colebrook	Little Compton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0	0	N	N	-71.49521566	41.42999465	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+812	812	1	Y	Carolina Trout Pond	Fishing / Boating	Coondog	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.78959053	41.42932441	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+813	813	1	Y	Meadow Brook At Carolina	Fishing / Boating	Pine Hill	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.83715285	41.39580591	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+814	814	1	Y	Deep Hole	Fishing / Boating	Matunuck Beach	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.8136654	41.37926287	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+815	815	NA	N	Nonquit Pond Fishing Access	Fishing / Boating	Pond Bridge	Tiverton	UTL	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.56047015	41.68325205	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+816	816	1	Y	Weekapaug Breachway	Fishing / Boating	Wawaloam	Westerly	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.53435098	41.72279187	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+817	817	1	Y	East Beach	Fishing / Boating	Beach	Charlestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	0	0	N	Y	-71.46824701	41.64935606	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+818	818	1	Y	Black Point	Fishing / Boating	Ocean	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	N	N	-71.5394764	41.94132229	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+819	819	NA	Y	Adamsville Brook	Conservation Area	Crandall	Tiverton	UTL	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.40862618	41.80817704	Adamsville Brook			No	tiny two car roadside parking area next fishing stream						NA		NA	
+820	820	NA	N	Tiverton Trout Pond	Fishing / Boating	Fish	Tiverton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.42726906	41.79179958	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+823	823	NA	N	Lower Melville Pond	Fishing / Boating	Unnamed	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.46428651	41.81609525	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+824	824	NA	N	McCorey Lane	Fishing / Boating	Mccorrie	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.31200683	41.49508267	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+825	825	NA	N	Upper Melville Pond Fishing Access	Fishing / Boating	Bradford	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.58085592	41.18125202	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+826	826	1	Y	Old Harbor Breakwater	Fishing / Boating	Water	New Shoreham	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.47124887	41.78388617	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+827	827	1	Y	East Beach	Local Park	Beach	New Shoreham	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	0	0	N	N	-71.36259614	41.84048732	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+828	828	1	Y	Mohegan Bluffs / South East Light Stairway	State Park	Spring	New Shoreham	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	Y	-71.30011856	41.52035688	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+829	829	1	Y	Burlingame Reservoir	Fishing / Boating	Elbow Rock	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	Y	-71.43885428	41.4894967	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+830	830	1	Y	Eight Rod Farm	Management Area	Eight Rod	Tiverton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0	0	N	N	-71.47588351	41.55818221	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+831	831	NA	N	Korea-Vietnam Vets Park	Local Park	Arnold	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.42909666	41.75034663	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+832	832	1	Y	Annawanscutt Fishing & Boating Access	Fishing / Boating	Viking	Bristol	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	N	-71.42223032	41.76161288	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+833	833	1	Y	Barberville Fishing And Boating Access	Fishing / Boating	Arcadia	Hopkinton	NGO	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	N	-71.74559219	41.3975898	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+834	834	1	Y	Gaspee Point	Fishing / Boating	Bay Shore	Warwick	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.57723701	41.67241752	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+835	835	1	Y	Locustville Pond	Fishing / Boating	Unnamed	Hopkinton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.37190392	41.87714021	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+836	836	1	Y	Longmeadow Fishing And Boating Access	Fishing / Boating	Dorr	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.36288407	41.86877296	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+837	837	1	Y	Stump Pond	Fishing / Boating	Log	Smithfield	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.4217078	41.76619956	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+838	838	1	Y	Gull Cove Fishing & Boating Access	Fishing / Boating	State 138	Portsmouth	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.68897904	41.68435829	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+839	839	1	Y	Festival Pier	Fishing / Boating	Tim Healey	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	N	-71.55948669	41.68292781	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+840	840	1	Y	Zeke's Bridge	Fishing / Boating	Harkney Hill	Coventry	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.2916822	41.69844881	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+841	841	1	N	George Washington Campground	State Park	George Washington	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	N	Y	-71.43536594	41.80953329	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+842	842	1	Y	Clarkville Pond	Fishing / Boating	Shepard	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	N	Y	-71.46131573	41.65581655	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+843	843	1	Y	Pascoag Reservoir Fishing Access	Fishing / Boating	Brandy Brook	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.32106441	41.74538983	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+844	844	1	Y	Lake Washington	Fishing / Boating	Lake Washington	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.52568369	41.68905829	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+845	845	1	Y	Moscow Pond	Fishing / Boating	Woody Hill	Hopkinton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.43686234	41.81907486	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+846	846	1	Y	Olney Pond	Fishing / Boating	Les Pawson Loop	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.52706763	41.98944276	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+847	847	1	Y	Carbuncle Pond	Fishing / Boating	Plainfield Pike	Coventry	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	N	N	-71.58681263	41.68621964	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+848	848	1	Y	JL Curran	State Park	Seven Mile	Cranston	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	1	0	0	0	N	N	-71.23396399	41.62577743	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+849	849	1	Y	Alton Pond Landing	Fishing / Boating	Alton Bradford	Hopkinton	PRV	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.25585338	41.51374185	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+850	850	1	Y	Ashville Pond	Fishing / Boating	Canonchet	Hopkinton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.39049528	41.82350245	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+851	851	1	Y	Tefft River Access	Fishing / Boating	Mechanic	Hopkinton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.46806477	41.68238115	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+852	852	1	Y	Beaver River Fishing Access	Fishing / Boating	Kingstown	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.534327	41.64096236	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+853	853	1	Y	Richmond Landing	Fishing / Boating	Church	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.45997314	41.61198247	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+854	854	1	Y	Asa Pond	Local Park	Galway	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.42350456	41.92908895	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+855	855	1	Y	Barber Pond	Fishing / Boating	Barber's Pond	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.38853317	41.90652434	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+856	856	1	Y	Narrow River	Fishing / Boating	Pollock	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.35998916	41.83300725	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+857	857	1	Y	Potowomut Pond	Fishing / Boating	Potowomut	Warwick	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.35672106	41.75397863	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+858	858	1	Y	Chapman Pond	Fishing / Boating	Town Landfill	Westerly	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	N	-71.49417606	41.45068969	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+859	859	1	Y	White Rock	Fishing / Boating	State 78	Westerly	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.44985754	41.62131921	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+860	860	1	Y	Breakhart Pond	Fishing / Boating	Austin Farm	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	N	N	-71.4503392	41.56654673	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+861	861	1	Y	Bradford Landing	Fishing / Boating	Main	Westerly	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.44572182	41.57219403	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+862	862	1	Y	Pleasant St Boat Launch	Fishing / Boating	Pleasant	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.44494143	41.66398368	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+863	863	1	N	Pond St Boat Launch	Fishing / Boating	Billington	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.48092302	41.63557156	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+864	864	1	N	Gooseberry Rd Boat Launch	Fishing / Boating	Gooseberry	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.19280863	41.66965736	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+865	865	1	Y	South Ferry Rd	Local Park	Ferry	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	N	N	-71.81475363	41.34578753	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+866	866	1	Y	Brickyard Pond	Fishing / Boating	Legion	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.62875066	41.48749445	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+867	867	NA	N	Sherman Ave	Fishing / Boating	Sherman	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	N	N	-71.4574364	41.69922648	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+869	869	1	Y	Tarkiln Pond	Fishing / Boating	Mowry	Burrillville	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.55643422	41.67772099	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+870	870	1	Y	Wallum Lake	Fishing / Boating	Shore	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.31445273	41.48736528	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+871	871	1	Y	Spring Lake	Fishing / Boating	Black Hut	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.42273108	41.80641112	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+872	872	1	Y	Wakefield Pond	Fishing / Boating	Lee	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.50656867	41.62625421	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+873	873	1	Y	Wilson Reservoir	Fishing / Boating	Wallum Lake	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.48843669	41.61801879	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+874	874	1	Y	Barton C. Hurley Landing	Fishing / Boating	Sanctuary	Charlestown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.2513151	41.51054907	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+875	875	1	Y	Roaring Brook Pond	Fishing / Boating	Teft Hill	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.28565404	41.48954801	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+876	876	1	Y	Wood River @ Route 165	Fishing / Boating	Ten Rod	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	1	0	0	N	N	-71.51863091	41.98285634	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+877	877	1	Y	Keech Pond	Fishing / Boating	Indian	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.40153375	41.86686674	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+878	878	1	Y	Smith & Sayles Reservoir	Fishing / Boating	Point	Glocester	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.38202169	41.87954341	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+879	879	1	Y	Switch Rd Canoe Access	Fishing / Boating	Hope Valley	Hopkinton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.38575421	41.86938453	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+880	880	1	Y	Sakonnet Point	Fishing / Boating	Sakonnet Point	Little Compton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.41366516	41.82502027	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+881	881	1	Y	Galilee Boat Ramp	Fishing / Boating	Great Island	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.41694241	41.81978802	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+882	882	1	Y	Narrow River Canoe Access	Fishing / Boating	Boston Neck	Narragansett	FED	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.42959901	41.81097863	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+883	883	1	Y	Pettaquamscutt Pond	Fishing / Boating	Gilbert Stuart	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.41385479	41.82219045	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+884	884	1	Y	Wyoming Dam	Fishing / Boating	Bridge	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.41982898	41.8107341	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+885	885	1	Y	Indian Lake Boat Ramp	Fishing / Boating	Indian	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.43124453	41.82246751	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+886	886	1	Y	Biscuit City	Fishing / Boating	Biscuit City	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.40812108	41.82956203	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+887	887	1	Y	Taylors Landing	Fishing / Boating	Kingstown	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.40843902	41.82589535	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+888	888	1	Y	Tucker Pond	Fishing / Boating	Tuckertown	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.4079841	41.83946628	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+889	889	1	Y	Worden Pond Boat Launch	Fishing / Boating	Worden's Pond	South Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.45684797	41.80653272	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+890	890	1	Y	Stafford Pond	Fishing / Boating	Old Stafford Rd	Tiverton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.42042743	41.85160036	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+891	891	1	Y	Main Street Boat Ramp	Fishing / Boating	Main	Westerly	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.41643669	41.82256082	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+892	892	1	Y	Haines Park Boat Ramp	Fishing / Boating	Beach Point	East Providence	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	Y	-71.4301248	41.83490453	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+893	893	1	Y	Browning Mill Pond	Fishing / Boating	K And G Ranch	Richmond	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.48212323	41.45229882	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+894	894	1	Y	Monahan's Dock Fishing And Boating Access	Fishing / Boating	Ocean	Narragansett	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.51911571	41.70654058	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+895	895	1	Y	Big River @ Burnt Saw Mill Rd	Fishing / Boating	Burnt Sawmill	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.51488972	41.68590113	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+896	896	1	Y	Big River@ Weaver Hill Road	Fishing / Boating	Weaver Hill Road	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.52357398	41.69825259	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+897	897	1	Y	Tarbox Pond	Fishing / Boating	Hopkins Hill	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.68772598	41.96817607	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+898	898	1	Y	Hopkins Mill Pond	Fishing / Boating	Winsor	Foster	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.83411245	41.38957284	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+899	899	1	Y	Wood River Fishing Access @ Chariho Little League	Fishing / Boating	Nooseneck Hill	Hopkinton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.68793417	41.36110673	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+900	900	1	Y	Pawtuxet River Fishing Access	Fishing / Boating	Hope Furnace	Scituate	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.49392489	41.3892169	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+902	902	1	Y	Harrisville Pond Fishing Access	Fishing / Boating	Sherman Farm	Burrillville	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.45180621	41.69394837	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+903	903	1	Y	Bellville Pond	Fishing / Boating	Oak Hill	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	N	Y	-71.40759351	41.78223708	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+904	904	1	Y	Weaver Cove	Fishing / Boating	Unnamed	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	N	-71.2654819	41.71998813	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+905	905	1	N	Fogland Boat Launch	Fishing / Boating	Fogland	Tiverton	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.30757584	41.73987804	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+906	906	1	Y	State Street Boat Launch	Fishing / Boating	State	Bristol	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.46801657	41.83044779	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+907	907	1	Y	Town Dock	Fishing / Boating	Water	Warren	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.46141549	41.97454242	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+910	910	1	Y	Central Falls Landing	Local Park	Broad	Central Falls	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	N	-71.66116598	41.96745092	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+911	911	1	Y	Willet Pond	Fishing / Boating	Willett	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	Y	-71.68173178	41.97035423	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+912	912	1	Y	Homestead Boat Ramp	Fishing / Boating	Narragansett	Portsmouth	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.44909281	41.96418935	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+913	913	1	Y	Charlestown Beach Kayak Launch	Fishing / Boating	Charlestown Beach	Charlestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.46847795	41.96329052	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+914	914	1	Y	High Banks	Fishing / Boating	Summit	Exeter	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.42746977	41.9469985	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+915	915	1	Y	Simmons Mill Pond	Fishing / Boating	Colebrook	Little Compton	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.40279258	41.92814501	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+916	916	1	Y	Corliss Landing	Local Park	Water	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	Y	N	-71.39502326	41.9089914	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+917	917	1	N	Collier Park Ramp	Fishing / Boating	Henderson	Providence	UTL	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	N	N	-71.50394691	41.89886084	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+918	918	1	Y	Tillinghast Pond	Fishing / Boating	Plain	West Greenwich	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	N	N	-71.54341011	41.88348055	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+919	919	1	Y	High Rocks Gorge	Conservation Area	Harkness	North Smithfield	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	N	N	-71.51172625	41.8823443	High Rocks Gorge	"The Blackstone river tumbles a quarter mile down this rocky gorge.  Access if from Blackstone, MA. Very dramatic at highwater."		Yes		Yes	No	No	No	No	NA	DEM Parks & Recreaion (401) 667-6200	NA	
+920	920	1	Y	Oakland Forest	Conservation Area	Oakland Farm	Portsmouth	NGO	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Y	N	-71.54110078	41.88148146	Oakland Forest										NA		NA	
+921	921	1	Y	Rose Nulman Memorial Park	Local Park	Ocean	Narragansett	PRV	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	N	N	-71.37182855	41.87530182	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+922	922	NA	N	Queen Ann Park	Local Park	Church	Newport	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.40139141	41.87454493	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+923	923	NA	N	Peace & Plenty Park	Local Park	Peace Street	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.450707	41.86898437	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+924	924	NA	N	Coventry Middle School	School	Foster Dr	Coventry	SCH	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.39626326	41.86854946	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+925	925	NA	N	Rec Office Playground	Local Park	Frenchtown	East Greenwich	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45812492	41.8590596	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+926	926	NA	N	Sun Valley Playground	Local Park	Pequot	East Greenwich	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.47685579	41.85730518	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+927	927	1	Y	Briggs/Boesch Farm	Conservation Area	South	East Greenwich	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	N	N	-71.39336992	41.84058839	Boesch Farm			No	no parking or developed trails						NA		NA	
+928	928	1	N	Scalloptown Park	Conservation Area	Crompton	East Greenwich	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	N	N	-71.48765616	41.83846207	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+929	929	NA	Y	Ten Mile River Greenway	Local Park	Ferris	East Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	N	N	-71.54750651	41.83452776	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+930	930	NA	N	Demery Park	Local Park	Riverview	Middletown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.47736886	41.81727159	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+931	931	NA	N	Dunlap Wheeler Park	Local Park	Purgatory	Middletown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45627961	41.81672819	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+932	932	NA	Y	Paradise Valley ParK	Local Park	Prospect	Middletown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	N	N	-71.43764075	41.81743124	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+933	933	NA	N	Wyatt Road Soccer Complex	Athletic Facility	Wyatt	Middletown	MUN	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.73156596	41.81411222	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+934	934	NA	N	Robert Douglas Field	Athletic Facility	Wellington	Newport	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.4787441	41.77528967	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+935	935	NA	N	Hogan Field	Athletic Facility	Wellington	Newport	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45024389	41.76180698	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+936	936	NA	N	Pop Flack Courts	Athletic Facility	King	Newport	MUN	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.29434247	41.75711812	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+938	938	1	N	Pleasant Street Boat Ramp	Fishing / Boating	Pleasant	North Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	N	N	-71.41495135	41.75586405	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+939	939	1	Y	Lee Romano Field	Athletic Facility	Greystone	North Providence	MUN	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	N	N	-71.38999155	41.75265727	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+940	940	NA	N	Bushee Playground	Local Park	Merrimac	North Smithfield	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.41301743	41.74768183	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+941	941	NA	N	Halliwell School Playground	School	Victory Highway	North Smithfield	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.33242448	41.74534637	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+942	942	NA	N	Newell Ave Playground	Local Park	Newell	Pawtucket	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.40443365	41.74388046	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+943	943	NA	N	Cunningham Elementary School Playground	School	Baldwin	Pawtucket	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.40664291	41.73954162	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+944	944	NA	N	Veterans Park Amphitheater	Local Park	Roosevelt	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.26663764	41.73001578	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+945	945	NA	N	Curtis Elementary School	School	Benefit	Pawtucket	SCH	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39866987	41.72867944	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+946	946	NA	N	Perez Park	Local Park	Pleasant	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.30706734	41.73025596	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+947	947	NA	Y	Hodgson Rotary Park	Local Park	Roosevelt	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.39683593	41.71786742	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+948	948	NA	Y	Bank of Americal City Center	Local Park	Kennedy Plaza	Providence	MUN	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	N	N	-71.45539268	41.71108495	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+949	949	NA	N	Biltmore Park	Local Park	Kennedy Plaza	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.48662127	41.70531288	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+950	950	NA	N	Cathedral Square	Local Park	Jackson Walkway	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.42203014	41.70706491	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+951	951	NA	N	Diamond St Playground	Local Park	Diamond	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.59170702	41.70385217	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+952	952	NA	N	Freeman Park	Local Park	Westminster	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.49099389	41.69957752	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+953	953	NA	N	Jacqueline Clements Park	Local Park	Dudley	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43920798	41.6988974	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+954	954	NA	N	Knight St. Park	Local Park	Knight	Providence	MUN	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.28095052	41.69816692	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+955	955	NA	N	M.E. Sharpe Memorial Park	Local Park	Benefit St	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.68848467	41.69654565	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+956	956	NA	N	Market Square	Local Park	North Main St	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	Y	-71.37711083	41.69006459	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+957	957	NA	N	Mount Pleasant Little League	Athletic Facility	Mount Pleasant	Providence	MUN	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.54224796	41.67655598	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+958	958	NA	N	Pleasant St. Park	Local Park	Pleasant	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.56107626	41.67387228	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+959	959	NA	N	Silver Lake Memorial Park	Local Park	Pocasset	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.45531771	41.6405321	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+960	960	NA	N	St Ann's Plaza	Local Park	Charles	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.15909938	41.62908974	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+961	961	NA	N	Trinity Mews	Local Park	Fountain	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.16397956	41.63020928	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+962	962	NA	N	Tom Twitchell Greenway	Local Park	Oakland	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.25832691	41.61851313	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+963	963	NA	N	Broad Rock Playfields	Local Park	Broad Rock	South Kingstown	MUN	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.24502913	41.6163925	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+964	964	NA	Y	South Kingstown Dog Park	Local Park	Broad Rock	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.43831518	41.61502839	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+965	965	NA	N	Factory St. Playground	Local Park	Factory	West Warwick	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.46742524	41.61244004	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+966	966	NA	N	Carlson Circle Park	Local Park	Carlson	West Warwick	MUN	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.63884314	41.61312143	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+967	967	NA	N	Brookside Ave Playground	Local Park	Brookside	West Warwick	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N	N	-71.48599283	41.593964	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+968	968	NA	N	Bradford Preserve	Conservation Area	Westerly-Bradford Rd	Westerly	MUN	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.27086492	41.58343285	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+969	969	1	Y	Washington Secondary Bikepath	Local Park	Log Bridge	Coventry	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	N	N	-71.45680727	41.56856375	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+970	970	1	N	Town Recreation Center aka The Camp	Local Park	Clarke Rd	Narragansett	MUN	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	N	N	-71.46162937	41.56729706	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+971	971	NA	Y	Riverside Park	Local Park	Aleppo	Providence	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	1	N	N	-71.28698171	41.5555364	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+972	972	NA	Y	South County Bike Path	Local Park	Main	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	N	N	-71.44120977	41.54689165	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+973	973	NA	Y	South County Bike Path	Local Park	Railroad	South Kingstown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	N	N	-71.25842113	41.5459806	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+974	974	1	Y	Blackstone Bikeway	State Park	John	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.29088777	41.5400607	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+975	975	1	Y	Blackstone Bikeway	State Park	Lower River	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.29987265	41.52320022	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+976	976	1	Y	Blackstone Bikeway	State Park	Rte 295	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	N	N	-71.27790952	41.52029125	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+977	977	1	Y	Blackstone Bikeway	State Park	School	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.30053561	41.51072357	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+978	978	1	Y	Blackstone Bikeway	State Park	New River	Lincoln	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.30486676	41.50843689	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+979	979	1	Y	Blackstone Bikeway	State Park	Davison Ext	Woonsocket	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	N	N	-71.66181051	41.50089657	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+980	980	NA	Y	Ten Mile River Greenway	Local Park	Slater Memorial Park	Pawtucket	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	N	N	-71.31037141	41.50074988	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+981	981	1	Y	East Bay Bike Path	State Park	Veterans Parkway	East Providence	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.28116775	41.49660451	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+982	982	1	Y	East Bay Bike Path	State Park	Bullocks Point	East Providence	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.30819303	41.49470019	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+983	983	1	Y	East Bay Bike Path	Local Park	Metropolitan Park	Barrington	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	N	N	-71.550471	41.4781752	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+984	984	1	Y	East Bay Bike Path	State Park	Asylum	Bristol	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.49368144	41.44556972	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+985	985	NA	Y	Washington Secondary Bikepath	Local Park	Depot	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.49519909	41.44526431	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+986	986	NA	Y	Washington Secondary Bikepath	Local Park	Oak	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.49983044	41.45405321	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+987	987	NA	Y	Washington Secondary Bikepath	Local Park	Sherman	Cranston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.7915734	41.41998324	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+988	988	NA	Y	Washington Secondary Bikepath	Local Park	West Natick	Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.82422052	41.36603152	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+989	989	NA	Y	Washington Secondary Bikepath	Local Park	Hay	West Warwick	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.77431528	41.34691289	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+990	990	NA	Y	Washington Secondary Bikepath	Local Park	Pilgrim	Coventry	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.56102418	41.16488715	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+991	991	1	Y	Washington Secondary Bikepath	Local Park	Pinehaven	Coventry	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.40063811	41.69863287	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+992	992	1	Y	Quonset Bike Path	Local Park	Newcomb	North Kingstown	STA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.35214467	41.88180895	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+993	993	NA	Y	Fred Lippitt Woonasquatucket River Greenway	Local Park	Valley	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.36901964	41.79899575	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+994	994	NA	Y	Fred Lippitt Woonasquatucket River Greenway	Local Park	Aleppo	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.37955185	41.49968831	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+995	995	NA	Y	Fred Lippitt Woonasquatucket River Greenway	Local Park	Manton	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.28821814	41.51676997	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+996	996	NA	Y	Fred Lippitt Woonasquatucket River Greenway	Local Park	Goldsmith	Johnston	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	N	N	-71.52038456	41.46087262	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+997	997	NA	N	Burrillville Skate Park	Local Park	Chapel	Burrillville	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.46411821	41.6841921	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+998	998	NA	N	Canal Street Park	Local Park	Canal	Westerly	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.52409948	41.69050328	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+999	999	NA	N	Mud Cove	Local Park	Meadow	Charlestown	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.37074364	41.87694328	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1000	1000	NA	N	Knowlesway Extension	Local Park	Knowlesway	Narragansett	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.67575917	41.93865755	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1001	1001	NA	N	Arnolds Neck Park	Local Park	Hallworth	Warwick	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Y	N	-71.4480303	41.78921609	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1002	1002	NA	N	Roger Williams Park Horticultural Center	Local Park	Floral	Providence	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	Y	N	-71.43938253	41.76632966	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1003	1003	NA	N	Meeting Street Field	Athletic Facility	Haswell	Providence	MUN	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.39628841	41.77446202	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1005	1005	1	N	Woonsocket Municipal Soccer Complex	Athletic Facility	Davison	Woonsocket	MUN	1	0	4	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	1	1	1	1	Y	N	-71.4159086	41.75757305	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1006	1006	NA	N	Thomas Duffy Athletic Complex	Athletic Facility	Newport	Pawtucket	MUN	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Y	N	-71.82847905	41.40149765	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1007	1007	NA	N	Homestead Playground	Local Park	Homestead	Warren	MUN	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.56246642	41.6959553	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1008	1008	NA	N	Civic Center Historic Park	Local Park	County	Barrington	MUN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.56847608	42.00187135	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1009	1009	NA	N	Hedley Ave Tot Lot	Local Park	Hedley Ave	Johnston	MUN	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Y	N	-71.40071507	41.87527709	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1010	1010	NA	N	Johnston Community Park	Athletic Facility	Atwood	Johnston	MUN	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Y	N	-71.34726642	41.89279514	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Local Park	Larchwood	Warwick	Municipal	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	N	N	-71.45593385	41.82464247	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA					
