@@ -49,8 +49,8 @@ def calc_walking(df):
 
 def calc_running(df):
     """
-    If 'Track' or Walking Path' == 1, Running = Y
-    From @theryankelly: 
+    If 'Track' or Walking Path' == 1, Running = Y Issue #9
+    From @theryankelly in: 
 
     Current Flag for Running Includes 1 or > from fields:
     "Walking Path"
