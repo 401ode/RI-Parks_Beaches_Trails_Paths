@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/401ode/RI-Recreational-Areas.png?label=ready&title=Ready)](https://waffle.io/401ode/RI-Recreational-Areas)
 # Rhode Island Parks, Beaches, Trails, Paths
 ## Running Collection of Rhode Island Park, Beach, Trail, and Paths
 
