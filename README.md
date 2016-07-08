@@ -30,6 +30,7 @@
 * [VisitRI Trails/Paths](https://www.visitrhodeisland.com/what-to-do/parks/)
 * [VisitRI Heritage Trails](https://www.visitrhodeisland.com/what-to-do/heritage-trails/)
 * [RI Shoreline](http://www.shoreline-ri.com/#)
+* [OhRanger.com] http://www.ohranger.com/state/rhodeislan)
 
 ### Open Trails
 
