@@ -4,12 +4,12 @@ from bs4 import BeautifulSoup
 import requests
 
 
-def replace_boolean_values(series):
+def replace_boolean_values(series=pd.Series):
     """
     A convenience DRY method to accommodate the needs of Google Sheets/JavaScript. 
     """
-    series = series.replace(False, "N")
-    series = series.replace(True, "F")
+    series = series.replace(False, """'no'""")
+    series = series.replace(True, """'yes'""")
     return series
 
 
@@ -80,6 +80,20 @@ def calc_running(df):
     df["Running"] replace_boolean_values(df["Running"])
     return df
 
+def calc_biking(df):
+    """
+    GitHub Issue #11 per @theryankelly:
+        Current Flag for Running (calc_running method above) Includes 1 or > from field: "Bike Path"
+
+    Interesting problem because it's yes if either: 
+        1) a calculated field/column contains 'yes'
+        2) a base column contains 1.
+
+    Easiest answer is to convert/replace 1/0 for 'yes'/'no' for Bike Path. 
+
+    """
+
+
 def filter_all_n(df):
     """
     GitHub Issue #15
@@ -87,3 +101,6 @@ def filter_all_n(df):
 
     """
     
+
+
+def save_output(df):
