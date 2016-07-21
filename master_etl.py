@@ -12,19 +12,41 @@ def replace_boolean_values(series=pd.Series):
     series = series.replace(True, """'yes'""")
     return series
 
+def replace_binary_values(series=pd.Series):
+    """
+    A convenience DRY method to accommodate the needs of Google Sheets/JavaScript. 
+    """
+    series = series.replace(0, """'no'""")
+    series = series.replace(1, """'yes'""")
+    return series
 
-def load_master():
-    scorp_master = r"State Comprehensive Outdoor Recreation Plan Inventory of Facilities\SCORP_FILTER_GEO.xlsx"
-    sg = pd.read_excel(scorp_master)
-    return sg
+def load_master_initial_merge():
+    """
+    GitHub Issue #3:
+    Initial merge is Master SCORP .csv  + GEO .xlsx file. Logic should pull street type and address fields from Geo and overwrite master. 
+
+    """
+    scorp_master_file = r"State Comprehensive Outdoor Recreation Plan Inventory of Facilities\MasterSCORP_Base.xlsx"
+    geo_master_file = r"State Comprehensive Outdoor Recreation Plan Inventory of Facilities\SCORP_FILTER_GEO.xlsx"
+    # State index_col so that data matches correctly.
+    sm = pd.read_excel(scorp_master, index_col="OBJECTID")
+    gm = pd.read_excel(geo_master_file, index_col="OBJECTID")
+    # Take Street type, street, town from geo, where available. 
+    sm["Street_Type"] = gm["Street_Type"]
+    sm["Street"] = gm["Street"]
+    sm['Town'] = gm['Town']
+
+    # Export MasterSCORP_Updated.csv to be new master, then return the dataframe to whomeever called it. 
+    export_filename = r"State Comprehensive Outdoor Recreation Plan Inventory of Facilities\MasterSCORP_Updated.csv"
+    sm.to_csv(export_filename)
+    return sm
 
 
 def calc_swimming(df):
-	"""
-    GitHub Issue #6
-    If pool or beach == 1, 'Swimming' = Y.
     """
-    
+    GitHub Issue #6
+    If pool or beach == 1, 'Swimming' = Y. """
+
     df["swimming"] = df[["Pool","Beach"]] == 1
     df["swimming"] = replace_boolean_values(df["swimming"])
     return df
@@ -76,8 +98,11 @@ def calc_running(df):
     May need to create a running path column beforehand that selects out the walking paths and trails suitable for running. Currently, Cliff Walk (a walking path flag) is but should not be a running path.
 
     """
-    df["Running"] = df[["Walking Path", "Track", "Bike Path", "Trails"]] == 1
-    df["Running"] replace_boolean_values(df["Running"])
+    # df["Running"] = df[["Walking Path", "Track", "Bike Path", "Trails"]] == 1
+    df["Running"] = df["Walking Path"].combine_first(df["Track"] == 1)
+    df["Running"] = df["Running"].combine_first(df["Bike Path"] == 1)
+    df["Running"] = df["Running"].combine_first(df["Trails"] == 1)
+    df["Running"] = replace_boolean_values(df["Running"])
     return df
 
 def calc_biking(df):
@@ -89,9 +114,13 @@ def calc_biking(df):
         1) a calculated field/column contains 'yes'
         2) a base column contains 1.
 
-    Easiest answer is to convert/replace 1/0 for 'yes'/'no' for Bike Path. 
+    Easiest answer is to convert/replace 1/0 for 'yes'/'no' for Bike Path. Added DRY method up top. 
 
     """
+    df["Bike Path"] = replace_binary_values(df["Bike Path"])
+    df["Biking"] = df["Running"].combine_first(df["Bike Path"].str.contains('yes'))
+
+    return df
 
 
 def filter_all_n(df):
@@ -103,4 +132,8 @@ def filter_all_n(df):
     
 
 
-def save_output(df):
+# def save_new_go_ri(df):
+
+
+
+load_master_initial_merge()
