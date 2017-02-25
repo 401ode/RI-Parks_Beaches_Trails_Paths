@@ -15,6 +15,7 @@
 ### Current State Resources Identified
 
 * [TEST SITE SCORP Park Data] (https://designist.github.io/Parks/index.html)
+* [GreatOutdoorsRI](http://ridemgis.maps.arcgis.com/apps/webappviewer/index.html?id=e95b2c324fc446d28a44538b0ad056c7)
 * [Explore RI](http://www.exploreri.org/gtraillist.php)
 * [RI State Parks](http://www.riparks.com/index.html)
 * [RI State Park Point Map](http://www.riparks.com/FindALocation.html)
